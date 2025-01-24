@@ -3,6 +3,7 @@ using UnityEngine;
 public class CollectorController : MonoBehaviour
 {
     private float size = 1f;
+    public float Size { get { return size; } }
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {

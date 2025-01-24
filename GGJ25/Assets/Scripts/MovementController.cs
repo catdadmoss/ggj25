@@ -3,6 +3,7 @@ using UnityEngine;
 public class MovementController : MonoBehaviour
 {
     private Rigidbody2D rigidBody;
+    private CollectorController collectorController;
     [SerializeField] private float rollSpeed;
     [SerializeField] private float jumpForce;
     private bool isFloored=false;
@@ -10,6 +11,7 @@ public class MovementController : MonoBehaviour
     void Start()
     {
         rigidBody= GetComponent<Rigidbody2D>();
+        collectorController = GetComponent<CollectorController>();
     }
 
     private void OnCollisionEnter2D(Collision2D collision)
@@ -30,10 +32,10 @@ public class MovementController : MonoBehaviour
     void FixedUpdate()
     {
         var horizontalInput = new Vector3(Input.GetAxis("Horizontal"),0f,0f);
-        rigidBody.AddForce(horizontalInput*rollSpeed*Time.fixedDeltaTime);
+        rigidBody.AddForce(horizontalInput*rollSpeed*Time.fixedDeltaTime*collectorController.Size);
         if(isFloored && Input.GetButtonDown("Jump") )
         {
-            rigidBody.AddForce(Vector2.up*jumpForce);
+            rigidBody.AddForce(Vector2.up*jumpForce*collectorController.Size);
         }
     }
 }

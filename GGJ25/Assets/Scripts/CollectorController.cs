@@ -14,8 +14,10 @@ public class CollectorController : MonoBehaviour
     {
         if (collision.gameObject.CompareTag("Collectible"))
         {
+
             if (collision.transform.localScale.magnitude <= size)
             {
+                //collision.collider.gameObject.GetComponent<SpringJoint2D>().connectedBody = collision.otherCollider.attachedRigidbody;
                 collision.transform.parent = transform;
                 size += collision.transform.localScale.magnitude;
                 GameController.Instance.UpdateScore(size);

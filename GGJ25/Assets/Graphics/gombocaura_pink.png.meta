@@ -1,0 +1,6842 @@
+fileFormatVersion: 2
+guid: c8b644bec279dd248b3bac3970a0f67f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5938979345387291146
+    second: gombocaura_pink_0
+  - first:
+      213: -5106532853314974144
+    second: gombocaura_pink_1
+  - first:
+      213: -5456484802472072789
+    second: gombocaura_pink_2
+  - first:
+      213: 8745317104722956831
+    second: gombocaura_pink_3
+  - first:
+      213: -2027472378452858227
+    second: gombocaura_pink_4
+  - first:
+      213: 1835537616772732062
+    second: gombocaura_pink_5
+  - first:
+      213: -4930900014683445625
+    second: gombocaura_pink_6
+  - first:
+      213: -1585042183136606119
+    second: gombocaura_pink_7
+  - first:
+      213: 4490489019527525988
+    second: gombocaura_pink_8
+  - first:
+      213: -3994457178094788963
+    second: gombocaura_pink_9
+  - first:
+      213: 3031924675354368981
+    second: gombocaura_pink_10
+  - first:
+      213: 9129501868090693146
+    second: gombocaura_pink_11
+  - first:
+      213: 3704724877795814421
+    second: gombocaura_pink_12
+  - first:
+      213: -5172091580247118409
+    second: gombocaura_pink_13
+  - first:
+      213: 7069502746960610537
+    second: gombocaura_pink_14
+  - first:
+      213: 8253787607284078568
+    second: gombocaura_pink_15
+  - first:
+      213: -8929497208741479324
+    second: gombocaura_pink_16
+  - first:
+      213: 8207473634900162555
+    second: gombocaura_pink_17
+  - first:
+      213: -8536593180524077479
+    second: gombocaura_pink_18
+  - first:
+      213: -5753997370316982230
+    second: gombocaura_pink_19
+  - first:
+      213: -9193485268370207887
+    second: gombocaura_pink_20
+  - first:
+      213: -2030840359104371448
+    second: gombocaura_pink_21
+  - first:
+      213: 5410864122002874146
+    second: gombocaura_pink_22
+  - first:
+      213: -6305252223576841414
+    second: gombocaura_pink_23
+  - first:
+      213: 6748445733380964957
+    second: gombocaura_pink_24
+  - first:
+      213: -2229484117132508323
+    second: gombocaura_pink_25
+  - first:
+      213: -6226159957239441126
+    second: gombocaura_pink_26
+  - first:
+      213: 4233107742273873533
+    second: gombocaura_pink_27
+  - first:
+      213: -3612817179376638309
+    second: gombocaura_pink_28
+  - first:
+      213: 1531559899025860399
+    second: gombocaura_pink_29
+  - first:
+      213: 7319773625555122291
+    second: gombocaura_pink_30
+  - first:
+      213: -3801255854516110739
+    second: gombocaura_pink_31
+  - first:
+      213: -1579034303273525081
+    second: gombocaura_pink_32
+  - first:
+      213: 5178788516673964579
+    second: gombocaura_pink_33
+  - first:
+      213: -7207856583881752332
+    second: gombocaura_pink_34
+  - first:
+      213: -358849228476167092
+    second: gombocaura_pink_35
+  - first:
+      213: 1387334693449659274
+    second: gombocaura_pink_36
+  - first:
+      213: 4014857769823898577
+    second: gombocaura_pink_37
+  - first:
+      213: 4944437265044436721
+    second: gombocaura_pink_38
+  - first:
+      213: 6977690348494043300
+    second: gombocaura_pink_39
+  - first:
+      213: 5160621306854504913
+    second: gombocaura_pink_40
+  - first:
+      213: -3102440629310617429
+    second: gombocaura_pink_41
+  - first:
+      213: 7298521709034851009
+    second: gombocaura_pink_42
+  - first:
+      213: 8690176901555682103
+    second: gombocaura_pink_43
+  - first:
+      213: 4668324466046092342
+    second: gombocaura_pink_44
+  - first:
+      213: -4845857959872829186
+    second: gombocaura_pink_45
+  - first:
+      213: -8462970448150697507
+    second: gombocaura_pink_46
+  - first:
+      213: -3390695472186602496
+    second: gombocaura_pink_47
+  - first:
+      213: -4328294314345800921
+    second: gombocaura_pink_48
+  - first:
+      213: -9154066571513228566
+    second: gombocaura_pink_49
+  - first:
+      213: 6718689014125768018
+    second: gombocaura_pink_50
+  - first:
+      213: 2140100925831386337
+    second: gombocaura_pink_51
+  - first:
+      213: 2426019780229312299
+    second: gombocaura_pink_52
+  - first:
+      213: 5955890371234259215
+    second: gombocaura_pink_53
+  - first:
+      213: -5983166218426299564
+    second: gombocaura_pink_54
+  - first:
+      213: -3948727510858092291
+    second: gombocaura_pink_55
+  - first:
+      213: -3869775633279200308
+    second: gombocaura_pink_56
+  - first:
+      213: -8483149284390258358
+    second: gombocaura_pink_57
+  - first:
+      213: -7139607518654307563
+    second: gombocaura_pink_58
+  - first:
+      213: 9134786155542032302
+    second: gombocaura_pink_59
+  - first:
+      213: 5933914824913284690
+    second: gombocaura_pink_60
+  - first:
+      213: -7927366793277053352
+    second: gombocaura_pink_61
+  - first:
+      213: -4565797498548056102
+    second: gombocaura_pink_62
+  - first:
+      213: -211394490697975757
+    second: gombocaura_pink_63
+  - first:
+      213: -1869577807349797447
+    second: gombocaura_pink_64
+  - first:
+      213: 393134614663808792
+    second: gombocaura_pink_65
+  - first:
+      213: 7730561984055390425
+    second: gombocaura_pink_66
+  - first:
+      213: -8592967581501446255
+    second: gombocaura_pink_67
+  - first:
+      213: 643418214732143714
+    second: gombocaura_pink_68
+  - first:
+      213: 8747859857312982132
+    second: gombocaura_pink_69
+  - first:
+      213: -7597984272075664976
+    second: gombocaura_pink_70
+  - first:
+      213: -2019278283621718924
+    second: gombocaura_pink_71
+  - first:
+      213: 8960337120307872172
+    second: gombocaura_pink_72
+  - first:
+      213: 2327967514969811242
+    second: gombocaura_pink_73
+  - first:
+      213: -8005184491933817199
+    second: gombocaura_pink_74
+  - first:
+      213: 1417092779719230380
+    second: gombocaura_pink_75
+  - first:
+      213: 5446134842684450647
+    second: gombocaura_pink_76
+  - first:
+      213: 5961284371677148427
+    second: gombocaura_pink_77
+  - first:
+      213: -8465545975412167149
+    second: gombocaura_pink_78
+  - first:
+      213: -2098127593070898883
+    second: gombocaura_pink_79
+  - first:
+      213: -3013390741960484525
+    second: gombocaura_pink_80
+  - first:
+      213: 7866706305404921967
+    second: gombocaura_pink_81
+  - first:
+      213: -4478661812230926986
+    second: gombocaura_pink_82
+  - first:
+      213: -692261182466051284
+    second: gombocaura_pink_83
+  - first:
+      213: 8659228439289321033
+    second: gombocaura_pink_84
+  - first:
+      213: -5386807445933098971
+    second: gombocaura_pink_85
+  - first:
+      213: -4704564428389633938
+    second: gombocaura_pink_86
+  - first:
+      213: 9190900649373485414
+    second: gombocaura_pink_87
+  - first:
+      213: -5985640199482079597
+    second: gombocaura_pink_88
+  - first:
+      213: -8780757283523679622
+    second: gombocaura_pink_89
+  - first:
+      213: 8268887579435700013
+    second: gombocaura_pink_90
+  - first:
+      213: -2634491225438031813
+    second: gombocaura_pink_91
+  - first:
+      213: 1394658287315377314
+    second: gombocaura_pink_92
+  - first:
+      213: 784535386604174912
+    second: gombocaura_pink_93
+  - first:
+      213: -1077575184711501434
+    second: gombocaura_pink_94
+  - first:
+      213: 1355876227054310604
+    second: gombocaura_pink_95
+  - first:
+      213: 9023910265102864111
+    second: gombocaura_pink_96
+  - first:
+      213: -5543482160587325253
+    second: gombocaura_pink_97
+  - first:
+      213: -1660072022283305948
+    second: gombocaura_pink_98
+  - first:
+      213: 7807646714965711326
+    second: gombocaura_pink_99
+  - first:
+      213: -1560833562829802209
+    second: gombocaura_pink_100
+  - first:
+      213: -4247327063769171134
+    second: gombocaura_pink_101
+  - first:
+      213: -1642077241445383471
+    second: gombocaura_pink_102
+  - first:
+      213: -9147765733743326823
+    second: gombocaura_pink_103
+  - first:
+      213: 9167800335552678135
+    second: gombocaura_pink_104
+  - first:
+      213: -3829518252886214605
+    second: gombocaura_pink_105
+  - first:
+      213: 5078308876465792322
+    second: gombocaura_pink_106
+  - first:
+      213: 1503826267634765485
+    second: gombocaura_pink_107
+  - first:
+      213: 457820173094732755
+    second: gombocaura_pink_108
+  - first:
+      213: 5864903533506703705
+    second: gombocaura_pink_109
+  - first:
+      213: -1159153746439194768
+    second: gombocaura_pink_110
+  - first:
+      213: -4539735562770738036
+    second: gombocaura_pink_111
+  - first:
+      213: 3842748630433778228
+    second: gombocaura_pink_112
+  - first:
+      213: -4849022556810904143
+    second: gombocaura_pink_113
+  - first:
+      213: -3633531864392262500
+    second: gombocaura_pink_114
+  - first:
+      213: -1095395396261358545
+    second: gombocaura_pink_115
+  - first:
+      213: 4566584326696167982
+    second: gombocaura_pink_116
+  - first:
+      213: 1054499644513689690
+    second: gombocaura_pink_117
+  - first:
+      213: -1153128590259292321
+    second: gombocaura_pink_118
+  - first:
+      213: 3486581361655926167
+    second: gombocaura_pink_119
+  - first:
+      213: 2772132531369033975
+    second: gombocaura_pink_120
+  - first:
+      213: 2038191819510420342
+    second: gombocaura_pink_121
+  - first:
+      213: -8714997826678324745
+    second: gombocaura_pink_122
+  - first:
+      213: 6128022056928520535
+    second: gombocaura_pink_123
+  - first:
+      213: 6832163979602337635
+    second: gombocaura_pink_124
+  - first:
+      213: 7588113266019144794
+    second: gombocaura_pink_125
+  - first:
+      213: -8267494869038964150
+    second: gombocaura_pink_126
+  - first:
+      213: 8262129632130556635
+    second: gombocaura_pink_127
+  - first:
+      213: -5201580033491984604
+    second: gombocaura_pink_128
+  - first:
+      213: -6340816842378437233
+    second: gombocaura_pink_129
+  - first:
+      213: 2151878046629725202
+    second: gombocaura_pink_130
+  - first:
+      213: -7446093331352112236
+    second: gombocaura_pink_131
+  - first:
+      213: 1986656574606754630
+    second: gombocaura_pink_132
+  - first:
+      213: -8007765007833427854
+    second: gombocaura_pink_133
+  - first:
+      213: -7243226644971835550
+    second: gombocaura_pink_134
+  - first:
+      213: -1969380016357616629
+    second: gombocaura_pink_135
+  - first:
+      213: -5765244899972347456
+    second: gombocaura_pink_136
+  - first:
+      213: -8088661566263301656
+    second: gombocaura_pink_137
+  - first:
+      213: 133102832980919622
+    second: gombocaura_pink_138
+  - first:
+      213: -4798630071030264960
+    second: gombocaura_pink_139
+  - first:
+      213: 2087163116453708582
+    second: gombocaura_pink_140
+  - first:
+      213: -8370131594147385140
+    second: gombocaura_pink_141
+  - first:
+      213: -8435976643414746713
+    second: gombocaura_pink_142
+  - first:
+      213: 2955489149160089441
+    second: gombocaura_pink_143
+  - first:
+      213: -2352828997698818759
+    second: gombocaura_pink_144
+  - first:
+      213: 471906602679230254
+    second: gombocaura_pink_145
+  - first:
+      213: -665545188002560865
+    second: gombocaura_pink_146
+  - first:
+      213: -5381167561481064610
+    second: gombocaura_pink_147
+  - first:
+      213: 4987544003461040728
+    second: gombocaura_pink_148
+  - first:
+      213: -8242688977375493760
+    second: gombocaura_pink_149
+  - first:
+      213: -7970360998722543823
+    second: gombocaura_pink_150
+  - first:
+      213: 1714677472030664466
+    second: gombocaura_pink_151
+  - first:
+      213: 7131614878721945154
+    second: gombocaura_pink_152
+  - first:
+      213: 526725949727665178
+    second: gombocaura_pink_153
+  - first:
+      213: 7943326598292180758
+    second: gombocaura_pink_154
+  - first:
+      213: 8461968915069263702
+    second: gombocaura_pink_155
+  - first:
+      213: 3445892492919189451
+    second: gombocaura_pink_156
+  - first:
+      213: -1242891684976711013
+    second: gombocaura_pink_157
+  - first:
+      213: -3335986539806859367
+    second: gombocaura_pink_158
+  - first:
+      213: -6760218582228766345
+    second: gombocaura_pink_159
+  - first:
+      213: -6539149386385263104
+    second: gombocaura_pink_160
+  - first:
+      213: 3158075010606182239
+    second: gombocaura_pink_161
+  - first:
+      213: 4979686050475205340
+    second: gombocaura_pink_162
+  - first:
+      213: 6713737096089097301
+    second: gombocaura_pink_163
+  - first:
+      213: 8923867009545053015
+    second: gombocaura_pink_164
+  - first:
+      213: -6950564484346808226
+    second: gombocaura_pink_165
+  - first:
+      213: 5653390051100016764
+    second: gombocaura_pink_166
+  - first:
+      213: -2618779867353140106
+    second: gombocaura_pink_167
+  - first:
+      213: 1547231240586757413
+    second: gombocaura_pink_168
+  - first:
+      213: 6978335941605525925
+    second: gombocaura_pink_169
+  - first:
+      213: -2401179744888333935
+    second: gombocaura_pink_170
+  - first:
+      213: -7179702820393940805
+    second: gombocaura_pink_171
+  - first:
+      213: 7735879770356284137
+    second: gombocaura_pink_172
+  - first:
+      213: 4725249856491276734
+    second: gombocaura_pink_173
+  - first:
+      213: 476709222195167933
+    second: gombocaura_pink_174
+  - first:
+      213: 4763882951898719599
+    second: gombocaura_pink_175
+  - first:
+      213: -1883917730183636540
+    second: gombocaura_pink_176
+  - first:
+      213: 1165504559885112072
+    second: gombocaura_pink_177
+  - first:
+      213: -8074412249258880418
+    second: gombocaura_pink_178
+  - first:
+      213: 8036821254191165278
+    second: gombocaura_pink_179
+  - first:
+      213: -4593186047075737116
+    second: gombocaura_pink_180
+  - first:
+      213: -5394194974827566579
+    second: gombocaura_pink_181
+  - first:
+      213: -5665797333552803561
+    second: gombocaura_pink_182
+  - first:
+      213: 1752260545022784083
+    second: gombocaura_pink_183
+  - first:
+      213: -229109439393459005
+    second: gombocaura_pink_184
+  - first:
+      213: 4018502870550184626
+    second: gombocaura_pink_185
+  - first:
+      213: -6560923647956125535
+    second: gombocaura_pink_186
+  - first:
+      213: 7961612903465850044
+    second: gombocaura_pink_187
+  - first:
+      213: 7171526063876844461
+    second: gombocaura_pink_188
+  - first:
+      213: 7956018487614263377
+    second: gombocaura_pink_189
+  - first:
+      213: -7137047851342969048
+    second: gombocaura_pink_190
+  - first:
+      213: 3008407140975967698
+    second: gombocaura_pink_191
+  - first:
+      213: 7850665462548837858
+    second: gombocaura_pink_192
+  - first:
+      213: -600713758679038224
+    second: gombocaura_pink_193
+  - first:
+      213: -3617759265827331735
+    second: gombocaura_pink_194
+  - first:
+      213: 7924110780583940972
+    second: gombocaura_pink_195
+  - first:
+      213: 6543227100739939502
+    second: gombocaura_pink_196
+  - first:
+      213: -5534739893998045888
+    second: gombocaura_pink_197
+  - first:
+      213: 1627027506683515014
+    second: gombocaura_pink_198
+  - first:
+      213: 5552441417827518841
+    second: gombocaura_pink_199
+  - first:
+      213: 3446125803981807283
+    second: gombocaura_pink_200
+  - first:
+      213: 1102661349714199171
+    second: gombocaura_pink_201
+  - first:
+      213: -7485223191426781010
+    second: gombocaura_pink_202
+  - first:
+      213: 1789553506040869735
+    second: gombocaura_pink_203
+  - first:
+      213: 8030117778842568426
+    second: gombocaura_pink_204
+  - first:
+      213: 1232617839846232733
+    second: gombocaura_pink_205
+  - first:
+      213: 926389068624427168
+    second: gombocaura_pink_206
+  - first:
+      213: -6510208217904679654
+    second: gombocaura_pink_207
+  - first:
+      213: 8297055094689767327
+    second: gombocaura_pink_208
+  - first:
+      213: 7877770526660327546
+    second: gombocaura_pink_209
+  - first:
+      213: 2019144129444297075
+    second: gombocaura_pink_210
+  - first:
+      213: -5140718335706183194
+    second: gombocaura_pink_211
+  - first:
+      213: 5922062702744583949
+    second: gombocaura_pink_212
+  - first:
+      213: -4038354195514606145
+    second: gombocaura_pink_213
+  - first:
+      213: -1873919359637267391
+    second: gombocaura_pink_214
+  - first:
+      213: -2957420740336392340
+    second: gombocaura_pink_215
+  - first:
+      213: -1495689140422113401
+    second: gombocaura_pink_216
+  - first:
+      213: -5251066848356179656
+    second: gombocaura_pink_217
+  - first:
+      213: 2921512078861022341
+    second: gombocaura_pink_218
+  - first:
+      213: 3703655231582243355
+    second: gombocaura_pink_219
+  - first:
+      213: -2147697081956990744
+    second: gombocaura_pink_220
+  - first:
+      213: -8236002938211451510
+    second: gombocaura_pink_221
+  - first:
+      213: 7026863503816237355
+    second: gombocaura_pink_222
+  - first:
+      213: 6456623668717739706
+    second: gombocaura_pink_223
+  - first:
+      213: -4054115901097621038
+    second: gombocaura_pink_224
+  - first:
+      213: -9044252992956944475
+    second: gombocaura_pink_225
+  - first:
+      213: -953071769802400288
+    second: gombocaura_pink_226
+  - first:
+      213: -5858319767816550819
+    second: gombocaura_pink_227
+  - first:
+      213: 7578992754765497757
+    second: gombocaura_pink_228
+  - first:
+      213: 4020817567490431664
+    second: gombocaura_pink_229
+  - first:
+      213: -5380959767821918361
+    second: gombocaura_pink_230
+  - first:
+      213: -3977311970686905601
+    second: gombocaura_pink_231
+  - first:
+      213: -5553343969005722438
+    second: gombocaura_pink_232
+  - first:
+      213: -8812061427120912809
+    second: gombocaura_pink_233
+  - first:
+      213: -3290499106845633773
+    second: gombocaura_pink_234
+  - first:
+      213: 6917150126647388969
+    second: gombocaura_pink_235
+  - first:
+      213: 5255350891907435960
+    second: gombocaura_pink_236
+  - first:
+      213: -1085927363630211439
+    second: gombocaura_pink_237
+  - first:
+      213: 5030940261685818232
+    second: gombocaura_pink_238
+  - first:
+      213: 1907494811288271596
+    second: gombocaura_pink_239
+  - first:
+      213: 8918618143575940036
+    second: gombocaura_pink_240
+  - first:
+      213: 7559555268525759889
+    second: gombocaura_pink_241
+  - first:
+      213: 5421128174098727461
+    second: gombocaura_pink_242
+  - first:
+      213: 1813812971823751352
+    second: gombocaura_pink_243
+  - first:
+      213: -7618219622108670550
+    second: gombocaura_pink_244
+  - first:
+      213: 8325957915288213565
+    second: gombocaura_pink_245
+  - first:
+      213: -6754199793932025841
+    second: gombocaura_pink_246
+  - first:
+      213: 1366654535750756989
+    second: gombocaura_pink_247
+  - first:
+      213: -8857413967797937265
+    second: gombocaura_pink_248
+  - first:
+      213: -5677459093537184985
+    second: gombocaura_pink_249
+  - first:
+      213: -1341188127088685988
+    second: gombocaura_pink_250
+  - first:
+      213: -1682605448463776566
+    second: gombocaura_pink_251
+  - first:
+      213: -4809278554737562835
+    second: gombocaura_pink_252
+  - first:
+      213: -4562628414281179596
+    second: gombocaura_pink_253
+  - first:
+      213: -4748274208535447640
+    second: gombocaura_pink_254
+  - first:
+      213: 3084642077662324793
+    second: gombocaura_pink_255
+  - first:
+      213: -8613658418852439327
+    second: gombocaura_pink_256
+  - first:
+      213: 7209214989026604004
+    second: gombocaura_pink_257
+  - first:
+      213: 4707666694452712171
+    second: gombocaura_pink_258
+  - first:
+      213: -7180076588935348205
+    second: gombocaura_pink_259
+  - first:
+      213: -5408492771843593408
+    second: gombocaura_pink_260
+  - first:
+      213: -5672091162269010258
+    second: gombocaura_pink_261
+  - first:
+      213: -1916163404864605831
+    second: gombocaura_pink_262
+  - first:
+      213: -909505434542629418
+    second: gombocaura_pink_263
+  - first:
+      213: 347827559879378820
+    second: gombocaura_pink_264
+  - first:
+      213: 6639345305332186974
+    second: gombocaura_pink_265
+  - first:
+      213: -6472911343388909829
+    second: gombocaura_pink_266
+  - first:
+      213: -3832684101497805850
+    second: gombocaura_pink_267
+  - first:
+      213: 2747074767801871405
+    second: gombocaura_pink_268
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: gombocaura_pink_0
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 897
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a020132af3e7b6250800000000000000
+      internalID: 5938979345387291146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_1
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 855
+        width: 43
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04e8c4cec63f129b0800000000000000
+      internalID: -5106532853314974144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_2
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 874
+        width: 37
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba9a55a5bfba644b0800000000000000
+      internalID: -5456484802472072789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_3
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 883
+        width: 41
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f12d823729b9d5970800000000000000
+      internalID: 8745317104722956831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_4
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 889
+        width: 27
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8aa6622d98fcd3e0800000000000000
+      internalID: -2027472378452858227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_5
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 881
+        width: 27
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e941b93ccb3297910800000000000000
+      internalID: 1835537616772732062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_6
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 877
+        width: 58
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78623d9cf8ce19bb0800000000000000
+      internalID: -4930900014683445625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_7
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 905
+        width: 46
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9580228488cc00ae0800000000000000
+      internalID: -1585042183136606119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_8
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 901
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 466fabcb8fb615e30800000000000000
+      internalID: 4490489019527525988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_9
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 893
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9e962d2c56d098c0800000000000000
+      internalID: -3994457178094788963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_10
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 885
+        width: 86
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5db1d3cad6f831a20800000000000000
+      internalID: 3031924675354368981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_11
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 769
+        width: 139
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a169fcf249182be70800000000000000
+      internalID: 9129501868090693146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_12
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 869
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51c629bd5a3d96330800000000000000
+      internalID: 3704724877795814421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_13
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 865
+        width: 55
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bde4955c1a0938b0800000000000000
+      internalID: -5172091580247118409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_14
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 885
+        width: 41
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e44c33ea4beb1260800000000000000
+      internalID: 7069502746960610537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_15
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 879
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e750bf29185b8270800000000000000
+      internalID: 8253787607284078568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_16
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 865
+        width: 40
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46c3f12699d041480800000000000000
+      internalID: -8929497208741479324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_17
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 839
+        width: 60
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf7bb9f29cdc6e170800000000000000
+      internalID: 8207473634900162555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_18
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 861
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95e17da2bbde78980800000000000000
+      internalID: -8536593180524077479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_19
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 881
+        width: 64
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2879bfa0e1b520b0800000000000000
+      internalID: -5753997370316982230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_20
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 864
+        width: 60
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17bc10b8bdd2a6080800000000000000
+      internalID: -9193485268370207887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_21
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 852
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 805ae08047101d3e0800000000000000
+      internalID: -2030840359104371448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_22
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 801
+        width: 35
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22f13ef3040471b40800000000000000
+      internalID: 5410864122002874146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_23
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 865
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a33e572628e3f78a0800000000000000
+      internalID: -6305252223576841414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_24
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 826
+        width: 47
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d524c24c3ab47ad50800000000000000
+      internalID: 6748445733380964957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_25
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 853
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5301fdf1084f01e0800000000000000
+      internalID: -2229484117132508323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_26
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 818
+        width: 45
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a195bf9a18c3899a0800000000000000
+      internalID: -6226159957239441126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_27
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 868
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d76a03a40150fba30800000000000000
+      internalID: 4233107742273873533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_28
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 832
+        width: 58
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b96a3d8bae1bcddc0800000000000000
+      internalID: -3612817179376638309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_29
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 865
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f276ba51d91314510800000000000000
+      internalID: 1531559899025860399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_30
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 855
+        width: 39
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3787c73a45f059560800000000000000
+      internalID: 7319773625555122291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_31
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 850
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6a7133b0f93f3bc0800000000000000
+      internalID: -3801255854516110739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_32
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 779
+        width: 24
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a0a931daa4261ae0800000000000000
+      internalID: -1579034303273525081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_33
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 781
+        width: 28
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32a493fa7b0ced740800000000000000
+      internalID: 5178788516673964579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_34
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 800
+        width: 25
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f084c530ac88fb90800000000000000
+      internalID: -7207856583881752332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_35
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 819
+        width: 45
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4c41c8278c150bf0800000000000000
+      internalID: -358849228476167092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_36
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 787
+        width: 39
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8374a3ad8dc04310800000000000000
+      internalID: 1387334693449659274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_37
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 791
+        width: 62
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1db021abed3a7b730800000000000000
+      internalID: 4014857769823898577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_38
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 831
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f67d2dee7b2e9440800000000000000
+      internalID: 4944437265044436721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_39
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 791
+        width: 89
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a8b8ae076cb5d060800000000000000
+      internalID: 6977690348494043300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_40
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 825
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d9ff578cb53e9740800000000000000
+      internalID: 5160621306854504913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_41
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 781
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba883316faae1f4d0800000000000000
+      internalID: -3102440629310617429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_42
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 782
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cacf7c33de894560800000000000000
+      internalID: 7298521709034851009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_43
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 792
+        width: 39
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73bf78479d5b99870800000000000000
+      internalID: 8690176901555682103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_44
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 803
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63441f63e5839c040800000000000000
+      internalID: 4668324466046092342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_45
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 790
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef8e7c52cdd00ccb0800000000000000
+      internalID: -4845857959872829186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_46
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 780
+        width: 47
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd96955573d7d8a80800000000000000
+      internalID: -8462970448150697507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_47
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 755
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00ccac6ce64d1f0d0800000000000000
+      internalID: -3390695472186602496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_48
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 789
+        width: 49
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72b531ed04fcee3c0800000000000000
+      internalID: -4328294314345800921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_49
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 791
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae21daa14f836f080800000000000000
+      internalID: -9154066571513228566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_50
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 798
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25d294baf049d3d50800000000000000
+      internalID: 6718689014125768018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_51
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 778
+        width: 50
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e41aab047a23bd10800000000000000
+      internalID: 2140100925831386337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_52
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 774
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2fa3a2f224faa120800000000000000
+      internalID: 2426019780229312299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_53
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 761
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f01669aacb297a250800000000000000
+      internalID: 5955890371234259215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_54
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 770
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45b4596460687fca0800000000000000
+      internalID: -5983166218426299564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_55
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 763
+        width: 25
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df0bd78004d4339c0800000000000000
+      internalID: -3948727510858092291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_56
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 749
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc35ee1809bcb4ac0800000000000000
+      internalID: -3869775633279200308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_57
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 747
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a493f47ebacc54a80800000000000000
+      internalID: -8483149284390258358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_58
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 754
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 513e6eef9c40bec90800000000000000
+      internalID: -7139607518654307563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_59
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 775
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaf2d3c3c9745ce70800000000000000
+      internalID: 9134786155542032302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_60
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 748
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25e61621810895250800000000000000
+      internalID: 5933914824913284690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_61
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 761
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8566e7a07e55cf190800000000000000
+      internalID: -7927366793277053352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_62
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 769
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adf0dae9d5703a0c0800000000000000
+      internalID: -4565797498548056102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_63
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 752
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 338f87aa4d9f01df0800000000000000
+      internalID: -211394490697975757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_64
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 750
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bd26f0c3eced06e0800000000000000
+      internalID: -1869577807349797447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_65
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 765
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81742ff59d1b47500800000000000000
+      internalID: 393134614663808792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_66
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 729
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d0b2cd8a29784b60800000000000000
+      internalID: 7730561984055390425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_67
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 752
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 197a82a1385afb880800000000000000
+      internalID: -8592967581501446255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_68
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 735
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26c10231571ede800800000000000000
+      internalID: 643418214732143714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_69
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 733
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4742a0c2134a66970800000000000000
+      internalID: 8747859857312982132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_70
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 749
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b1dce57f898e8690800000000000000
+      internalID: -7597984272075664976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_71
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 738
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 474211289151af3e0800000000000000
+      internalID: -2019278283621718924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_72
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 738
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca182b31323895c70800000000000000
+      internalID: 8960337120307872172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_73
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 744
+        width: 45
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a29ac6aee1a9e4020800000000000000
+      internalID: 2327967514969811242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_74
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 737
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 196a1dc2e1fd7e090800000000000000
+      internalID: -8005184491933817199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_75
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 729
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca38fe400668aa310800000000000000
+      internalID: 1417092779719230380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_76
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 741
+        width: 79
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 757a519d8ce849b40800000000000000
+      internalID: 5446134842684450647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_77
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 717
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0577e24d8cbab250800000000000000
+      internalID: 5961284371677148427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_78
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 718
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31ee1d9a9c6548a80800000000000000
+      internalID: -8465545975412167149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_79
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 699
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3150990214f1e2e0800000000000000
+      internalID: -2098127593070898883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_80
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 727
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3599ef7f5194e26d0800000000000000
+      internalID: -3013390741960484525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_81
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 715
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f686cf584b72c2d60800000000000000
+      internalID: 7866706305404921967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_82
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 723
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67d4edc8fc898d1c0800000000000000
+      internalID: -4478661812230926986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_83
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 710
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c23b15f4f189466f0800000000000000
+      internalID: -692261182466051284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_84
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 708
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 946dcc01362cb2870800000000000000
+      internalID: 8659228439289321033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_85
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 719
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5287abf1b273e35b0800000000000000
+      internalID: -5386807445933098971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_86
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 707
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e60b5e6049706beb0800000000000000
+      internalID: -4704564428389633938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_87
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 719
+        width: 78
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66940d3f173ac8f70800000000000000
+      internalID: 9190900649373485414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_88
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 635
+        width: 24
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 396829ca3fbbeeca0800000000000000
+      internalID: -5985640199482079597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_89
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 636
+        width: 23
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7aa5a8e5cb742680800000000000000
+      internalID: -8780757283523679622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_90
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 677
+        width: 14
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2f87eb617df0c270800000000000000
+      internalID: 8268887579435700013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_91
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 668
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b30f1e74038607bd0800000000000000
+      internalID: -2634491225438031813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_92
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 675
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2acdc76b252da5310800000000000000
+      internalID: 1394658287315377314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_93
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 663
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04ef34807ca33ea00800000000000000
+      internalID: 784535386604174912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_94
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 653
+        width: 35
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 689be78241fab01f0800000000000000
+      internalID: -1077575184711501434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_95
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 676
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc418f8ae3a01d210800000000000000
+      internalID: 1355876227054310604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_96
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 671
+        width: 52
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fee057c439e5b3d70800000000000000
+      internalID: 9023910265102864111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_97
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 669
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb04a7778589113b0800000000000000
+      internalID: -5543482160587325253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_98
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 685
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42c3d3a8a4d36f8e0800000000000000
+      internalID: -1660072022283305948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_99
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 553
+        width: 130
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed9d64112555a5c60800000000000000
+      internalID: 7807646714965711326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_100
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 615
+        width: 38
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f15b50ee42ec65ae0800000000000000
+      internalID: -1560833562829802209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_101
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 631
+        width: 71
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24bb22fe9867e05c0800000000000000
+      internalID: -4247327063769171134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_102
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 605
+        width: 49
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d205e1f27b2639e0800000000000000
+      internalID: -1642077241445383471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_103
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 639
+        width: 45
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9990db7388b9c0180800000000000000
+      internalID: -9147765733743326823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_104
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 625
+        width: 20
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f8035405d19a3f70800000000000000
+      internalID: 9167800335552678135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_105
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 627
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 338b7db4071dadac0800000000000000
+      internalID: -3829518252886214605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_106
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 531
+        width: 54
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 245e4716407c97640800000000000000
+      internalID: 5078308876465792322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_107
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 563
+        width: 53
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dae8546d50aaed410800000000000000
+      internalID: 1503826267634765485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_108
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 588
+        width: 38
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d3c15495018a5600800000000000000
+      internalID: 457820173094732755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_109
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 604
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 951b99ca0b2546150800000000000000
+      internalID: 5864903533506703705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_110
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 585
+        width: 74
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 077bd6f1fcbd9efe0800000000000000
+      internalID: -1159153746439194768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_111
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 537
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8497d6ee8e9ff0c0800000000000000
+      internalID: -4539735562770738036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_112
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 545
+        width: 39
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43acf16058f245530800000000000000
+      internalID: 3842748630433778228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_113
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 525
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bdfd610dafc4bcb0800000000000000
+      internalID: -4849022556810904143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_114
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 543
+        width: 59
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9c16d6450a139dc0800000000000000
+      internalID: -3633531864392262500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_115
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 541
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f245e35d0bf5cc0f0800000000000000
+      internalID: -1095395396261358545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_116
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 547
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2a67951044cf5f30800000000000000
+      internalID: 4566584326696167982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_117
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 559
+        width: 57
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a50a307f6d552ae00800000000000000
+      internalID: 1054499644513689690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_118
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 545
+        width: 49
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f577f3d18a34fffe0800000000000000
+      internalID: -1153128590259292321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_119
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 517
+        width: 40
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79dcff59643d26030800000000000000
+      internalID: 3486581361655926167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_120
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 519
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f04e8299d7987620800000000000000
+      internalID: 2772132531369033975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_121
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 527
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 673960a39ac194c10800000000000000
+      internalID: 2038191819510420342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_122
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 522
+        width: 37
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f1898296ab1e0780800000000000000
+      internalID: -8714997826678324745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_123
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 500
+        width: 76
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 759abf6d79b1b0550800000000000000
+      internalID: 6128022056928520535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_124
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 525
+        width: 61
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36f9a6be0f8b0de50800000000000000
+      internalID: 6832163979602337635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_125
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 487
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a541088dfc46e4960800000000000000
+      internalID: 7588113266019144794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_126
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 476
+        width: 31
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a42619c3835f34d80800000000000000
+      internalID: -8267494869038964150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_127
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 531
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd2ee53302bf8a270800000000000000
+      internalID: 8262129632130556635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_128
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 477
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42f12f8c48640d7b0800000000000000
+      internalID: -5201580033491984604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_129
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 516
+        width: 60
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8d183c4da4e008a0800000000000000
+      internalID: -6340816842378437233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_130
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 531
+        width: 57
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2148359aea10ddd10800000000000000
+      internalID: 2151878046629725202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_131
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 479
+        width: 19
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4933a54f0992aa890800000000000000
+      internalID: -7446093331352112236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_132
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 511
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 643412cf0a5029b10800000000000000
+      internalID: 1986656574606754630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_133
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 476
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 270194ff624bed090800000000000000
+      internalID: -8007765007833427854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_134
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 477
+        width: 54
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26f2fce1eb3ea7b90800000000000000
+      internalID: -7243226644971835550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_135
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 461
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0450413f4b5ba4e0800000000000000
+      internalID: -1969380016357616629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_136
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 465
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c9040e1f4cbdffa0800000000000000
+      internalID: -5765244899972347456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_137
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 462
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e9658a392d4fbf80800000000000000
+      internalID: -8088661566263301656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_138
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 462
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6450d664250e8d100800000000000000
+      internalID: 133102832980919622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_139
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 484
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08bcbb7ef57d76db0800000000000000
+      internalID: -4798630071030264960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_140
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 438
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6234580dbc717fc10800000000000000
+      internalID: 2087163116453708582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_141
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 413
+        width: 84
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc0329779a157db80800000000000000
+      internalID: -8370131594147385140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_142
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 415
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a995c340f36dea80800000000000000
+      internalID: -8435976643414746713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_143
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 441
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1676539e8b1040920800000000000000
+      internalID: 2955489149160089441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_144
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 409
+        width: 78
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93d6cee0e72195fd0800000000000000
+      internalID: -2352828997698818759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_145
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 331
+        width: 121
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2f5bdb0e8c8c8600800000000000000
+      internalID: 471906602679230254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_146
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 362
+        width: 64
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f94032f7d2283c6f0800000000000000
+      internalID: -665545188002560865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_147
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 399
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5fe01d0d904255b0800000000000000
+      internalID: -5381167561481064610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_148
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 389
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85acce398d0573540800000000000000
+      internalID: 4987544003461040728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_149
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 401
+        width: 61
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0818185fb061c9d80800000000000000
+      internalID: -8242688977375493760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_150
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 379
+        width: 59
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13fd38386e6936190800000000000000
+      internalID: -7970360998722543823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_151
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 363
+        width: 51
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 217a0c87312cbc710800000000000000
+      internalID: 1714677472030664466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_152
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 352
+        width: 57
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24eac1182f598f260800000000000000
+      internalID: 7131614878721945154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_153
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 383
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1c6f77e57e4f4700800000000000000
+      internalID: 526725949727665178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_154
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 361
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61f0e12a47d5c3e60800000000000000
+      internalID: 7943326598292180758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_155
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 355
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65fd91315e3fe6570800000000000000
+      internalID: 8461968915069263702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_156
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 348
+        width: 21
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcf22a617f442df20800000000000000
+      internalID: 3445892492919189451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_157
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 325
+        width: 55
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9a2daef89c50cee0800000000000000
+      internalID: -1242891684976711013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_158
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 321
+        width: 74
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99fd357bae134b1d0800000000000000
+      internalID: -3335986539806859367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_159
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 231
+        width: 130
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77172424401ee22a0800000000000000
+      internalID: -6760218582228766345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_160
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 321
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 006fa4b67464045a0800000000000000
+      internalID: -6539149386385263104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_161
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 278
+        width: 20
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5f283d6d7cb3db20800000000000000
+      internalID: 3158075010606182239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_162
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 305
+        width: 63
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd2ea8354166b1540800000000000000
+      internalID: 4979686050475205340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_163
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 305
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 554d0c7615cfb2d50800000000000000
+      internalID: 6713737096089097301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_164
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 298
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 753a2c6b3c1f7db70800000000000000
+      internalID: 8923867009545053015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_165
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 275
+        width: 46
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e58ff0a5d62aa8f90800000000000000
+      internalID: -6950564484346808226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_166
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 271
+        width: 72
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c704b8c6c40e47e40800000000000000
+      internalID: 5653390051100016764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_167
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 251
+        width: 23
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 674b875e59938abd0800000000000000
+      internalID: -2618779867353140106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_168
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 249
+        width: 25
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5258f80ad9ed87510800000000000000
+      internalID: 1547231240586757413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_169
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 250
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a90dbae09708d060800000000000000
+      internalID: 6978335941605525925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_170
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 247
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19951187ebb4daed0800000000000000
+      internalID: -2401179744888333935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_171
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 249
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb88c8513529c5c90800000000000000
+      internalID: -7179702820393940805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_172
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 271
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ea77392aad5b5b60800000000000000
+      internalID: 7735879770356284137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_173
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 253
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb9c02385b5739140800000000000000
+      internalID: 4725249856491276734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_174
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 243
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db2881a038c9d9600800000000000000
+      internalID: 476709222195167933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_175
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 224
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f65667bfd46bc1240800000000000000
+      internalID: 4763882951898719599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_176
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 229
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c9185a4ecafad5e0800000000000000
+      internalID: -1883917730183636540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_177
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 219
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 803dc0cd834bc2010800000000000000
+      internalID: 1165504559885112072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_178
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 239
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e529cd0e6dce1ff80800000000000000
+      internalID: -8074412249258880418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_179
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 229
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5faf5b8956888f60800000000000000
+      internalID: 8036821254191165278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_180
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 217
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e125cc30a9b140c0800000000000000
+      internalID: -4593186047075737116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_181
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 239
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0aa4340048f325b0800000000000000
+      internalID: -5394194974827566579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_182
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 219
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 711da34085b0f51b0800000000000000
+      internalID: -5665797333552803561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_183
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 217
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 352f30c8ea7415810800000000000000
+      internalID: 1752260545022784083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_184
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 231
+        width: 13
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c49342cd2a02dcf0800000000000000
+      internalID: -229109439393459005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_185
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 201
+        width: 80
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b20800e11794c730800000000000000
+      internalID: 4018502870550184626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_186
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 193
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a87d1514bae2f4a0800000000000000
+      internalID: -6560923647956125535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_187
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 201
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb49f36d0c45d7e60800000000000000
+      internalID: 7961612903465850044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_188
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 201
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daba5de65f0668360800000000000000
+      internalID: 7171526063876844461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_189
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 215
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15050b469a4796e60800000000000000
+      internalID: 7956018487614263377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_190
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 200
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 827ccbbfacc14fc90800000000000000
+      internalID: -7137047851342969048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_191
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 209
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ddfe910b5200c920800000000000000
+      internalID: 3008407140975967698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_192
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 197
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e5b6a1c4aa23fc60800000000000000
+      internalID: 7850665462548837858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_193
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 208
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f60f3ae406d9a7f0800000000000000
+      internalID: -600713758679038224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_194
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 191
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 961eb7d8d132bcdc0800000000000000
+      internalID: -3617759265827331735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_195
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 209
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c639c8d65c818fd60800000000000000
+      internalID: 7924110780583940972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_196
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 183
+        width: 81
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eac205071663eca50800000000000000
+      internalID: 6543227100739939502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_197
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 167
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04530160467a033b0800000000000000
+      internalID: -5534739893998045888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_198
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 167
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68019af95ec549610800000000000000
+      internalID: 1627027506683515014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_199
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 191
+        width: 33
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97986c92d0c3e0d40800000000000000
+      internalID: 5552441417827518841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_200
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 155
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3be94ad092913df20800000000000000
+      internalID: 3446125803981807283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_201
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 144
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3828449c7a07d4f00800000000000000
+      internalID: 1102661349714199171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_202
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 171
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea0bd727a252f1890800000000000000
+      internalID: -7485223191426781010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_203
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 184
+        width: 44
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 763fe1aae65c5d810800000000000000
+      internalID: 1789553506040869735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_204
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 189
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae6c5701395b07f60800000000000000
+      internalID: 8030117778842568426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_205
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 171
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9218d705632b1110800000000000000
+      internalID: 1232617839846232733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_206
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 170
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a8f92f13f13bdc00800000000000000
+      internalID: 926389068624427168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_207
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 185
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1576fd4e1817a5a0800000000000000
+      internalID: -6510208217904679654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_208
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 155
+        width: 52
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9f14d026af052370800000000000000
+      internalID: 8297055094689767327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_209
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 185
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7871a74e86735d60800000000000000
+      internalID: 7877770526660327546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_210
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 185
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 379b7d943e0750c10800000000000000
+      internalID: 2019144129444297075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_211
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 173
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e945ed09ef78a8b0800000000000000
+      internalID: -5140718335706183194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_212
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 159
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0f3ea6d6a46f2250800000000000000
+      internalID: 5922062702744583949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_213
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 147
+        width: 51
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbdb42b5142e4f7c0800000000000000
+      internalID: -4038354195514606145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_214
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 86
+        width: 75
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14cd71755408ef5e0800000000000000
+      internalID: -1873919359637267391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_215
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 152
+        width: 48
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6760e8718125f6d0800000000000000
+      internalID: -2957420740336392340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_216
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 52
+        width: 139
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7870bbab6ae3e3be0800000000000000
+      internalID: -1495689140422113401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_217
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 89
+        width: 47
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83166e3d5867027b0800000000000000
+      internalID: -5251066848356179656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_218
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 169
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5843683c1cb4b8820800000000000000
+      internalID: 2921512078861022341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_219
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 152
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1a0af07fc6066330800000000000000
+      internalID: 3703655231582243355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_220
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 137
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e08fc802e8d132e0800000000000000
+      internalID: -2147697081956990744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_221
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 121
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8d35d2c6f6d3bd80800000000000000
+      internalID: -8236002938211451510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_222
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 119
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b21af16702f648160800000000000000
+      internalID: 7026863503816237355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_223
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 135
+        width: 30
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abedc4e94098a9950800000000000000
+      internalID: 6456623668717739706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_224
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 125
+        width: 49
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d940dc4113ecb7c0800000000000000
+      internalID: -4054115901097621038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_225
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 129
+        width: 48
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5afa90842db5c7280800000000000000
+      internalID: -9044252992956944475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_226
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 107
+        width: 61
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ed9973664206c2f0800000000000000
+      internalID: -953071769802400288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_227
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 85
+        width: 39
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5645aab53113bea0800000000000000
+      internalID: -5858319767816550819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_228
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 135
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d958e0751cdfd2960800000000000000
+      internalID: 7578992754765497757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_229
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 129
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0badae04640dcc730800000000000000
+      internalID: 4020817567490431664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_230
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 85
+        width: 22
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76f5e48c99df255b0800000000000000
+      internalID: -5380959767821918361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_231
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 89
+        width: 26
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff25c4ad5dfbdc8c0800000000000000
+      internalID: -3977311970686905601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_232
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 136
+        width: 40
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab42bd3451f8ee2b0800000000000000
+      internalID: -5553343969005722438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_233
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 137
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 756498102d445b580800000000000000
+      internalID: -8812061427120912809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_234
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 137
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 313d9b20f7cc552d0800000000000000
+      internalID: -3290499106845633773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_235
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 97
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92baddc3467aeff50800000000000000
+      internalID: 6917150126647388969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_236
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 94
+        width: 50
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bdcc2acac1cee840800000000000000
+      internalID: 5255350891907435960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_237
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 55
+        width: 59
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19ed1f6f0d20ee0f0800000000000000
+      internalID: -1085927363630211439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_238
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 78
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8737eff438d71d540800000000000000
+      internalID: 5030940261685818232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_239
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 101
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceafcbdac68c87a10800000000000000
+      internalID: 1907494811288271596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_240
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 79
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cb923fd2fb45cb70800000000000000
+      internalID: 8918618143575940036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_241
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 77
+        width: 46
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19d1968e67fe8e860800000000000000
+      internalID: 7559555268525759889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_242
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 55
+        width: 60
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 522440b1a57bb3b40800000000000000
+      internalID: 5421128174098727461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_243
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 88
+        width: 44
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b0ec82b945fb2910800000000000000
+      internalID: 1813812971823751352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_244
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 76
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa55d43ed95a64690800000000000000
+      internalID: -7618219622108670550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_245
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 81
+        width: 41
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d381b937c9ebb8370800000000000000
+      internalID: 8325957915288213565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_246
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 70
+        width: 40
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f004aac92134442a0800000000000000
+      internalID: -6754199793932025841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_247
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 51
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7aa9163f0557f210800000000000000
+      internalID: 1366654535750756989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_248
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 59
+        width: 39
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8b12d4cce4241580800000000000000
+      internalID: -8857413967797937265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_249
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 66
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 723a7eee80d9531b0800000000000000
+      internalID: -5677459093537184985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_250
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 64
+        width: 36
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5c48eb1184236de0800000000000000
+      internalID: -1341188127088685988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_251
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 65
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac40e2b624f26a8e0800000000000000
+      internalID: -1682605448463776566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_252
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 77
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2ba6f692a2024db0800000000000000
+      internalID: -4809278554737562835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_253
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 77
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43e9aac81a94ea0c0800000000000000
+      internalID: -4562628414281179596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_254
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 18
+        width: 43
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a77818c3cdba1eb0800000000000000
+      internalID: -4748274208535447640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_255
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 52
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 938294260a9deca20800000000000000
+      internalID: 3084642077662324793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_256
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 63
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ea5fbf1e43267880800000000000000
+      internalID: -8613658418852439327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_257
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 43
+        width: 43
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e33a5226d64c0460800000000000000
+      internalID: 7209214989026604004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_258
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 39
+        width: 58
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be29ac39aedf45140800000000000000
+      internalID: 4707666694452712171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_259
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 5
+        width: 27
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3100960526e3b5c90800000000000000
+      internalID: -7180076588935348205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_260
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 16
+        width: 40
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04baefbba7c21f4b0800000000000000
+      internalID: -5408492771843593408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_261
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 61
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea6b253d32fa841b0800000000000000
+      internalID: -5672091162269010258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_262
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 17
+        width: 37
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9713179198b6865e0800000000000000
+      internalID: -1916163404864605831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_263
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 50
+        width: 25
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dd9cc440a9c063f0800000000000000
+      internalID: -909505434542629418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_264
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 15
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48783b5a25bb3d400800000000000000
+      internalID: 347827559879378820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_265
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 3
+        width: 27
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5f7b71e061b32c50800000000000000
+      internalID: 6639345305332186974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_266
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 31
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfe15ba9d699b26a0800000000000000
+      internalID: -6472911343388909829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_267
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 5
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e3afe9bd129fcac0800000000000000
+      internalID: -3832684101497805850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_pink_268
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 0
+        width: 46
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2ce44a52f19f1620800000000000000
+      internalID: 2747074767801871405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

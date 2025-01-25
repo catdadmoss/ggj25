@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 28cbc83a52ae5144c84eae0dcd258ec2, type: 3}
+  m_Name: AlmaScriptableObject
+  m_EditorClassIdentifier: 
+  gravityModifier: 0
+  image: {fileID: 6356942980011119624, guid: 797f707c76d92d443892dcb819f0ca57, type: 3}
+  colliderRadius: 0.2

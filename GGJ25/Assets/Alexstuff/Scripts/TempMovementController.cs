@@ -1,32 +1,38 @@
+using System.Collections;
 using UnityEngine;
+using UnityEngine.UIElements;
 
+[RequireComponent(typeof(Rigidbody2D))]
 public class TempMovementController : MonoBehaviour
 {
-    protected Rigidbody2D rigidBody;
     [SerializeField]
-    protected Vector2 movementVector;
-    [SerializeField]
-    protected float maxSpeed;
-    [SerializeField]
-    protected bool useGravity;
+    protected EnemyMovementScriptableObject movementScriptableObject;
 
-    [SerializeField]
-    protected bool needsToBeOnGround;
+    private Rigidbody2D rigidBody;
     protected bool isOnGround;
 
-    void Start()
+    protected Rigidbody2D RigidBody
     {
-        rigidBody = GetComponent<Rigidbody2D>();
-        rigidBody.gravityScale = useGravity ? 1 : 0;
+        get 
+        { 
+            if(rigidBody==null)
+            {
+                rigidBody = GetComponent<Rigidbody2D>();
+            }
+            return rigidBody; 
+        }
+        set { rigidBody = value; }
     }
 
     // Update is called once per frame
     void Update()
     {
-        if((needsToBeOnGround && isOnGround) || !needsToBeOnGround)
+        if((movementScriptableObject.NeedsToBeOnGround && isOnGround) || !movementScriptableObject.NeedsToBeOnGround)
         {
-            rigidBody.AddForce(movementVector);
-            rigidBody.linearVelocity = Vector2.ClampMagnitude(rigidBody.linearVelocity, maxSpeed);
+            RigidBody.AddForce(movementScriptableObject.MovementVector, ForceMode2D.Impulse);
+            RigidBody.linearVelocity = Vector2.ClampMagnitude(RigidBody.linearVelocity, movementScriptableObject.MaxSpeed);
+            Debug.Log(RigidBody.linearVelocity);
+            //rigidBody.linearVelocity+= movementScriptableObject.MovementVector;
         }
     }
 
@@ -46,5 +52,40 @@ public class TempMovementController : MonoBehaviour
             Debug.Log("not on ground");
             isOnGround = false;
        // }
+    }
+
+    private void Awake()
+    {
+        movementScriptableObject.gravityDelegate -= onGravityScaleChange;
+        movementScriptableObject.gravityDelegate += onGravityScaleChange;
+        RigidBody.gravityScale = movementScriptableObject.GravityScale;
+    }
+
+    private void OnEnable()
+    {
+        movementScriptableObject.gravityDelegate -= onGravityScaleChange;
+        movementScriptableObject.gravityDelegate += onGravityScaleChange;
+        RigidBody.gravityScale = movementScriptableObject.GravityScale;
+    }
+
+    private void OnDestroy()
+    {
+        movementScriptableObject.gravityDelegate -= onGravityScaleChange;
+    }
+
+    private void OnDisable()
+    {
+        movementScriptableObject.gravityDelegate -= onGravityScaleChange;
+    }
+
+    private void onGravityScaleChange(float modifier)
+    {
+        StartCoroutine(GravityScaleWait());
+    }
+
+    IEnumerator GravityScaleWait()
+    {
+        yield return new WaitForSeconds(.1f);
+        RigidBody.gravityScale= movementScriptableObject.GravityScale;
     }
 }

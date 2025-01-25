@@ -5,6 +5,7 @@ public class MovementController : MonoBehaviour
     private Rigidbody2D rigidBody;
     private CollectorController collectorController;
     [SerializeField] private float rollSpeed;
+    [SerializeField] private float maxRollSpeed;
     [SerializeField] private float jumpForce;
     private bool isFloored = false;
     private bool jumpInput = false;
@@ -41,19 +42,11 @@ public class MovementController : MonoBehaviour
     {
         if (!horizontalInput.Equals(Vector3.zero))
         {
-            //if(isFloored)
-            //{
-            //    rigidBody.AddForce(horizontalInput * rollSpeed * Time.fixedDeltaTime * collectorController.Size);
-            //}
-            //else
-            //{
             rigidBody.AddTorque(-1 * rollSpeed * Time.fixedDeltaTime * horizontalInput.x*collectorController.Size);
-            // }
-
         }
         if (isFloored && jumpInput)
         {
-            rigidBody.AddForce(Vector2.up * jumpForce * collectorController.Size);
+            rigidBody.AddForce(Vector2.up * jumpForce);
             isFloored = false;
         }
     }

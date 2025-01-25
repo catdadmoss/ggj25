@@ -18,6 +18,7 @@ public class CollectorController : MonoBehaviour
             {
                 collision.transform.parent = transform;
                 size += collision.transform.localScale.magnitude;
+                GameController.Instance.UpdateScore(size);
 
             }
         }

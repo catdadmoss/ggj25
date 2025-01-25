@@ -9,6 +9,7 @@ public class MovementController : MonoBehaviour
     private bool isFloored=false;
     private bool jumpInput = false;
     private Vector3 horizontalInput = Vector3.zero;
+
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
@@ -48,6 +49,7 @@ public class MovementController : MonoBehaviour
             {
                 rigidBody.AddTorque(-1*rollSpeed * Time.fixedDeltaTime * horizontalInput.x);
             }
+
         }
         if (isFloored && jumpInput)
         {

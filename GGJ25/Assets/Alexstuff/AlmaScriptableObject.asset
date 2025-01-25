@@ -14,4 +14,4 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gravityModifier: 0
   image: {fileID: 6356942980011119624, guid: 797f707c76d92d443892dcb819f0ca57, type: 3}
-  colliderRadius: 0.05
+  name: Apple

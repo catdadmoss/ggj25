@@ -2,8 +2,9 @@ using System.Collections;
 using UnityEngine;
 using UnityEngine.UIElements;
 
-[RequireComponent(typeof(Rigidbody2D))]
-public class TempMovementController : MonoBehaviour
+/*[RequireComponent(typeof(Rigidbody2D))]*/
+[ExecuteAlways]
+public class EnemyMovementController : MonoBehaviour
 {
     [SerializeField]
     protected EnemyMovementScriptableObject movementScriptableObject;
@@ -11,7 +12,7 @@ public class TempMovementController : MonoBehaviour
     private Rigidbody2D rigidBody;
     protected bool isOnGround;
 
-    protected Rigidbody2D RigidBody
+    public Rigidbody2D RigidBody
     {
         get 
         { 
@@ -31,7 +32,7 @@ public class TempMovementController : MonoBehaviour
         {
             RigidBody.AddForce(movementScriptableObject.MovementVector, ForceMode2D.Impulse);
             RigidBody.linearVelocity = Vector2.ClampMagnitude(RigidBody.linearVelocity, movementScriptableObject.MaxSpeed);
-            Debug.Log(RigidBody.linearVelocity);
+            //Debug.Log(RigidBody.linearVelocity);
             //rigidBody.linearVelocity+= movementScriptableObject.MovementVector;
         }
     }

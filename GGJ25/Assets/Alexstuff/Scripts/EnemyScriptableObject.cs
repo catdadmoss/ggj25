@@ -14,44 +14,24 @@ public class EnemyScriptableObject : ScriptableObject
     private Sprite image;
 
     [SerializeField]
-    [OnChangedCall("onColliderRadiusChanged")]
-    private float colliderRadius;
+    [OnChangedCall("onNameChanged")]
+    private string enemyName;
 
     public float GravityModifier
     {
         get { return gravityModifier; }
-        set { gravityModifier = value; onGravityModifierChanged(); }
+        set { gravityModifier = value; }
     }
 
+    public string EnemyName { get => enemyName; set => enemyName = value; }
     public Sprite Image
     {
         get { return image; }
         set { image = value; onImageChanged(); }
     }
 
-    public float ColliderRadius
-    {
-        get { return colliderRadius; }
-        set { colliderRadius = value; onColliderRadiusChanged(); }
-    }
-
-    public delegate void GravityMultiDelegate(float gravity);
-    public GravityMultiDelegate gravityDelegate;
-
     public delegate void ImageMultiDelegate(Sprite image);
     public ImageMultiDelegate imageDelegate;
-
-    public delegate void RadiusMultiDelegate(float radius);
-    public RadiusMultiDelegate radiusDelegate;
-
-    public void onGravityModifierChanged()
-    {
-        if (gravityDelegate == null)
-        {
-            return;
-        }
-        this.gravityDelegate(this.gravityModifier);
-    }
 
     public void onImageChanged()
     {
@@ -60,14 +40,5 @@ public class EnemyScriptableObject : ScriptableObject
             return;
         }
         this.imageDelegate(this.image);
-    }
-
-    public void onColliderRadiusChanged()
-    {
-        if(radiusDelegate==null)
-        {
-            return;
-        }
-        this.radiusDelegate(this.colliderRadius);
     }
 }

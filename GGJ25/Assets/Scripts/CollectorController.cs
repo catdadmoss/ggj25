@@ -1,4 +1,6 @@
+using Unity.VisualScripting;
 using UnityEngine;
+using static Unity.VisualScripting.Metadata;
 
 public class CollectorController : MonoBehaviour
 {
@@ -19,6 +21,12 @@ public class CollectorController : MonoBehaviour
                 collision.transform.parent = transform;
                 size += collision.transform.localScale.magnitude;
                 GameController.Instance.UpdateScore(size);
+
+                EnemyController controller = collision.gameObject.GetComponent<EnemyController>();
+                if (controller != null)
+                {
+                    controller.OnEnemyCollected();
+                }
 
             }
         }

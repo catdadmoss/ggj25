@@ -2,81 +2,62 @@ using System.Collections;
 using Unity.VisualScripting;
 using UnityEngine;
 
+
+/*[RequireComponent(typeof(Rigidbody2D))]*/
+[RequireComponent(typeof(SpriteRenderer))]
 [ExecuteAlways]
 public class EnemyController : MonoBehaviour
 {
     [SerializeField]
     protected EnemyScriptableObject enemyScriptableObject;
+    private SpriteRenderer myRenderer;
 
-    protected float gravityModifier;
-    protected SpriteRenderer myRenderer;
-    protected CircleCollider2D myCollider;
+    protected SpriteRenderer MyRenderer
+    {
+        get 
+        { 
+            if(myRenderer == null)
+            {
+                myRenderer = GetComponent<SpriteRenderer>();
+            }
+            return myRenderer; 
+        }
+        set { myRenderer = value; }
+    }
 
-    private bool hasAwaken=false;
+    public float GetGravityModifier() 
+    {
+        return enemyScriptableObject.GravityModifier;
+    }
+
+    public string GetName()
+    {
+        return enemyScriptableObject.EnemyName;
+    }
 
     private void Awake()
     {
-        this.searchForGravityModifier();
-        this.searchForSpriteRenderer();
-        this.searchForCircleCollider();
+        enemyScriptableObject.imageDelegate -= onImageChange;
+        enemyScriptableObject.imageDelegate += onImageChange;
+        MyRenderer.sprite = enemyScriptableObject.Image;
     }
 
     private void OnEnable()
     {
-        this.searchForGravityModifier();
-        this.searchForSpriteRenderer();
-        this.searchForCircleCollider();
+        enemyScriptableObject.imageDelegate -= onImageChange;
+        enemyScriptableObject.imageDelegate += onImageChange;
+        MyRenderer.sprite = enemyScriptableObject.Image;
     }
 
     private void OnDestroy()
     {
-        enemyScriptableObject.gravityDelegate -= onModifierChange;
+
         enemyScriptableObject.imageDelegate -= onImageChange;
-        enemyScriptableObject.radiusDelegate -= onRadiusChange;
     }
 
     private void OnDisable()
     {
-        enemyScriptableObject.gravityDelegate -= onModifierChange;
         enemyScriptableObject.imageDelegate -= onImageChange;
-        enemyScriptableObject.radiusDelegate -= onRadiusChange;
-    }
-
-    private void searchForGravityModifier()
-    {
-        gravityModifier = enemyScriptableObject.GravityModifier;
-        enemyScriptableObject.gravityDelegate -= onModifierChange;
-        enemyScriptableObject.gravityDelegate += onModifierChange;
-    }
-
-    private void searchForSpriteRenderer()
-    {
-        myRenderer = GetComponent<SpriteRenderer>();
-        if (myRenderer == null)
-        {
-            myRenderer = gameObject.AddComponent<SpriteRenderer>();
-        }
-        myRenderer.sprite = enemyScriptableObject.Image;
-        enemyScriptableObject.imageDelegate -= onImageChange;
-        enemyScriptableObject.imageDelegate += onImageChange;
-    }
-
-    private void searchForCircleCollider()
-    {
-        myCollider = GetComponent<CircleCollider2D>();
-        if (myCollider == null)
-        {
-            myCollider = gameObject.AddComponent<CircleCollider2D>();
-        }
-        myCollider.radius = enemyScriptableObject.ColliderRadius;
-        enemyScriptableObject.radiusDelegate -= onRadiusChange;
-        enemyScriptableObject.radiusDelegate += onRadiusChange;
-    }
-
-    private void onModifierChange(float modifier)
-    {
-        //this.searchForGravityModifier();
-        StartCoroutine(ModifierWait());
     }
 
     private void onImageChange(Sprite image)
@@ -85,28 +66,39 @@ public class EnemyController : MonoBehaviour
         StartCoroutine(ImageWait()); 
     }
 
-    private void onRadiusChange(float radius)
-    {
-        //this.searchForCircleCollider();
-        StartCoroutine(RadiusWait());
-    }
-
-    IEnumerator ModifierWait()
-    {
-        yield return new WaitForSeconds(.1f);
-        gravityModifier = this.enemyScriptableObject.GravityModifier;
-    }
-
     IEnumerator ImageWait()
     {
         yield return new WaitForSeconds(.1f);
-        myRenderer.sprite = this.enemyScriptableObject.Image;
+        MyRenderer.sprite = this.enemyScriptableObject.Image;
     }
 
-    IEnumerator RadiusWait()
+    public void OnEnemyCollected()
     {
-        yield return new WaitForSeconds(.1f);
-        Debug.Log(this.enemyScriptableObject.ColliderRadius);
-        myCollider.radius = this.enemyScriptableObject.ColliderRadius;
+        Destroy(gameObject.GetComponent<Rigidbody2D>());
+
+        EnemyMovementController movementController = gameObject.GetComponent<EnemyMovementController>();
+        if (movementController != null)
+        {
+            movementController.enabled = false;
+            //Destroy(movementController);
+        }
+       
+       /* EnemyController ce = collision.gameObject.GetComponent<EnemyController>();
+        if (ce != null)
+        {
+            ce.enabled = false;
+            Destroy(ce);
+        }*/
+        foreach (Transform child in transform)
+        {
+            if (child.gameObject.layer == LayerMask.NameToLayer("EnemyMovement"))
+            {
+                // Destroy(child.gameObject);
+                child.gameObject.SetActive(false);
+                Debug.Log(child.gameObject);
+            }
+        }
+
+        this.enabled = false;
     }
 }

@@ -14,4 +14,4 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gravityModifier: 0
   image: {fileID: -3170320050558582093, guid: 2c853752dffa8b543b77ba94be0e5c3d, type: 3}
-  colliderRadius: 0.7
+  colliderRadius: 0.15

@@ -55,8 +55,8 @@ public class EnemyController : MonoBehaviour
         if (myRenderer == null)
         {
             myRenderer = gameObject.AddComponent<SpriteRenderer>();
-            myRenderer.sprite = enemyScriptableObject.Image;
         }
+        myRenderer.sprite = enemyScriptableObject.Image;
         enemyScriptableObject.imageDelegate -= onImageChange;
         enemyScriptableObject.imageDelegate += onImageChange;
     }
@@ -67,8 +67,8 @@ public class EnemyController : MonoBehaviour
         if (myCollider == null)
         {
             myCollider = gameObject.AddComponent<CircleCollider2D>();
-            myCollider.radius = enemyScriptableObject.ColliderRadius;
         }
+        myCollider.radius = enemyScriptableObject.ColliderRadius;
         enemyScriptableObject.radiusDelegate -= onRadiusChange;
         enemyScriptableObject.radiusDelegate += onRadiusChange;
     }

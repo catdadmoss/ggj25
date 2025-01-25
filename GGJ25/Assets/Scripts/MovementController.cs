@@ -7,6 +7,8 @@ public class MovementController : MonoBehaviour
     [SerializeField] private float rollSpeed;
     [SerializeField] private float jumpForce;
     private bool isFloored=false;
+    private bool jumpInput = false;
+    private Vector3 horizontalInput = Vector3.zero;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
@@ -25,17 +27,32 @@ public class MovementController : MonoBehaviour
     {
         if (collision.gameObject.CompareTag("Ground"))
         {
-            isFloored = false;
         }
+    }
+
+    private void Update()
+    {
+        horizontalInput = new Vector3(Input.GetAxis("Horizontal"), 0f, 0f);
+        jumpInput = Input.GetButtonDown("Jump");
     }
     // Update is called once per frame
     void FixedUpdate()
     {
-        var horizontalInput = new Vector3(Input.GetAxis("Horizontal"),0f,0f);
-        rigidBody.AddForce(horizontalInput*rollSpeed*Time.fixedDeltaTime*collectorController.Size);
-        if(isFloored && Input.GetButtonDown("Jump") )
+        if(!horizontalInput.Equals(Vector3.zero))
+        {
+            if(isFloored)
+            {
+                rigidBody.AddForce(horizontalInput * rollSpeed * Time.fixedDeltaTime * collectorController.Size);
+            }
+            else
+            {
+                rigidBody.AddTorque(-1*rollSpeed * Time.fixedDeltaTime * horizontalInput.x);
+            }
+        }
+        if (isFloored && jumpInput)
         {
             rigidBody.AddForce(Vector2.up*jumpForce*collectorController.Size);
+            isFloored = false;
         }
     }
 }

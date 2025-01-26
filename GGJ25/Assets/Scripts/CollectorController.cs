@@ -41,7 +41,7 @@ public class CollectorController : MonoBehaviour
             var parentObject = collision.gameObject.transform.parent.gameObject;
             EnemyController enemyController = parentObject.GetComponent<EnemyController>();
 
-            if (enemyController != null && enemyController.GetGravityModifier() <= size)
+            if (enemyController != null && enemyController.GetGravityModifier() <= size && parentObject.GetComponent<GravityObject>()==null)
             {
                 var newGravityObject = parentObject.AddComponent<GravityObject>();
                 newGravityObject.GravityType = GravityObject.GravityObjectType.PullsAndGetsPulled;

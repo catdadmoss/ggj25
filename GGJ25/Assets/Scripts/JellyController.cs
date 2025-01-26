@@ -91,7 +91,7 @@ public class JellyController : MonoBehaviour
         var res = new List<CircleCollider2D>();
         //GetComponentsInChildren<CircleCollider2D>(res);
         var t = transform;
-        int cnt = t.GetChildCount();
+        int cnt = t.childCount;
         for (int i = 0; i < cnt; i++)
         {
             var child = t.GetChild(i);

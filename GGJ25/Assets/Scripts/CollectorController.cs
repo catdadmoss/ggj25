@@ -11,6 +11,7 @@ public class CollectorController : MonoBehaviour
     private Bounds bounds;
     [SerializeField] private GameObject aura;
     [SerializeField] private Rigidbody2D stickyCenter;
+    [SerializeField] private float innerGravityRange = 1;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
@@ -41,10 +42,13 @@ public class CollectorController : MonoBehaviour
 
             if (enemyController != null && enemyController.GetGravityModifier() <= size)
             {
-                var newJoint = parentObject.AddComponent<SpringJoint2D>();
-                newJoint.connectedBody = stickyCenter;
+                var newGravityObject = parentObject.AddComponent<GravityObject>();
+                newGravityObject.GravityType = GravityObject.GravityObjectType.PullsAndGetsPulled;
+                newGravityObject.GravityRange = innerGravityRange;
+                newGravityObject.Mass = enemyController.GetGravityModifier();
+         
                 parentObject.transform.parent = stickyCenter.transform;
-                size += collision.transform.localScale.magnitude;
+                size += enemyController.GetGravityModifier();
                 GameController.Instance.UpdateScore(size);
 
 

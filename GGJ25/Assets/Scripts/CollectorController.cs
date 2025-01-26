@@ -16,10 +16,10 @@ public class CollectorController : MonoBehaviour
     {
         size = 0.5f;
         bounds = GetComponent<Renderer>().bounds;
-        foreach(Transform child in transform)
+        foreach (Transform child in transform)
         {
             var childRenderer = child.GetComponent<Renderer>();
-            if(childRenderer != null)
+            if (childRenderer != null)
             {
                 bounds.Encapsulate(childRenderer.bounds);
             }
@@ -29,30 +29,30 @@ public class CollectorController : MonoBehaviour
     private void Update()
     {
         var largerAxisSize = bounds.max.magnitude;
-        aura.transform.localScale = Vector3.Lerp(aura.transform.localScale,new Vector3(largerAxisSize, largerAxisSize, 1f),Time.deltaTime);
+        aura.transform.localScale = Vector3.Lerp(aura.transform.localScale, new Vector3(largerAxisSize, largerAxisSize, 1f), Time.deltaTime);
     }
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
         if (collision.gameObject.CompareTag("Collectible"))
         {
-            EnemyController enemyController = collision.gameObject.GetComponent<EnemyController>();
+            var parentObject = collision.gameObject.transform.parent.gameObject;
+            EnemyController enemyController = parentObject.GetComponent<EnemyController>();
 
-            if (enemyController!=null && enemyController.GetGravityModifier()<= size)
+            if (enemyController != null && enemyController.GetGravityModifier() <= size)
             {
-                var newJoint= collision.gameObject.AddComponent<SpringJoint2D>();
+                var newJoint = parentObject.AddComponent<SpringJoint2D>();
                 newJoint.connectedBody = stickyCenter;
-                collision.transform.parent = stickyCenter.transform;
+                parentObject.transform.parent = stickyCenter.transform;
                 size += collision.transform.localScale.magnitude;
                 GameController.Instance.UpdateScore(size);
 
-                if (enemyController != null)
-                {
-                    enemyController.OnEnemyCollected();
-                }
 
-                bounds.Encapsulate(collision.gameObject.GetComponentInChildren<Renderer>().bounds);
-               
+                enemyController.OnEnemyCollected();
+
+
+                bounds.Encapsulate(parentObject.GetComponent<Renderer>().bounds);
+
             }
         }
     }

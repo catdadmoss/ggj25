@@ -89,16 +89,30 @@ public class JellyController : MonoBehaviour
     public List<CircleCollider2D> GetColliders()
     {
         var res = new List<CircleCollider2D>();
-        GetComponentsInChildren<CircleCollider2D>(res);
-        for (int i = 0; i < res.Count; i++)
+        //GetComponentsInChildren<CircleCollider2D>(res);
+        var t = transform;
+        int cnt = t.GetChildCount();
+        for (int i = 0; i < cnt; i++)
         {
-            if (res[i].gameObject == this.gameObject || res[i].transform.name == "Rotator")
-            {
-                res[i] = res[res.Count - 1];
-                res.RemoveAt(res.Count - 1);
-                break;
-            }
+            var child = t.GetChild(i);
+            if (child.name == "Rotator")
+                continue;
+            var cc = child.GetComponent<CircleCollider2D>();
+            if (cc == null)
+                continue;
+
+            res.Add(cc);
         }
+        //for (int i = 0; i < res.Count; i++)
+        //{
+        //    if (res[i].gameObject == this.gameObject || res[i].transform.name == "Rotator" || res[i].transform.parent != transform)
+        //    {
+        //        res[i] = res[res.Count - 1];
+        //        res.RemoveAt(res.Count - 1);
+        //        i--;
+        //    }
+            
+        //}
 
         return res;
     }

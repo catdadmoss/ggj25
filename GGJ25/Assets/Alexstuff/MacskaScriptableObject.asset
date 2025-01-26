@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 28cbc83a52ae5144c84eae0dcd258ec2, type: 3}
   m_Name: MacskaScriptableObject
   m_EditorClassIdentifier: 
-  gravityModifier: 1
+  gravityModifier: 0.1
   image: {fileID: 4786659904442725446, guid: ed4280a3beddbf348ba37a92206fa71e, type: 3}
   enemyName: Cat

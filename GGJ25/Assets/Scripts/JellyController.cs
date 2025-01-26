@@ -96,7 +96,7 @@ public class JellyController : MonoBehaviour
         var res = new List<CircleCollider2D>();
         foreach (Transform child in transform)
         {
-            if (child.name != "Rotator" && child.name != "Sprite")
+            if (child.name != "Rotator" && child.name != "Sprite" && child.name != "auraSprite")
             {
                 var collider = child.GetComponent<CircleCollider2D>();
                 if (collider != null)

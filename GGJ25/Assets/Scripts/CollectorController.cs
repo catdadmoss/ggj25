@@ -1,8 +1,4 @@
-using Unity.VisualScripting;
-using Unity.VisualScripting;
-using UnityEditor.Media;
 using UnityEngine;
-using static Unity.VisualScripting.Metadata;
 
 public class CollectorController : MonoBehaviour
 {

@@ -35,6 +35,7 @@ public class CollectorController : MonoBehaviour
     {
         if (collision.gameObject.CompareTag("Collectible"))
         {
+            EnemyController enemyController = collision.gameObject.GetComponent<EnemyController>();
 
             if (collision.transform.localScale.magnitude <= size)
             {
@@ -43,10 +44,9 @@ public class CollectorController : MonoBehaviour
                 size += collision.transform.localScale.magnitude;
                 GameController.Instance.UpdateScore(size);
 
-                EnemyController controller = collision.gameObject.GetComponent<EnemyController>();
-                if (controller != null)
+                if (enemyController != null)
                 {
-                    controller.OnEnemyCollected();
+                    enemyController.OnEnemyCollected();
                 }
 
                 bounds.Encapsulate(collision.gameObject.GetComponentInChildren<Renderer>().bounds);

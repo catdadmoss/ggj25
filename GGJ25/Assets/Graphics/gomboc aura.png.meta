@@ -1,0 +1,7642 @@
+fileFormatVersion: 2
+guid: e5725d1a89d159749b7b23a5c8dfe129
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8911731246926083785
+    second: gomboc aura_0
+  - first:
+      213: -7462675076696937275
+    second: gomboc aura_1
+  - first:
+      213: -5245186678954480764
+    second: gomboc aura_2
+  - first:
+      213: 8490774748467526343
+    second: gomboc aura_3
+  - first:
+      213: -8581233186575782820
+    second: gomboc aura_4
+  - first:
+      213: -4506660779667382587
+    second: gomboc aura_5
+  - first:
+      213: 793994441982018189
+    second: gomboc aura_6
+  - first:
+      213: -1685894046419975753
+    second: gomboc aura_7
+  - first:
+      213: 1473120060075965571
+    second: gomboc aura_8
+  - first:
+      213: -6281077420882692153
+    second: gomboc aura_9
+  - first:
+      213: -6517241243354791673
+    second: gomboc aura_10
+  - first:
+      213: 8267786210801504778
+    second: gomboc aura_11
+  - first:
+      213: -6950841416366049241
+    second: gomboc aura_12
+  - first:
+      213: 8838887354616359841
+    second: gomboc aura_13
+  - first:
+      213: 1241414078198841376
+    second: gomboc aura_14
+  - first:
+      213: -7763482279290510129
+    second: gomboc aura_15
+  - first:
+      213: -689586206846378654
+    second: gomboc aura_16
+  - first:
+      213: -5283179338967156107
+    second: gomboc aura_17
+  - first:
+      213: -874655265579712320
+    second: gomboc aura_18
+  - first:
+      213: 114869090072152501
+    second: gomboc aura_19
+  - first:
+      213: -7253687821982400226
+    second: gomboc aura_20
+  - first:
+      213: 4067690413053303616
+    second: gomboc aura_21
+  - first:
+      213: -4532825922367562826
+    second: gomboc aura_22
+  - first:
+      213: -4374425591181085655
+    second: gomboc aura_23
+  - first:
+      213: 6292191176125471833
+    second: gomboc aura_24
+  - first:
+      213: 5219526516589504922
+    second: gomboc aura_25
+  - first:
+      213: 7196694709250798151
+    second: gomboc aura_26
+  - first:
+      213: 5287695205298713349
+    second: gomboc aura_27
+  - first:
+      213: -1031998504956983801
+    second: gomboc aura_28
+  - first:
+      213: 652431752269922978
+    second: gomboc aura_29
+  - first:
+      213: -1740112904265486315
+    second: gomboc aura_30
+  - first:
+      213: 3911455627090065987
+    second: gomboc aura_31
+  - first:
+      213: -1109456336319956684
+    second: gomboc aura_32
+  - first:
+      213: 3542351131535434846
+    second: gomboc aura_33
+  - first:
+      213: 1421042344425600106
+    second: gomboc aura_34
+  - first:
+      213: -6988803128181497728
+    second: gomboc aura_35
+  - first:
+      213: -7091416837046608309
+    second: gomboc aura_36
+  - first:
+      213: 6023054582126837269
+    second: gomboc aura_37
+  - first:
+      213: 4854418237736372527
+    second: gomboc aura_38
+  - first:
+      213: -1782886502063035777
+    second: gomboc aura_39
+  - first:
+      213: 6648948053986611041
+    second: gomboc aura_40
+  - first:
+      213: -6595946553033649822
+    second: gomboc aura_41
+  - first:
+      213: -7326552231041997586
+    second: gomboc aura_42
+  - first:
+      213: -822259133162077937
+    second: gomboc aura_43
+  - first:
+      213: -2482840430591020246
+    second: gomboc aura_44
+  - first:
+      213: 544232625667430966
+    second: gomboc aura_45
+  - first:
+      213: -4087584640939986592
+    second: gomboc aura_46
+  - first:
+      213: 4988363348641195709
+    second: gomboc aura_47
+  - first:
+      213: -5747520369252295067
+    second: gomboc aura_48
+  - first:
+      213: 5470310685813724891
+    second: gomboc aura_49
+  - first:
+      213: 8634717320957396495
+    second: gomboc aura_50
+  - first:
+      213: 2549428579799606441
+    second: gomboc aura_51
+  - first:
+      213: -2876583265047329090
+    second: gomboc aura_52
+  - first:
+      213: 3655870310870445636
+    second: gomboc aura_53
+  - first:
+      213: -472959604706642517
+    second: gomboc aura_54
+  - first:
+      213: 4652922149110543518
+    second: gomboc aura_55
+  - first:
+      213: 8613621415205498505
+    second: gomboc aura_56
+  - first:
+      213: 2875382501774505101
+    second: gomboc aura_57
+  - first:
+      213: -8668338753939062960
+    second: gomboc aura_58
+  - first:
+      213: -4506382649619013949
+    second: gomboc aura_59
+  - first:
+      213: -472242076226135674
+    second: gomboc aura_60
+  - first:
+      213: 9002189594421639507
+    second: gomboc aura_61
+  - first:
+      213: 2766045983573908261
+    second: gomboc aura_62
+  - first:
+      213: 73759528905902774
+    second: gomboc aura_63
+  - first:
+      213: 7265611070258871004
+    second: gomboc aura_64
+  - first:
+      213: -3722272258135098073
+    second: gomboc aura_65
+  - first:
+      213: 8693158165000640800
+    second: gomboc aura_66
+  - first:
+      213: -1340118649357616064
+    second: gomboc aura_67
+  - first:
+      213: -1917184733552080463
+    second: gomboc aura_68
+  - first:
+      213: 4879199391505715961
+    second: gomboc aura_69
+  - first:
+      213: 6900147646240250209
+    second: gomboc aura_70
+  - first:
+      213: 919472059576828565
+    second: gomboc aura_71
+  - first:
+      213: 9166619764011422607
+    second: gomboc aura_72
+  - first:
+      213: 6882232383180458943
+    second: gomboc aura_73
+  - first:
+      213: -174771829182995775
+    second: gomboc aura_74
+  - first:
+      213: 5842862910101362208
+    second: gomboc aura_75
+  - first:
+      213: 4163807021118003508
+    second: gomboc aura_76
+  - first:
+      213: -5679827177443984313
+    second: gomboc aura_77
+  - first:
+      213: -5394147279099879010
+    second: gomboc aura_78
+  - first:
+      213: 244117312637677784
+    second: gomboc aura_79
+  - first:
+      213: -5726438987736262611
+    second: gomboc aura_80
+  - first:
+      213: -3310578977840857708
+    second: gomboc aura_81
+  - first:
+      213: -6146677178802849039
+    second: gomboc aura_82
+  - first:
+      213: 958809470404744269
+    second: gomboc aura_83
+  - first:
+      213: -983179378183337937
+    second: gomboc aura_84
+  - first:
+      213: -3363250287158217089
+    second: gomboc aura_85
+  - first:
+      213: -4150421748115854572
+    second: gomboc aura_86
+  - first:
+      213: 2298964336576345042
+    second: gomboc aura_87
+  - first:
+      213: 5195864896953548501
+    second: gomboc aura_88
+  - first:
+      213: 7144809379882507984
+    second: gomboc aura_89
+  - first:
+      213: -4276966856577075157
+    second: gomboc aura_90
+  - first:
+      213: 8389445001786793856
+    second: gomboc aura_91
+  - first:
+      213: -7672634817212050244
+    second: gomboc aura_92
+  - first:
+      213: 50516092542657850
+    second: gomboc aura_93
+  - first:
+      213: 621399243310466675
+    second: gomboc aura_94
+  - first:
+      213: -5178513105639776179
+    second: gomboc aura_95
+  - first:
+      213: -8957098518344974095
+    second: gomboc aura_96
+  - first:
+      213: -6066383388433082152
+    second: gomboc aura_97
+  - first:
+      213: -102278337030058328
+    second: gomboc aura_98
+  - first:
+      213: 1366678402901678563
+    second: gomboc aura_99
+  - first:
+      213: 6126085209443672505
+    second: gomboc aura_100
+  - first:
+      213: 440901289040067416
+    second: gomboc aura_101
+  - first:
+      213: 848738972710776785
+    second: gomboc aura_102
+  - first:
+      213: -6939816633923473913
+    second: gomboc aura_103
+  - first:
+      213: 2171266132851681612
+    second: gomboc aura_104
+  - first:
+      213: -8210158552115937242
+    second: gomboc aura_105
+  - first:
+      213: -8039120615444829895
+    second: gomboc aura_106
+  - first:
+      213: -8186359596420127416
+    second: gomboc aura_107
+  - first:
+      213: -1819502272309702700
+    second: gomboc aura_108
+  - first:
+      213: 7643905140647375797
+    second: gomboc aura_109
+  - first:
+      213: -5175778712190089166
+    second: gomboc aura_110
+  - first:
+      213: -4236864591458591900
+    second: gomboc aura_111
+  - first:
+      213: -8266679375960877176
+    second: gomboc aura_112
+  - first:
+      213: 7918001954559045357
+    second: gomboc aura_113
+  - first:
+      213: -8568622375506830421
+    second: gomboc aura_114
+  - first:
+      213: 243037146996851253
+    second: gomboc aura_115
+  - first:
+      213: -7096440095071645634
+    second: gomboc aura_116
+  - first:
+      213: 7342230584243237156
+    second: gomboc aura_117
+  - first:
+      213: -8659683326086917582
+    second: gomboc aura_118
+  - first:
+      213: 8507321890908712529
+    second: gomboc aura_119
+  - first:
+      213: -8623241525331782012
+    second: gomboc aura_120
+  - first:
+      213: 4678242981052611274
+    second: gomboc aura_121
+  - first:
+      213: -2107260108819788325
+    second: gomboc aura_122
+  - first:
+      213: -6722017954933792588
+    second: gomboc aura_123
+  - first:
+      213: 2598803188527255474
+    second: gomboc aura_124
+  - first:
+      213: 168379492974180640
+    second: gomboc aura_125
+  - first:
+      213: 8592174657174375572
+    second: gomboc aura_126
+  - first:
+      213: -7672943719099260358
+    second: gomboc aura_127
+  - first:
+      213: 4623383497390172558
+    second: gomboc aura_128
+  - first:
+      213: 1462052477967052948
+    second: gomboc aura_129
+  - first:
+      213: -3595649707000259791
+    second: gomboc aura_130
+  - first:
+      213: 4801056238957921481
+    second: gomboc aura_131
+  - first:
+      213: 9139313561789554495
+    second: gomboc aura_132
+  - first:
+      213: -1761977656347186634
+    second: gomboc aura_133
+  - first:
+      213: -5080418337440717354
+    second: gomboc aura_134
+  - first:
+      213: 1023479052956164986
+    second: gomboc aura_135
+  - first:
+      213: -4622392812517652212
+    second: gomboc aura_136
+  - first:
+      213: -6270933789280242493
+    second: gomboc aura_137
+  - first:
+      213: 5150745260991845088
+    second: gomboc aura_138
+  - first:
+      213: 7384405176162064295
+    second: gomboc aura_139
+  - first:
+      213: -4838337279860165847
+    second: gomboc aura_140
+  - first:
+      213: -8873358519838435948
+    second: gomboc aura_141
+  - first:
+      213: -3849299347520223192
+    second: gomboc aura_142
+  - first:
+      213: 1263542370395553965
+    second: gomboc aura_143
+  - first:
+      213: -5658342259251240616
+    second: gomboc aura_144
+  - first:
+      213: -1414021353229777175
+    second: gomboc aura_145
+  - first:
+      213: 6626263696580415486
+    second: gomboc aura_146
+  - first:
+      213: 8702914844084786325
+    second: gomboc aura_147
+  - first:
+      213: -8078624693262136323
+    second: gomboc aura_148
+  - first:
+      213: 3523167329071255526
+    second: gomboc aura_149
+  - first:
+      213: 4660546490051485296
+    second: gomboc aura_150
+  - first:
+      213: -6636653862783922091
+    second: gomboc aura_151
+  - first:
+      213: 7993900726272549546
+    second: gomboc aura_152
+  - first:
+      213: 2693014633285149231
+    second: gomboc aura_153
+  - first:
+      213: -1894012461122996812
+    second: gomboc aura_154
+  - first:
+      213: -1869411989027208203
+    second: gomboc aura_155
+  - first:
+      213: 4726663507250344692
+    second: gomboc aura_156
+  - first:
+      213: -7718977129707722403
+    second: gomboc aura_157
+  - first:
+      213: 4588539244612321905
+    second: gomboc aura_158
+  - first:
+      213: 445924021881051758
+    second: gomboc aura_159
+  - first:
+      213: -2887326342205082054
+    second: gomboc aura_160
+  - first:
+      213: -7670561592337185230
+    second: gomboc aura_161
+  - first:
+      213: 1430209707773042487
+    second: gomboc aura_162
+  - first:
+      213: 622838438871516172
+    second: gomboc aura_163
+  - first:
+      213: -8779015591405885362
+    second: gomboc aura_164
+  - first:
+      213: -5435678780357623323
+    second: gomboc aura_165
+  - first:
+      213: 577927835644245184
+    second: gomboc aura_166
+  - first:
+      213: -724963135863785447
+    second: gomboc aura_167
+  - first:
+      213: -6679844714235616168
+    second: gomboc aura_168
+  - first:
+      213: 8937794735874883586
+    second: gomboc aura_169
+  - first:
+      213: -3014229261379116955
+    second: gomboc aura_170
+  - first:
+      213: 2979480076477593806
+    second: gomboc aura_171
+  - first:
+      213: 5749565274956302774
+    second: gomboc aura_172
+  - first:
+      213: -3570342405143203461
+    second: gomboc aura_173
+  - first:
+      213: -5171172143565461358
+    second: gomboc aura_174
+  - first:
+      213: -2120763217543531229
+    second: gomboc aura_175
+  - first:
+      213: 8391411486181856998
+    second: gomboc aura_176
+  - first:
+      213: -2667226973590094281
+    second: gomboc aura_177
+  - first:
+      213: -6417418223606520658
+    second: gomboc aura_178
+  - first:
+      213: -9002872529311489487
+    second: gomboc aura_179
+  - first:
+      213: 7186418006322778896
+    second: gomboc aura_180
+  - first:
+      213: -6595852151744522656
+    second: gomboc aura_181
+  - first:
+      213: -342049402402675537
+    second: gomboc aura_182
+  - first:
+      213: -472570007049609750
+    second: gomboc aura_183
+  - first:
+      213: -5547789332799384508
+    second: gomboc aura_184
+  - first:
+      213: -5103349763657146928
+    second: gomboc aura_185
+  - first:
+      213: -622636210447524505
+    second: gomboc aura_186
+  - first:
+      213: 4218739060779473291
+    second: gomboc aura_187
+  - first:
+      213: -8755955945224116511
+    second: gomboc aura_188
+  - first:
+      213: -5575802215782661042
+    second: gomboc aura_189
+  - first:
+      213: 8462932799706281359
+    second: gomboc aura_190
+  - first:
+      213: 2875982003632909160
+    second: gomboc aura_191
+  - first:
+      213: -2206609951589938507
+    second: gomboc aura_192
+  - first:
+      213: -2844472519286066344
+    second: gomboc aura_193
+  - first:
+      213: -1803849833280048721
+    second: gomboc aura_194
+  - first:
+      213: -3630012713657573772
+    second: gomboc aura_195
+  - first:
+      213: -4211781606288777373
+    second: gomboc aura_196
+  - first:
+      213: 4285849884674540613
+    second: gomboc aura_197
+  - first:
+      213: -7249025085769203452
+    second: gomboc aura_198
+  - first:
+      213: 1017796966870337352
+    second: gomboc aura_199
+  - first:
+      213: 8643625968694018408
+    second: gomboc aura_200
+  - first:
+      213: 4446682249404779753
+    second: gomboc aura_201
+  - first:
+      213: -3041709264246829737
+    second: gomboc aura_202
+  - first:
+      213: 60937125868418802
+    second: gomboc aura_203
+  - first:
+      213: 1299243991177064778
+    second: gomboc aura_204
+  - first:
+      213: -7234293375989767122
+    second: gomboc aura_205
+  - first:
+      213: -1494397641236454141
+    second: gomboc aura_206
+  - first:
+      213: -729623976476484832
+    second: gomboc aura_207
+  - first:
+      213: -2559351788681150795
+    second: gomboc aura_208
+  - first:
+      213: 3809968838060163077
+    second: gomboc aura_209
+  - first:
+      213: -3539359993555900985
+    second: gomboc aura_210
+  - first:
+      213: 2602735145211320626
+    second: gomboc aura_211
+  - first:
+      213: -6983936314154266251
+    second: gomboc aura_212
+  - first:
+      213: 9181071042393732957
+    second: gomboc aura_213
+  - first:
+      213: -6218600718998124803
+    second: gomboc aura_214
+  - first:
+      213: 4265941803740421223
+    second: gomboc aura_215
+  - first:
+      213: 6394889297102673493
+    second: gomboc aura_216
+  - first:
+      213: -2530098149307013526
+    second: gomboc aura_217
+  - first:
+      213: 5736000309949433142
+    second: gomboc aura_218
+  - first:
+      213: 5349914918285553290
+    second: gomboc aura_219
+  - first:
+      213: 3530344481364226972
+    second: gomboc aura_220
+  - first:
+      213: 1935058921704046307
+    second: gomboc aura_221
+  - first:
+      213: -5731129366784891968
+    second: gomboc aura_222
+  - first:
+      213: -6991272231326179716
+    second: gomboc aura_223
+  - first:
+      213: 7266486256062063195
+    second: gomboc aura_224
+  - first:
+      213: 3796892684265973801
+    second: gomboc aura_225
+  - first:
+      213: -7377697070611930417
+    second: gomboc aura_226
+  - first:
+      213: -8083815848772654806
+    second: gomboc aura_227
+  - first:
+      213: -1805998192019253197
+    second: gomboc aura_228
+  - first:
+      213: -7105340528538467810
+    second: gomboc aura_229
+  - first:
+      213: 1707375058357144622
+    second: gomboc aura_230
+  - first:
+      213: 8698393916507274568
+    second: gomboc aura_231
+  - first:
+      213: 1369422975326969018
+    second: gomboc aura_232
+  - first:
+      213: 9024135173245960162
+    second: gomboc aura_233
+  - first:
+      213: 544833778483563189
+    second: gomboc aura_234
+  - first:
+      213: 4674232175271888810
+    second: gomboc aura_235
+  - first:
+      213: -1770319502515326521
+    second: gomboc aura_236
+  - first:
+      213: 8517043244380479260
+    second: gomboc aura_237
+  - first:
+      213: 2682550654507927583
+    second: gomboc aura_238
+  - first:
+      213: -6545689013708275521
+    second: gomboc aura_239
+  - first:
+      213: 5250837480954906624
+    second: gomboc aura_240
+  - first:
+      213: -1838707585520375386
+    second: gomboc aura_241
+  - first:
+      213: 768213987535581437
+    second: gomboc aura_242
+  - first:
+      213: -8113618864061490100
+    second: gomboc aura_243
+  - first:
+      213: 1938681882634335936
+    second: gomboc aura_244
+  - first:
+      213: 642216184268736997
+    second: gomboc aura_245
+  - first:
+      213: 3349537543672430383
+    second: gomboc aura_246
+  - first:
+      213: -867520450517404142
+    second: gomboc aura_247
+  - first:
+      213: -4073618332828396831
+    second: gomboc aura_248
+  - first:
+      213: -7760428490608323169
+    second: gomboc aura_249
+  - first:
+      213: -3687647649227948945
+    second: gomboc aura_250
+  - first:
+      213: -8288836129824590405
+    second: gomboc aura_251
+  - first:
+      213: 429680753307646636
+    second: gomboc aura_252
+  - first:
+      213: -831917362680025618
+    second: gomboc aura_253
+  - first:
+      213: -1894011585817281759
+    second: gomboc aura_254
+  - first:
+      213: -7579550971885399467
+    second: gomboc aura_255
+  - first:
+      213: 7114484380985059393
+    second: gomboc aura_256
+  - first:
+      213: -957366527398539779
+    second: gomboc aura_257
+  - first:
+      213: -2643524763665114146
+    second: gomboc aura_258
+  - first:
+      213: 617896447053814522
+    second: gomboc aura_259
+  - first:
+      213: -6581842367053391292
+    second: gomboc aura_260
+  - first:
+      213: -6043898687180404993
+    second: gomboc aura_261
+  - first:
+      213: -7075227629118655342
+    second: gomboc aura_262
+  - first:
+      213: -1663760775122007904
+    second: gomboc aura_263
+  - first:
+      213: 1818370343715350875
+    second: gomboc aura_264
+  - first:
+      213: -9115984883798144835
+    second: gomboc aura_265
+  - first:
+      213: 4069321806634659777
+    second: gomboc aura_266
+  - first:
+      213: 6491477280362743921
+    second: gomboc aura_267
+  - first:
+      213: -898670221987274786
+    second: gomboc aura_268
+  - first:
+      213: -2966090154199693062
+    second: gomboc aura_269
+  - first:
+      213: 990909726260014896
+    second: gomboc aura_270
+  - first:
+      213: -5575491728061505068
+    second: gomboc aura_271
+  - first:
+      213: 7645765031785745825
+    second: gomboc aura_272
+  - first:
+      213: -6712734304230162648
+    second: gomboc aura_273
+  - first:
+      213: 8262878842555572419
+    second: gomboc aura_274
+  - first:
+      213: -7210932948402695732
+    second: gomboc aura_275
+  - first:
+      213: -6114276008534259507
+    second: gomboc aura_276
+  - first:
+      213: 141937267091023862
+    second: gomboc aura_277
+  - first:
+      213: -5850816345751590457
+    second: gomboc aura_278
+  - first:
+      213: 7375199150098849885
+    second: gomboc aura_279
+  - first:
+      213: 8078650777034526411
+    second: gomboc aura_280
+  - first:
+      213: 1273896031119308086
+    second: gomboc aura_281
+  - first:
+      213: 4550216050313572421
+    second: gomboc aura_282
+  - first:
+      213: 4671016678479086070
+    second: gomboc aura_283
+  - first:
+      213: 4620051303206038008
+    second: gomboc aura_284
+  - first:
+      213: -6574952449466188204
+    second: gomboc aura_285
+  - first:
+      213: -835851792284915868
+    second: gomboc aura_286
+  - first:
+      213: 4930005476529777801
+    second: gomboc aura_287
+  - first:
+      213: -7901480534507882960
+    second: gomboc aura_288
+  - first:
+      213: -513799224807085992
+    second: gomboc aura_289
+  - first:
+      213: 2760398802664954602
+    second: gomboc aura_290
+  - first:
+      213: 9039024333228545509
+    second: gomboc aura_291
+  - first:
+      213: 261216301166934304
+    second: gomboc aura_292
+  - first:
+      213: 2760399512566089118
+    second: gomboc aura_293
+  - first:
+      213: 3345387019452803609
+    second: gomboc aura_294
+  - first:
+      213: -8486963823603830372
+    second: gomboc aura_295
+  - first:
+      213: 4306828932981900550
+    second: gomboc aura_296
+  - first:
+      213: 4150940773132721065
+    second: gomboc aura_297
+  - first:
+      213: -7527102168501572847
+    second: gomboc aura_298
+  - first:
+      213: -1394211268543561069
+    second: gomboc aura_299
+  - first:
+      213: 1952369093507482098
+    second: gomboc aura_300
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: gomboc aura_0
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 936
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 739c835b5ab235480800000000000000
+      internalID: -8911731246926083785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_1
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 894
+        width: 42
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cc61538e804f6890800000000000000
+      internalID: -7462675076696937275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_2
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 913
+        width: 36
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48bae44718a5537b0800000000000000
+      internalID: -5245186678954480764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_3
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 922
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ca734ec5aa45d570800000000000000
+      internalID: 8490774748467526343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_4
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 928
+        width: 26
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5c6b53d1e559e880800000000000000
+      internalID: -8581233186575782820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_5
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 920
+        width: 26
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ce9db0f5ef1571c0800000000000000
+      internalID: -4506660779667382587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_6
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 916
+        width: 57
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8209fbfcb5d40b00800000000000000
+      internalID: 793994441982018189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_7
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 944
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b1013a0c408a98e0800000000000000
+      internalID: -1685894046419975753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_8
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 940
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38c7454c3e2917410800000000000000
+      internalID: 1473120060075965571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_9
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 932
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c77f814d5125d8a0800000000000000
+      internalID: -6281077420882692153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_10
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 927
+        width: 47
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70100567e9b1e85a0800000000000000
+      internalID: -6517241243354791673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_11
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 924
+        width: 75
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0252bd01c31db270800000000000000
+      internalID: 8267786210801504778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_12
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 808
+        width: 138
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 728bd671f86a98f90800000000000000
+      internalID: -6950841416366049241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_13
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 908
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aba995f7390aaa70800000000000000
+      internalID: 8838887354616359841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_14
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 904
+        width: 54
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 020063ed6836a3110800000000000000
+      internalID: 1241414078198841376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_15
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 924
+        width: 40
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc469daeff1924490800000000000000
+      internalID: -7763482279290510129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_16
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 918
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26d99ea9ff81e66f0800000000000000
+      internalID: -689586206846378654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_17
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 904
+        width: 39
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57afd28f1606ea6b0800000000000000
+      internalID: -5283179338967156107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_18
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 878
+        width: 59
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c0423a8ba99cd3f0800000000000000
+      internalID: -874655265579712320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_19
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 900
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b94c6d24d8189100800000000000000
+      internalID: 114869090072152501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_20
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 920
+        width: 63
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e11892b8b59b55b90800000000000000
+      internalID: -7253687821982400226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_21
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 903
+        width: 59
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04bdd4e01e6537830800000000000000
+      internalID: 4067690413053303616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_22
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 891
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bb599ce6da2811c0800000000000000
+      internalID: -4532825922367562826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_23
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 892
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 924f54df91bea43c0800000000000000
+      internalID: -4374425591181085655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_24
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 904
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95c5ec7898a525750800000000000000
+      internalID: 6292191176125471833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_25
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 865
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a99ac0d66bb7f6840800000000000000
+      internalID: 5219526516589504922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_26
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 892
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 742b3d555bbcfd360800000000000000
+      internalID: 7196694709250798151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_27
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 857
+        width: 44
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 503bd5816caa16940800000000000000
+      internalID: 5287695205298713349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_28
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 907
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7060e47d3da9da1f0800000000000000
+      internalID: -1031998504956983801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_29
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 871
+        width: 56
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a20c32d837ed0900800000000000000
+      internalID: 652431752269922978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_30
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 904
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 510be287880e9d7e0800000000000000
+      internalID: -1740112904265486315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_31
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 894
+        width: 38
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34af7674b28484630800000000000000
+      internalID: 3911455627090065987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_32
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 889
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 439b7db175b6a90f0800000000000000
+      internalID: -1109456336319956684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_33
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 818
+        width: 23
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e546fd00695f82130800000000000000
+      internalID: 3542351131535434846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_34
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 820
+        width: 27
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a64b646bb7e88b310800000000000000
+      internalID: 1421042344425600106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_35
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 839
+        width: 24
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0806a9b4598c20f90800000000000000
+      internalID: -6988803128181497728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_36
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 840
+        width: 21
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4edc9965f9369d90800000000000000
+      internalID: -7091416837046608309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_37
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 858
+        width: 44
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51e757e1b30369350800000000000000
+      internalID: 6023054582126837269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_38
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 826
+        width: 38
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f29447bdaab5e5340800000000000000
+      internalID: 4854418237736372527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_39
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 830
+        width: 61
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7aa1b92c2ae147e0800000000000000
+      internalID: -1782886502063035777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_40
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 870
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16f85e7070fc54c50800000000000000
+      internalID: 6648948053986611041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_41
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 830
+        width: 46
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26197fc8e8d7674a0800000000000000
+      internalID: -6595946553033649822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_42
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 854
+        width: 50
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee46568409bd25a90800000000000000
+      internalID: -7326552231041997586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_43
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 864
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f01cd86ccafb694f0800000000000000
+      internalID: -822259133162077937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_44
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 820
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a23f4a478cd2b8dd0800000000000000
+      internalID: -2482840430591020246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_45
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 821
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63ad51880b08d8700800000000000000
+      internalID: 544232625667430966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_46
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 831
+        width: 38
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 061fd6f0d6bf547c0800000000000000
+      internalID: -4087584640939986592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_47
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 842
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db6265e390a3a3540800000000000000
+      internalID: 4988363348641195709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_48
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 829
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56e15630da4bc30b0800000000000000
+      internalID: -5747520369252295067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_49
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 819
+        width: 46
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd653f6f5927aeb40800000000000000
+      internalID: 5470310685813724891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_50
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 794
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f06049b97ada4d770800000000000000
+      internalID: 8634717320957396495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_51
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 828
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a42f2f29c3616320800000000000000
+      internalID: 2549428579799606441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_52
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 830
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb64500e2c25418d0800000000000000
+      internalID: -2876583265047329090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_53
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 837
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44e64589da24cb230800000000000000
+      internalID: 3655870310870445636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_54
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 817
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba5f950deb5bf69f0800000000000000
+      internalID: -472959604706642517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_55
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 827
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e94f749da00829040800000000000000
+      internalID: 4652922149110543518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_56
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 813
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98e650b4a0bb98770800000000000000
+      internalID: 8613621415205498505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_57
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 800
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d84b4a3a62967e720800000000000000
+      internalID: 2875382501774505101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_58
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 809
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05fb5b284dfd3b780800000000000000
+      internalID: -8668338753939062960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_59
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 802
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ce99732bdc1671c0800000000000000
+      internalID: -4506382649619013949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_60
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 788
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6895c8e65524279f0800000000000000
+      internalID: -472242076226135674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_61
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 786
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35938309db33eec70800000000000000
+      internalID: 9002189594421639507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_62
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 793
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52b915bba28f26620800000000000000
+      internalID: 2766045983573908261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_63
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 814
+        width: 46
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ba8c3796eb060100800000000000000
+      internalID: 73759528905902774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_64
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 787
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdafce606c2a4d460800000000000000
+      internalID: 7265611070258871004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_65
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 800
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72df0984a15d75cc0800000000000000
+      internalID: -3722272258135098073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_66
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 808
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0295621fa4d44a870800000000000000
+      internalID: 8693158165000640800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_67
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 791
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04cb92c4031f66de0800000000000000
+      internalID: -1340118649357616064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_68
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 789
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b983db74aac465e0800000000000000
+      internalID: -1917184733552080463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_69
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 804
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f21007def566b340800000000000000
+      internalID: 4879199391505715961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_70
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 768
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 169d5e7c9bf32cf50800000000000000
+      internalID: 6900147646240250209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_71
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 791
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59249f377fe92cc00800000000000000
+      internalID: 919472059576828565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_72
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 774
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f83d9f8cb10663f70800000000000000
+      internalID: 9166619764011422607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_73
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 772
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbb492d83e9928f50800000000000000
+      internalID: 6882232383180458943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_74
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 788
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c26dc482f5139df0800000000000000
+      internalID: -174771829182995775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_75
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 777
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02695e32cd4061150800000000000000
+      internalID: 5842862910101362208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_76
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 777
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4391407cc60d8c930800000000000000
+      internalID: 4163807021118003508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_77
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 783
+        width: 44
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74c77de66433d21b0800000000000000
+      internalID: -5679827177443984313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_78
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 776
+        width: 33
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e91ac1b01a32425b0800000000000000
+      internalID: -5394147279099879010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_79
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 768
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d0ba470767436300800000000000000
+      internalID: 244117312637677784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_80
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 780
+        width: 78
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d285804a41a9780b0800000000000000
+      internalID: -5726438987736262611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_81
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 756
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49d7be8b5f57e02d0800000000000000
+      internalID: -3310578977840857708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_82
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 757
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fab4702cad92baa0800000000000000
+      internalID: -6146677178802849039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_83
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 738
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4451c222206e4d00800000000000000
+      internalID: 958809470404744269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_84
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 766
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2884ec809b0b52f0800000000000000
+      internalID: -983179378183337937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_85
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 739
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f76343fdea55351d0800000000000000
+      internalID: -3363250287158217089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_86
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 754
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41baf73f86db666c0800000000000000
+      internalID: -4150421748115854572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_87
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 762
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d3bce832ef87ef10800000000000000
+      internalID: 2298964336576345042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_88
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 749
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5de76db489b6b1840800000000000000
+      internalID: 5195864896953548501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_89
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 747
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0de96c3b646772360800000000000000
+      internalID: 7144809379882507984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_90
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 758
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b28ba95ed4925a4c0800000000000000
+      internalID: -4276966856577075157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_91
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 746
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08f9d2aa7cb4d6470800000000000000
+      internalID: 8389445001786793856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_92
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 758
+        width: 77
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb418ccf843558590800000000000000
+      internalID: -7672634817212050244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_93
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 674
+        width: 23
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3522775e1873b000800000000000000
+      internalID: 50516092542657850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_94
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 716
+        width: 13
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3768739c157af9800800000000000000
+      internalID: 621399243310466675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_95
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 707
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d40e2a174c93228b0800000000000000
+      internalID: -5178513105639776179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_96
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 714
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f0ced3ba5ef1b380800000000000000
+      internalID: -8957098518344974095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_97
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 702
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d89d150370efcba0800000000000000
+      internalID: -6066383388433082152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_98
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 715
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ae0b15f462a49ef0800000000000000
+      internalID: -102278337030058328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_99
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 727
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e9172734ca67f210800000000000000
+      internalID: 1366678402901678563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_100
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 710
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b12aa46a0a340550800000000000000
+      internalID: 6126085209443672505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_101
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 735
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85bbe3ae2656e1600800000000000000
+      internalID: 440901289040067416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_102
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 708
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dfa47f499357cb00800000000000000
+      internalID: 848738972710776785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_103
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 724
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70ee4a84a81d0bf90800000000000000
+      internalID: -6939816633923473913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_104
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 617
+        width: 129
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c49e5714b03e12e10800000000000000
+      internalID: 2171266132851681612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_105
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 675
+        width: 22
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6208e7fcb48af0e80800000000000000
+      internalID: -8210158552115937242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_106
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 670
+        width: 70
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93924e1b46e4f6090800000000000000
+      internalID: -8039120615444829895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_107
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 678
+        width: 44
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 845a4cbf155346e80800000000000000
+      internalID: -8186359596420127416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_108
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 700
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dfc6fec254dfb6e0800000000000000
+      internalID: -1819502272309702700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_109
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 692
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b3b11de93b941a60800000000000000
+      internalID: 7643905140647375797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_110
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 664
+        width: 19
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23881e70fa0fb28b0800000000000000
+      internalID: -5175778712190089166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_111
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 654
+        width: 37
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46b1ea81a12a335c0800000000000000
+      internalID: -4236864591458591900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_112
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 627
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 887ddc308ead64d80800000000000000
+      internalID: -8266679375960877176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_113
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 644
+        width: 48
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dee275883d462ed60800000000000000
+      internalID: 7918001954559045357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_114
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 624
+        width: 73
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bab93751953261980800000000000000
+      internalID: -8568622375506830421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_115
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 666
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 532c8fd5ff07f5300800000000000000
+      internalID: 243037146996851253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_116
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 580
+        width: 33
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e305a630551648d90800000000000000
+      internalID: -7096440095071645634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_117
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 602
+        width: 52
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 421b3d8c0d7d4e560800000000000000
+      internalID: 7342230584243237156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_118
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 643
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 232573955ef92d780800000000000000
+      internalID: -8659683326086917582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_119
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 570
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15ea481af24101670800000000000000
+      internalID: 8507321890908712529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_120
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 576
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48693364587145880800000000000000
+      internalID: -8623241525331782012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_121
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 584
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acafa9274357ce040800000000000000
+      internalID: 4678242981052611274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_122
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 564
+        width: 51
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdd0274881281c2e0800000000000000
+      internalID: -2107260108819788325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_123
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 592
+        width: 21
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b0af56e84896b2a0800000000000000
+      internalID: -6722017954933792588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_124
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 592
+        width: 19
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bfc15d1bbdc01420800000000000000
+      internalID: 2598803188527255474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_125
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 582
+        width: 58
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 029bf2ab144365200800000000000000
+      internalID: 168379492974180640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_126
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 597
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49c0ef0d3598d3770800000000000000
+      internalID: 8592174657174375572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_127
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 580
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a322689275a348590800000000000000
+      internalID: -7672943719099260358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_128
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 586
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e89285e8bce892040800000000000000
+      internalID: 4623383497390172558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_129
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 598
+        width: 56
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 490b4308bf04a4410800000000000000
+      internalID: 1462052477967052948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_130
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 584
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13b138d54afa91ec0800000000000000
+      internalID: -3595649707000259791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_131
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 561
+        width: 36
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c482c55637c0a240800000000000000
+      internalID: 4801056238957921481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_132
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 586
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3f5065234d55de70800000000000000
+      internalID: 9139313561789554495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_133
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 570
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63a204b28a23c87e0800000000000000
+      internalID: -1761977656347186634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_134
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 570
+        width: 56
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d52776707abe79b0800000000000000
+      internalID: -5080418337440717354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_135
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 556
+        width: 39
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a73618aa6c0243e00800000000000000
+      internalID: 1023479052956164986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_136
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 558
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c09019d3a36f9dfb0800000000000000
+      internalID: -4622392812517652212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_137
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 550
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c4f4f781fa29f8a0800000000000000
+      internalID: -6270933789280242493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_138
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 566
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e212f9668f1b7740800000000000000
+      internalID: 5150745260991845088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_139
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 539
+        width: 75
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a712ba226daa7660800000000000000
+      internalID: 7384405176162064295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_140
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 564
+        width: 60
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 923b76ae0e5cadcb0800000000000000
+      internalID: -4838337279860165847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_141
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 530
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4951854707f7bd480800000000000000
+      internalID: -8873358519838435948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_142
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 526
+        width: 45
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8280aec43aa849ac0800000000000000
+      internalID: -3849299347520223192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_143
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 515
+        width: 30
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da005126711098110800000000000000
+      internalID: 1263542370395553965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_144
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 516
+        width: 31
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 851afb3c1b78971b0800000000000000
+      internalID: -5658342259251240616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_145
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 555
+        width: 59
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e60cef2213606ce0800000000000000
+      internalID: -1414021353229777175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_146
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 500
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eff0ebe79b735fb50800000000000000
+      internalID: 6626263696580415486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_147
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 504
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 594d520d0f6f6c870800000000000000
+      internalID: 8702914844084786325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_148
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 518
+        width: 18
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfb4964d4a5f2ef80800000000000000
+      internalID: -8078624693262136323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_149
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 515
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6efcd8de40ec4e030800000000000000
+      internalID: 3523167329071255526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_150
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 516
+        width: 53
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07e56be07569da040800000000000000
+      internalID: 4660546490051485296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_151
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 501
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5505a8b697ed5e3a0800000000000000
+      internalID: -6636653862783922091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_152
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 501
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa266376b5a00fe60800000000000000
+      internalID: 7993900726272549546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_153
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 523
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f22e3ef6a828f5520800000000000000
+      internalID: 2693014633285149231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_154
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 482
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b5b99693bd17b5e0800000000000000
+      internalID: -1894012461122996812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_155
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 454
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f34d2753b38e06e0800000000000000
+      internalID: -1869411989027208203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_156
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 456
+        width: 28
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f2757aba6b789140800000000000000
+      internalID: 4726663507250344692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_157
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 452
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d59286a823fa0e490800000000000000
+      internalID: -7718977129707722403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_158
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 454
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1728e01c124cdaf30800000000000000
+      internalID: 4588539244612321905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_159
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 480
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6a9809098d303600800000000000000
+      internalID: 445924021881051758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_160
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 448
+        width: 77
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a36fc3e4df72ee7d0800000000000000
+      internalID: -2887326342205082054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_161
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 466
+        width: 53
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 236ccf44fd0bc8590800000000000000
+      internalID: -7670561592337185230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_162
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 475
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73f9022d62029d310800000000000000
+      internalID: 1430209707773042487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_163
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 468
+        width: 20
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c04456d9244c4a800800000000000000
+      internalID: 622838438871516172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_164
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 477
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e48e2a435dbaa2680800000000000000
+      internalID: -8779015591405885362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_165
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 401
+        width: 63
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e1c7afd2f69094b0800000000000000
+      internalID: -5435678780357623323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_166
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 438
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c4b265fd46350800800000000000000
+      internalID: 577927835644245184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_167
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 428
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 918f5937ed960f5f0800000000000000
+      internalID: -724963135863785447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_168
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 440
+        width: 60
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 854273daf9c6c43a0800000000000000
+      internalID: -6679844714235616168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_169
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 402
+        width: 50
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 200cd2335fc690c70800000000000000
+      internalID: 8937794735874883586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_170
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 440
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 560e8e3f47e4b26d0800000000000000
+      internalID: -3014229261379116955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_171
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 411
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec8fcc5f75d395920800000000000000
+      internalID: 2979480076477593806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_172
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 444
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b901b2b72f8acf40800000000000000
+      internalID: 5749565274956302774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_173
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 408
+        width: 71
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b71fceebf78937ec0800000000000000
+      internalID: -3570342405143203461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_174
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 370
+        width: 33
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 298a26e555e4c38b0800000000000000
+      internalID: -5171172143565461358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_175
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 422
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3257a9507198192e0800000000000000
+      internalID: -2120763217543531229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_176
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 400
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e6900e7948447470800000000000000
+      internalID: 8391411486181856998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_177
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 418
+        width: 58
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73e72d7f23b1cfad0800000000000000
+      internalID: -2667226973590094281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_178
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 394
+        width: 19
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea4a0d66020c0f6a0800000000000000
+      internalID: -6417418223606520658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_179
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 387
+        width: 20
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1322444422f5f0380800000000000000
+      internalID: -9002872529311489487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_180
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 428
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 013175af9194bb360800000000000000
+      internalID: 7186418006322778896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_181
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 418
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06695401a63d674a0800000000000000
+      internalID: -6595852151744522656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_182
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 391
+        width: 56
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa4672a71ebc04bf0800000000000000
+      internalID: -342049402402675537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_183
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 416
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeddd4615181179f0800000000000000
+      internalID: -472570007049609750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_184
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 364
+        width: 54
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4449ac9cefa4203b0800000000000000
+      internalID: -5547789332799384508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_185
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 360
+        width: 73
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dd54acbd624d29b0800000000000000
+      internalID: -5103349763657146928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_186
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 270
+        width: 129
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76ddafb5aa3fb57f0800000000000000
+      internalID: -622636210447524505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_187
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 360
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8953dde2d8fb8a30800000000000000
+      internalID: 4218739060779473291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_188
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 317
+        width: 19
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e662f775789c7680800000000000000
+      internalID: -8755955945224116511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_189
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 344
+        width: 62
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4440763d65ce92b0800000000000000
+      internalID: -5575802215782661042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_190
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 344
+        width: 37
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f85be74fa80627570800000000000000
+      internalID: 8462932799706281359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_191
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 337
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86ba4fa056a89e720800000000000000
+      internalID: 2875982003632909160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_192
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 314
+        width: 45
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bac3ada0fb8061e0800000000000000
+      internalID: -2206609951589938507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_193
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 310
+        width: 71
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 853f79a70576688d0800000000000000
+      internalID: -2844472519286066344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_194
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 290
+        width: 22
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa1f133422077f6e0800000000000000
+      internalID: -1803849833280048721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_195
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 288
+        width: 24
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47ed9486baa9f9dc0800000000000000
+      internalID: -3630012713657573772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_196
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 289
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36f12ada1febc85c0800000000000000
+      internalID: -4211781606288777373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_197
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 286
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 544cca043c56a7b30800000000000000
+      internalID: 4285849884674540613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_198
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 288
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 401c4da671a466b90800000000000000
+      internalID: -7249025085769203452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_199
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 310
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 847c6c7e2f0ff1e00800000000000000
+      internalID: 1017796966870337352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_200
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 292
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 861495bc50454f770800000000000000
+      internalID: 8643625968694018408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_201
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 282
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ec8ec042f9c5bd30800000000000000
+      internalID: 4446682249404779753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_202
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 263
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75d8d823a8da9c5d0800000000000000
+      internalID: -3041709264246829737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_203
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 268
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f6350d3efd78d000800000000000000
+      internalID: 60937125868418802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_204
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 258
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a417baab687d70210800000000000000
+      internalID: 1299243991177064778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_205
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 278
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e242b23e080aa9b90800000000000000
+      internalID: -7234293375989767122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_206
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 268
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3056be05345d24be0800000000000000
+      internalID: -1494397641236454141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_207
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 256
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02bd28eebdadfd5f0800000000000000
+      internalID: -729623976476484832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_208
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 278
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5be3664bb1b5b7cd0800000000000000
+      internalID: -2559351788681150795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_209
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 258
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50042edd87abfd430800000000000000
+      internalID: 3809968838060163077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_210
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 256
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c52fd396daa1eec0800000000000000
+      internalID: -3539359993555900985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_211
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 270
+        width: 12
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 239debe13d5ce1420800000000000000
+      internalID: 2602735145211320626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_212
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 240
+        width: 79
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57152ecbce2141f90800000000000000
+      internalID: -6983936314154266251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_213
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 232
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d57f08b3877b96f70800000000000000
+      internalID: 9181071042393732957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_214
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 240
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df6c028f79713b9a0800000000000000
+      internalID: -6218600718998124803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_215
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 240
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76cdf64f77ba33b30800000000000000
+      internalID: 4265941803740421223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_216
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 254
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55690c32fe53fb850800000000000000
+      internalID: 6394889297102673493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_217
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 239
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a66aea3632943ecd0800000000000000
+      internalID: -2530098149307013526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_218
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 248
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 635011a24ed5a9f40800000000000000
+      internalID: 5736000309949433142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_219
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 236
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8e29fae547be3a40800000000000000
+      internalID: 5349914918285553290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_220
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 247
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c93b97ae99d4ef030800000000000000
+      internalID: 3530344481364226972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_221
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 230
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eebe9f36d5bada10800000000000000
+      internalID: 1935058921704046307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_222
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 248
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c32afaa430f670b0800000000000000
+      internalID: -5731129366784891968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_223
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 222
+        width: 80
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7e10cb62f20afe90800000000000000
+      internalID: -6991272231326179716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_224
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 206
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5266d910ceb7d460800000000000000
+      internalID: 7266486256062063195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_225
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 206
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 928e3ff87c541b430800000000000000
+      internalID: 3796892684265973801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_226
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 230
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc26cbd5a972d9990800000000000000
+      internalID: -7377697070611930417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_227
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 194
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a29ab30c05480df80800000000000000
+      internalID: -8083815848772654806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_228
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 183
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 338d1b3863ecfe6e0800000000000000
+      internalID: -1805998192019253197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_229
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 210
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e12474c5f62c46d90800000000000000
+      internalID: -7105340528538467810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_230
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 223
+        width: 43
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2c4dbbc190d1b710800000000000000
+      internalID: 1707375058357144622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_231
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 228
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84db5d55e27e6b870800000000000000
+      internalID: 8698393916507274568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_232
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 210
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abc5f97c0fa210310800000000000000
+      internalID: 1369422975326969018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_233
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 209
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2effe6ec02b2c3d70800000000000000
+      internalID: 9024135173245960162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_234
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 224
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ba85245f63af8700800000000000000
+      internalID: 544833778483563189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_235
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 216
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa748c4f5653ed040800000000000000
+      internalID: 4674232175271888810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_236
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 224
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c1b0a1cacf8e67e0800000000000000
+      internalID: -1770319502515326521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_237
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 224
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1f50fd94bd923670800000000000000
+      internalID: 8517043244380479260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_238
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 212
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f18cfe58b955a3520800000000000000
+      internalID: 2682550654507927583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_239
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 198
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb0cdb7c58a0925a0800000000000000
+      internalID: -6545689013708275521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_240
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 186
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 008cf996ed8bed840800000000000000
+      internalID: 5250837480954906624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_241
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 195
+        width: 30
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a9ed3f51399b76e0800000000000000
+      internalID: -1838707585520375386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_242
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 186
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df07b8e2d8e39aa00800000000000000
+      internalID: 768213987535581437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_243
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 191
+        width: 47
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4cd4b481a2a66f80800000000000000
+      internalID: -8113618864061490100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_244
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 91
+        width: 138
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c6b7e296e497ea10800000000000000
+      internalID: 1938681882634335936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_245
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 208
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e9485c873c99e800800000000000000
+      internalID: 642216184268736997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_246
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 128
+        width: 22
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2ffd6c36a2fb7e20800000000000000
+      internalID: 3349537543672430383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_247
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 194
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 216f58f1fb2f5f3f0800000000000000
+      internalID: -867520450517404142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_248
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 202
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e29e3195b99777c0800000000000000
+      internalID: -4073618332828396831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_249
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 191
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f955870876b6d4490800000000000000
+      internalID: -7760428490608323169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_250
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 176
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6cb6f24008d2dcc0800000000000000
+      internalID: -3687647649227948945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_251
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 160
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb5b160c47328fc80800000000000000
+      internalID: -8288836129824590405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_252
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 158
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caa79bb5e5886f500800000000000000
+      internalID: 429680753307646636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_253
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 174
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eed2afaf09f6474f0800000000000000
+      internalID: -831917362680025618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_254
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 164
+        width: 48
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12bf2e26f7e17b5e0800000000000000
+      internalID: -1894011585817281759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_255
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 125
+        width: 46
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 552ddcb9c8600d690800000000000000
+      internalID: -7579550971885399467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_256
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 168
+        width: 47
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 148eda0b9d9bbb260800000000000000
+      internalID: 7114484380985059393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_257
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 146
+        width: 60
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfd8f863730c6b2f0800000000000000
+      internalID: -957366527398539779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_258
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 124
+        width: 38
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edbdac2cb30505bd0800000000000000
+      internalID: -2643524763665114146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_259
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 174
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afa5e9a7b85339800800000000000000
+      internalID: 617896447053814522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_260
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 168
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44a9a204d3998a4a0800000000000000
+      internalID: -6581842367053391292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_261
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 124
+        width: 21
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff6892c7a22cf1ca0800000000000000
+      internalID: -6043898687180404993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_262
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 128
+        width: 25
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2947a5d15fdbfcd90800000000000000
+      internalID: -7075227629118655342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_263
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 175
+        width: 39
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a8cf97d36229e8e0800000000000000
+      internalID: -1663760775122007904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_264
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 128
+        width: 28
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b59224781362c3910800000000000000
+      internalID: 1818370343715350875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_265
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 176
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db88167fb048d7180800000000000000
+      internalID: -9115984883798144835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_266
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 176
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cfa5397f92297830800000000000000
+      internalID: 4069321806634659777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_267
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 136
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1784a83713c561a50800000000000000
+      internalID: 6491477280362743921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_268
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 133
+        width: 49
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edf1a38c1384783f0800000000000000
+      internalID: -898670221987274786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_269
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 94
+        width: 58
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af8c42348b456d6d0800000000000000
+      internalID: -2966090154199693062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_270
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 117
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03f253e552b60cd00800000000000000
+      internalID: 990909726260014896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_271
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 140
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d1e3c440dfdf92b0800000000000000
+      internalID: -5575491728061505068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_272
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 118
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ad41b399c63b1a60800000000000000
+      internalID: 7645765031785745825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_273
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 116
+        width: 45
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82f38c447b397d2a0800000000000000
+      internalID: -6712734304230162648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_274
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 94
+        width: 59
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c0ad985784aba270800000000000000
+      internalID: 8262878842555572419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_275
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 127
+        width: 43
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc11c4740be9deb90800000000000000
+      internalID: -7210932948402695732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_276
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 115
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc84f947d5ab52ba0800000000000000
+      internalID: -6114276008534259507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_277
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 120
+        width: 40
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f7a951413348f100800000000000000
+      internalID: 141937267091023862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_278
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 109
+        width: 39
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c96d615889bdcea0800000000000000
+      internalID: -5850816345751590457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_279
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 90
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d50a7613d88f95660800000000000000
+      internalID: 7375199150098849885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_280
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 98
+        width: 38
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bce839544122d1070800000000000000
+      internalID: 8078650777034526411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_281
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 105
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63575afd0b9cda110800000000000000
+      internalID: 1273896031119308086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_282
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 103
+        width: 35
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 540b832c36d952f30800000000000000
+      internalID: 4550216050313572421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_283
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 104
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f1cba4cbe8c2d040800000000000000
+      internalID: 4671016678479086070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_284
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 116
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f92da3ae28bd1040800000000000000
+      internalID: 4620051303206038008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_285
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 116
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45ebb72359311c4a0800000000000000
+      internalID: -6574952449466188204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_286
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 57
+        width: 42
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 467ebf339357664f0800000000000000
+      internalID: -835851792284915868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_287
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 91
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98ca9415cd5ea6440800000000000000
+      internalID: 4930005476529777801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_288
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 102
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0367ef4515d485290800000000000000
+      internalID: -7901480534507882960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_289
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 82
+        width: 42
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 858a087c35e9ed8f0800000000000000
+      internalID: -513799224807085992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_290
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 78
+        width: 57
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aea1247f518ee4620800000000000000
+      internalID: 2760398802664954602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_291
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 44
+        width: 26
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e513328db0117d70800000000000000
+      internalID: 9039024333228545509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_292
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 55
+        width: 39
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 029b89887d600a300800000000000000
+      internalID: 261216301166934304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_293
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 100
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e95c9a04bb8ee4620800000000000000
+      internalID: 2760399512566089118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_294
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 56
+        width: 36
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91aefa205c33d6e20800000000000000
+      internalID: 3345387019452803609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_295
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 89
+        width: 24
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c91b0884e5f383a80800000000000000
+      internalID: -8486963823603830372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_296
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 54
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 605c2c2981ee4cb30800000000000000
+      internalID: 4306828932981900550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_297
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 42
+        width: 26
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9abd24af3aa1b9930800000000000000
+      internalID: 4150940773132721065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_298
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 70
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11b2462457c5a8790800000000000000
+      internalID: -7527102168501572847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_299
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 44
+        width: 45
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3924d94fc34c6ace0800000000000000
+      internalID: -1394211268543561069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gomboc aura_300
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 38
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f107f0b855381b10800000000000000
+      internalID: 1952369093507482098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

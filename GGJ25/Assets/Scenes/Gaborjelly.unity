@@ -4358,8 +4358,6 @@ PrefabInstance:
       propertyPath: m_Creator
       value: 
       objectReference: {fileID: 0}
-<<<<<<< HEAD
-=======
     - target: {fileID: 1603251743131628662, guid: 9341f2245e7c9624c8f23b6d42394cad, type: 3}
       propertyPath: dataHolders.Array.data[0].rigidBody
       value: 
@@ -4776,7 +4774,6 @@ PrefabInstance:
       propertyPath: 'm_Sprites.Array.data[0]'
       value: 
       objectReference: {fileID: 5956013267948729495, guid: c9f6e2556cf31e8489d1d44c2336773c, type: 3}
->>>>>>> 43cf6b4804d4766a9645ea2553a98b74ae98cef2
     - target: {fileID: 6692744360830133794, guid: 9341f2245e7c9624c8f23b6d42394cad, type: 3}
       propertyPath: m_LocalPosition.x
       value: 2.11
@@ -4817,8 +4814,6 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-<<<<<<< HEAD
-=======
     - target: {fileID: 7620554739601320773, guid: 9341f2245e7c9624c8f23b6d42394cad, type: 3}
       propertyPath: m_Creator
       value: 
@@ -4863,17 +4858,10 @@ PrefabInstance:
       propertyPath: m_Spline.m_ControlPoints.Array.data[5].corner
       value: 1
       objectReference: {fileID: 0}
->>>>>>> 43cf6b4804d4766a9645ea2553a98b74ae98cef2
     - target: {fileID: 8191676775475578511, guid: 9341f2245e7c9624c8f23b6d42394cad, type: 3}
       propertyPath: m_Name
       value: GombocPrefab
       objectReference: {fileID: 0}
-<<<<<<< HEAD
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-=======
     m_RemovedComponents:
     - {fileID: 7620554739601320773, guid: 9341f2245e7c9624c8f23b6d42394cad, type: 3}
     - {fileID: 5987564103957959494, guid: 9341f2245e7c9624c8f23b6d42394cad, type: 3}
@@ -4954,9 +4942,6 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 938047116618327706, guid: 9341f2245e7c9624c8f23b6d42394cad, type: 3}
       insertIndex: -1
       addedObject: {fileID: 1388247871}
->>>>>>> 43cf6b4804d4766a9645ea2553a98b74ae98cef2
-  m_SourcePrefab: {fileID: 100100000, guid: 9341f2245e7c9624c8f23b6d42394cad, type: 3}
---- !u!1001 &7227921688496274027
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2

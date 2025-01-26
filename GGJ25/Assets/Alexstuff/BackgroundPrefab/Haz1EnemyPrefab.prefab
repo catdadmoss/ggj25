@@ -1,6 +1,6 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!1001 &1636444243068614327
+--- !u!1001 &5540416043807779537
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
@@ -8,6 +8,14 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1819962425078576013, guid: 275f9b2d2710fe5458a9d3237894721d, type: 3}
+      propertyPath: movementScriptableObject
+      value: 
+      objectReference: {fileID: 11400000, guid: 61fdcf50e24099a469f0e1ba5baa6c59, type: 2}
+    - target: {fileID: 1848926088674218777, guid: 275f9b2d2710fe5458a9d3237894721d, type: 3}
+      propertyPath: m_Size.x
+      value: 4.02
+      objectReference: {fileID: 0}
     - target: {fileID: 2293214251001727893, guid: 275f9b2d2710fe5458a9d3237894721d, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
@@ -48,9 +56,25 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3015702201484805473, guid: 275f9b2d2710fe5458a9d3237894721d, type: 3}
+      propertyPath: m_GravityScale
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4398843963901126922, guid: 275f9b2d2710fe5458a9d3237894721d, type: 3}
+      propertyPath: enemyScriptableObject
+      value: 
+      objectReference: {fileID: 11400000, guid: 7d994c847a53fcc4d9c68190e40971d0, type: 2}
+    - target: {fileID: 6533616182608377963, guid: 275f9b2d2710fe5458a9d3237894721d, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 304be3684f05df446b4cb14a61855f75, type: 3}
+    - target: {fileID: 6533616182608377963, guid: 275f9b2d2710fe5458a9d3237894721d, type: 3}
+      propertyPath: m_SortingOrder
+      value: -1
+      objectReference: {fileID: 0}
     - target: {fileID: 7806388690631057029, guid: 275f9b2d2710fe5458a9d3237894721d, type: 3}
       propertyPath: m_Name
-      value: BaseEnemy
+      value: Haz1EnemyPrefab
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []

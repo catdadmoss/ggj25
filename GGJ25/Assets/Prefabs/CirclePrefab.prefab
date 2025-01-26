@@ -11,6 +11,8 @@ GameObject:
   - component: {fileID: 1745144904201984837}
   - component: {fileID: 7469973629715877065}
   - component: {fileID: 1162040315406111792}
+  - component: {fileID: 997432076405453463}
+  - component: {fileID: 3019227575774386913}
   m_Layer: 0
   m_Name: CirclePrefab
   m_TagString: Untagged
@@ -49,7 +51,7 @@ Rigidbody2D:
   m_LinearDamping: 0
   m_AngularDamping: 0.05
   m_GravityScale: 1
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 6200000, guid: 57acf6a894056ee41b897f57e863a8ec, type: 2}
   m_IncludeLayers:
     serializedVersion: 2
     m_Bits: 0
@@ -95,4 +97,30 @@ CircleCollider2D:
   m_CompositeOperation: 0
   m_CompositeOrder: 0
   m_Offset: {x: 0, y: 0}
-  m_Radius: 0.5
+  m_Radius: 0.2
+--- !u!114 &997432076405453463
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8865779861021841460}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 47a49aa84530485a8f196ca33224d965, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  isFloored: 0
+--- !u!114 &3019227575774386913
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8865779861021841460}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 47a49aa84530485a8f196ca33224d965, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  isFloored: 0

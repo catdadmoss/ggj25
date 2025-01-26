@@ -2,6 +2,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.U2D;
 using System.Linq;
+using DefaultNamespace;
 using NUnit.Framework;
 using UnityEngine.Serialization;
 
@@ -30,20 +31,53 @@ public class JellyController : MonoBehaviour
     public float neighborSpringDamping = 0.5f;
 
     public float tangentSmoothing = 0.3f;
+    
+    public bool isFloored;
+
+    public Rigidbody2D rigidBody;
+
+    private Vector3 horizontalInput = Vector3.zero;
+
+    public float rollSpeed = 10;
+    public float tangetForceMod = 0.1f;
+
+    public float maxAngularVelocity = 10f;
+    public float dampingForce = 5f;
 
     [System.Serializable]
-    public class PointJointHolder
+    public class PointDataHolder
     {
         public SpringJoint2D centerJoint;
         public List<SpringJoint2D> neighborJoints = new List<SpringJoint2D>();
+        public GroundDetector groundDetector;
+        public Transform transform;
+        public Rigidbody2D rigidBody;
     }
 
     [SerializeField, HideInInspector]
-    private List<PointJointHolder> jointHolders = new List<PointJointHolder>();
+    private List<PointDataHolder> dataHolders = new List<PointDataHolder>();
+
+    public void Awake()
+    {
+        rigidBody = GetComponent<Rigidbody2D>();
+    }
 
     public void Start()
     {
         defaultRadius = outerRadius;
+    }
+
+    public void UpdateGrounded()
+    {
+        isFloored = false;
+        foreach (var data in dataHolders)
+        {
+            if (data.groundDetector.isFloored)
+            {
+                isFloored = true;
+                return;
+            }
+        }
     }
 
     public List<CircleCollider2D> GetColliders()
@@ -52,7 +86,7 @@ public class JellyController : MonoBehaviour
         GetComponentsInChildren<CircleCollider2D>(res);
         for (int i = 0; i < res.Count; i++)
         {
-            if (res[i].gameObject == this.gameObject)
+            if (res[i].gameObject == this.gameObject || res[i].gameObject.CompareTag("Mouth"))
             {
                 res[i] = res[res.Count - 1];
                 res.RemoveAt(res.Count - 1);
@@ -65,7 +99,9 @@ public class JellyController : MonoBehaviour
 
     void Update()
     {
-        if (Input.GetKey(KeyCode.Space))
+        UpdateGrounded();
+        horizontalInput = new Vector3(Input.GetAxis("Horizontal"), 0f, 0f);
+        if (Input.GetKey(KeyCode.Space) && isFloored)
         {
             Debug.Log("space key pressed");
             SetRadius(defaultRadius * expandedRatio);
@@ -78,10 +114,63 @@ public class JellyController : MonoBehaviour
  
     }
 
+    private float CalculateCurrentAngularVelocity()
+    {
+        float totalAngularVelocity = 0f;
+        foreach (var pointData in dataHolders)
+        {
+            Vector2 pointPosition = pointData.transform.localPosition;
+            Vector2 tangent = new Vector2(-pointPosition.y, pointPosition.x).normalized;
+            float pointAngularVelocity = Vector2.Dot(pointData.rigidBody.linearVelocity, -tangent);
+            totalAngularVelocity += pointAngularVelocity;
+        }
+        return totalAngularVelocity / dataHolders.Count;
+    }
+
+    private void ApplyMovementForce(PointDataHolder pointData)
+    {
+        Vector2 pointPosition = pointData.transform.localPosition;
+        Vector2 tangent = new Vector2(-pointPosition.y, pointPosition.x).normalized;
+        pointData.rigidBody.AddForce(-tangent * rollSpeed * Time.fixedDeltaTime * horizontalInput.x);
+    }
+
+    private void ApplyDampingForce(PointDataHolder pointData)
+    {
+        Vector2 pointPosition = pointData.transform.localPosition;
+        Vector2 tangent = new Vector2(-pointPosition.y, pointPosition.x).normalized;
+        float pointVelocity = Vector2.Dot(pointData.rigidBody.linearVelocity, -tangent);
+        Vector2 dampingDirection = pointVelocity > 0 ? tangent : -tangent;
+        pointData.rigidBody.AddForce(dampingDirection * dampingForce * Mathf.Abs(pointVelocity) * Time.fixedDeltaTime);
+    }
+
+    public void FixedUpdate()
+    {
+        if (isFloored)
+        {
+            float currentAngularVelocity = CalculateCurrentAngularVelocity();
+            bool canAccelerate = Mathf.Abs(currentAngularVelocity) < maxAngularVelocity;
+            
+            foreach (var pointData in dataHolders)
+            {
+                if (!Mathf.Approximately(horizontalInput.x, 0))
+                {
+                    if (canAccelerate)
+                    {
+                        ApplyMovementForce(pointData);
+                    }
+                }
+                else
+                {
+                    ApplyDampingForce(pointData);
+                }
+            }
+        }
+    }
+
     public void SetRadius(float radius)
     {
         // Update center joints
-        foreach (var jointHolder in jointHolders)
+        foreach (var jointHolder in dataHolders)
         {
             // Update center joint distance
             jointHolder.centerJoint.distance = radius;
@@ -131,7 +220,7 @@ public class JellyController : MonoBehaviour
     [ContextMenu("Spawn Physics Points")]
     public void SpawnPhysicsPoints()
     {
-        jointHolders.Clear();
+        dataHolders.Clear();
         var points = GetColliders();
         // Clear existing points if any
         foreach (CircleCollider2D point in points)
@@ -167,17 +256,21 @@ public class JellyController : MonoBehaviour
             GameObject newPoint = Instantiate(physicsPrefab, transform);
             newPoint.transform.localPosition = pos;
             
-            var jointHolder = new PointJointHolder();
-            
+            var dataHolder = new PointDataHolder();
+            dataHolder.transform = newPoint.transform;
+
+            dataHolder.rigidBody = newPoint.GetComponent<Rigidbody2D>();
+            dataHolder.groundDetector = newPoint.GetComponent<GroundDetector>();
+
             // Add spring joint to center
-            jointHolder.centerJoint = newPoint.AddComponent<SpringJoint2D>();
-            jointHolder.centerJoint.connectedBody = GetComponent<Rigidbody2D>();
-            jointHolder.centerJoint.autoConfigureDistance = false;
-            jointHolder.centerJoint.distance = outerRadius;
-            jointHolder.centerJoint.frequency = centerSpringFrequency;
-            jointHolder.centerJoint.dampingRatio = centerSpringDamping;
+            dataHolder.centerJoint = newPoint.AddComponent<SpringJoint2D>();
+            dataHolder.centerJoint.connectedBody = GetComponent<Rigidbody2D>();
+            dataHolder.centerJoint.autoConfigureDistance = false;
+            dataHolder.centerJoint.distance = outerRadius;
+            dataHolder.centerJoint.frequency = centerSpringFrequency;
+            dataHolder.centerJoint.dampingRatio = centerSpringDamping;
             
-            jointHolders.Add(jointHolder);
+            dataHolders.Add(dataHolder);
         }
 
         points = GetColliders();
@@ -185,7 +278,7 @@ public class JellyController : MonoBehaviour
         for (int i = 0; i < numPoints; i++)
         {
             var point = points[i];
-            var jointHolder = jointHolders[i];
+            var jointHolder = dataHolders[i];
             
             for (int j = 1; j <= neighborJointRadius; j++)
             {
@@ -211,11 +304,11 @@ public class JellyController : MonoBehaviour
     }
 
     // Optional helper method to get joints for a specific point
-    public PointJointHolder GetJointsForPoint(int pointIndex)
+    public PointDataHolder GetJointsForPoint(int pointIndex)
     {
-        if (pointIndex >= 0 && pointIndex < jointHolders.Count)
+        if (pointIndex >= 0 && pointIndex < dataHolders.Count)
         {
-            return jointHolders[pointIndex];
+            return dataHolders[pointIndex];
         }
         return null;
     }

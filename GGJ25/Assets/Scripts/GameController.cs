@@ -15,6 +15,11 @@ public class GameController : MonoBehaviour
     [SerializeField] private GameObject playerObject;
     [SerializeField] private GameObject endGamePanel;
     [SerializeField] private int deathDepthThreshold;
+
+    private float score;
+
+    [SerializeField] private TextMeshProUGUI endGameScoreText;
+    [SerializeField] private TextMeshProUGUI endGameTimeText;
     private void Awake()
     {
         if (Instance != null && Instance != this)
@@ -41,6 +46,7 @@ public class GameController : MonoBehaviour
     public void UpdateScore(float score)
     {
         scoreText.text = score.ToString();
+        this.score = score;
     }
     public void UpdateTime(int secondsRemaining)
     {
@@ -62,6 +68,8 @@ public class GameController : MonoBehaviour
     {
         StopCoroutine(TimerCoroutine());
         endGamePanel.SetActive(true);
+        endGameScoreText.text = $"Total Score: {score}";
+        endGameTimeText.text = $"Total time used: {totalGameplaySeconds - remainingSeconds}";
         Time.timeScale = 0;
     }
 }

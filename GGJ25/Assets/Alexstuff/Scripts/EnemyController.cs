@@ -74,7 +74,7 @@ public class EnemyController : MonoBehaviour
 
     public void OnEnemyCollected()
     {
-        Destroy(gameObject.GetComponent<Rigidbody2D>());
+        //Destroy(gameObject.GetComponent<Rigidbody2D>());
 
         EnemyMovementController movementController = gameObject.GetComponent<EnemyMovementController>();
         if (movementController != null)

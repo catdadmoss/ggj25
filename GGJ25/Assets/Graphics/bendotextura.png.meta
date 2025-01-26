@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      bendotextura_0: -7401419590656803631
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      talaj2_0: -3073678188193670284
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

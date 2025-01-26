@@ -159,7 +159,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      barackfa_0: -1929209340092471629
+      barackfa_1: -2492918117509479670
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

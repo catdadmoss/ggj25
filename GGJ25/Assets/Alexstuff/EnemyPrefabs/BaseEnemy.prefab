@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 3648542346074602569}
   - component: {fileID: 1848926088674218777}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: MovementObject
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -79,7 +79,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1732044682905736373}
   - component: {fileID: 5366928186012000848}
-  m_Layer: 7
+  m_Layer: 6
   m_Name: HitboxObject
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -150,7 +150,7 @@ GameObject:
   - component: {fileID: 3015702201484805473}
   - component: {fileID: 1819962425078576013}
   - component: {fileID: 4398843963901126922}
-  m_Layer: 7
+  m_Layer: 6
   m_Name: BaseEnemy
   m_TagString: Collectible
   m_Icon: {fileID: 0}
@@ -218,7 +218,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: e00bb66908d852c43afb5a20739bb63b, type: 3}
+  m_Sprite: {fileID: 4786659904442725446, guid: ed4280a3beddbf348ba37a92206fa71e, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0

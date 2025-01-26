@@ -9,10 +9,9 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d527b6dd22f15cd43b90d572043e39e4, type: 3}
-  m_Name: WalkingScriptableObject
+  m_Script: {fileID: 11500000, guid: 28cbc83a52ae5144c84eae0dcd258ec2, type: 3}
+  m_Name: Arc1ScriptableObject
   m_EditorClassIdentifier: 
-  movementVector: {x: 0.05, y: 0}
-  maxSpeed: 0.5
-  gravityScale: 1
-  needsToBeOnGround: 1
+  gravityModifier: 1.8
+  image: {fileID: 21300000, guid: e00bb66908d852c43afb5a20739bb63b, type: 3}
+  enemyName: Peasant

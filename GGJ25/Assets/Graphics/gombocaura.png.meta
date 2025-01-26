@@ -1,0 +1,6842 @@
+fileFormatVersion: 2
+guid: 5199bd199bf03a141930c8177f8db71e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3324306442984719408
+    second: gombocaura_0
+  - first:
+      213: 945667076293598688
+    second: gombocaura_1
+  - first:
+      213: 4098995768050473346
+    second: gombocaura_2
+  - first:
+      213: -3684403607170568283
+    second: gombocaura_3
+  - first:
+      213: -8251536277595425425
+    second: gombocaura_4
+  - first:
+      213: -3875081523119064158
+    second: gombocaura_5
+  - first:
+      213: -1563219224836040826
+    second: gombocaura_6
+  - first:
+      213: 7201376357450888370
+    second: gombocaura_7
+  - first:
+      213: -8239414342635300202
+    second: gombocaura_8
+  - first:
+      213: -9097263984224051791
+    second: gombocaura_9
+  - first:
+      213: -1366797789772719608
+    second: gombocaura_10
+  - first:
+      213: -4530647424483515292
+    second: gombocaura_11
+  - first:
+      213: 7429568329644282788
+    second: gombocaura_12
+  - first:
+      213: 5173910697895129767
+    second: gombocaura_13
+  - first:
+      213: 23359499393590965
+    second: gombocaura_14
+  - first:
+      213: -4464005407407617093
+    second: gombocaura_15
+  - first:
+      213: 8788693299099765375
+    second: gombocaura_16
+  - first:
+      213: -3177551257591051095
+    second: gombocaura_17
+  - first:
+      213: -2205158013568003063
+    second: gombocaura_18
+  - first:
+      213: 4675139783433442488
+    second: gombocaura_19
+  - first:
+      213: 1452792418035919840
+    second: gombocaura_20
+  - first:
+      213: 6419767778780716100
+    second: gombocaura_21
+  - first:
+      213: -939552785011648242
+    second: gombocaura_22
+  - first:
+      213: 1237662441330470868
+    second: gombocaura_23
+  - first:
+      213: 8649786029607679612
+    second: gombocaura_24
+  - first:
+      213: 6894896827419082788
+    second: gombocaura_25
+  - first:
+      213: 4177684592231010311
+    second: gombocaura_26
+  - first:
+      213: -7997100049959494171
+    second: gombocaura_27
+  - first:
+      213: -3640520742133708643
+    second: gombocaura_28
+  - first:
+      213: 3968651353388746146
+    second: gombocaura_29
+  - first:
+      213: 1322860345748707616
+    second: gombocaura_30
+  - first:
+      213: -4620439880695746054
+    second: gombocaura_31
+  - first:
+      213: -8530082679949862228
+    second: gombocaura_32
+  - first:
+      213: 3960631568461178263
+    second: gombocaura_33
+  - first:
+      213: -7566007879919559815
+    second: gombocaura_34
+  - first:
+      213: -3328659142160386046
+    second: gombocaura_35
+  - first:
+      213: 1033011425786639706
+    second: gombocaura_36
+  - first:
+      213: -392462931861848059
+    second: gombocaura_37
+  - first:
+      213: -3217622769823645173
+    second: gombocaura_38
+  - first:
+      213: 573930931086283497
+    second: gombocaura_39
+  - first:
+      213: 5158547191855394054
+    second: gombocaura_40
+  - first:
+      213: 1629450001812928879
+    second: gombocaura_41
+  - first:
+      213: -9102442246960289363
+    second: gombocaura_42
+  - first:
+      213: -7583182048896304323
+    second: gombocaura_43
+  - first:
+      213: -967170049038783814
+    second: gombocaura_44
+  - first:
+      213: -8530359860791349253
+    second: gombocaura_45
+  - first:
+      213: 4924932990643640690
+    second: gombocaura_46
+  - first:
+      213: -2929878566439495335
+    second: gombocaura_47
+  - first:
+      213: 1008114790803986626
+    second: gombocaura_48
+  - first:
+      213: -3207479471442534346
+    second: gombocaura_49
+  - first:
+      213: -2395498333250521808
+    second: gombocaura_50
+  - first:
+      213: -320764986489320951
+    second: gombocaura_51
+  - first:
+      213: -3479758712910658638
+    second: gombocaura_52
+  - first:
+      213: 2134982751114998434
+    second: gombocaura_53
+  - first:
+      213: 9082232190305290783
+    second: gombocaura_54
+  - first:
+      213: 2060003074795907915
+    second: gombocaura_55
+  - first:
+      213: 6970223822349060575
+    second: gombocaura_56
+  - first:
+      213: -69904774988546546
+    second: gombocaura_57
+  - first:
+      213: 655517486197061017
+    second: gombocaura_58
+  - first:
+      213: -7281201156272744140
+    second: gombocaura_59
+  - first:
+      213: 3235022633439402935
+    second: gombocaura_60
+  - first:
+      213: 6940668628227602535
+    second: gombocaura_61
+  - first:
+      213: 2984561567961031425
+    second: gombocaura_62
+  - first:
+      213: -2986505078929217116
+    second: gombocaura_63
+  - first:
+      213: 2380496472081167805
+    second: gombocaura_64
+  - first:
+      213: -1005950298624050451
+    second: gombocaura_65
+  - first:
+      213: 1571230594371726430
+    second: gombocaura_66
+  - first:
+      213: 3555149543851582569
+    second: gombocaura_67
+  - first:
+      213: 5910260282569167878
+    second: gombocaura_68
+  - first:
+      213: 2571477072071435909
+    second: gombocaura_69
+  - first:
+      213: 4016506692815488694
+    second: gombocaura_70
+  - first:
+      213: -8250228911718023482
+    second: gombocaura_71
+  - first:
+      213: 1016246023412761774
+    second: gombocaura_72
+  - first:
+      213: -6422270769307262898
+    second: gombocaura_73
+  - first:
+      213: 4974122445611725619
+    second: gombocaura_74
+  - first:
+      213: -8095295100186307040
+    second: gombocaura_75
+  - first:
+      213: 3437116355109781539
+    second: gombocaura_76
+  - first:
+      213: 3091697072506429819
+    second: gombocaura_77
+  - first:
+      213: -4248485081813625075
+    second: gombocaura_78
+  - first:
+      213: -5289651038697294009
+    second: gombocaura_79
+  - first:
+      213: -4516178774842961766
+    second: gombocaura_80
+  - first:
+      213: -8625636557655592324
+    second: gombocaura_81
+  - first:
+      213: 1583023576153467001
+    second: gombocaura_82
+  - first:
+      213: -1858109289989086834
+    second: gombocaura_83
+  - first:
+      213: -6488332026411654261
+    second: gombocaura_84
+  - first:
+      213: -4779824453967033986
+    second: gombocaura_85
+  - first:
+      213: 5953823952060069649
+    second: gombocaura_86
+  - first:
+      213: -7120830559591692714
+    second: gombocaura_87
+  - first:
+      213: -899368911468277732
+    second: gombocaura_88
+  - first:
+      213: -2991848253776570288
+    second: gombocaura_89
+  - first:
+      213: 8127233579520260012
+    second: gombocaura_90
+  - first:
+      213: -511164635009970900
+    second: gombocaura_91
+  - first:
+      213: 995908180600069595
+    second: gombocaura_92
+  - first:
+      213: 5747129898694877887
+    second: gombocaura_93
+  - first:
+      213: -7803863544409008265
+    second: gombocaura_94
+  - first:
+      213: -5743079408658727592
+    second: gombocaura_95
+  - first:
+      213: -3383457373277091985
+    second: gombocaura_96
+  - first:
+      213: 3571344103758212527
+    second: gombocaura_97
+  - first:
+      213: 6356646799623995421
+    second: gombocaura_98
+  - first:
+      213: 372687657563328075
+    second: gombocaura_99
+  - first:
+      213: 7331896986046180629
+    second: gombocaura_100
+  - first:
+      213: -5587813553313379739
+    second: gombocaura_101
+  - first:
+      213: 1071386414336672474
+    second: gombocaura_102
+  - first:
+      213: -9015422884618628677
+    second: gombocaura_103
+  - first:
+      213: -7377338388754469808
+    second: gombocaura_104
+  - first:
+      213: 8099863107628121147
+    second: gombocaura_105
+  - first:
+      213: -3447795132100001943
+    second: gombocaura_106
+  - first:
+      213: 1006041024299852786
+    second: gombocaura_107
+  - first:
+      213: -9082447751582584148
+    second: gombocaura_108
+  - first:
+      213: 3491835472556261045
+    second: gombocaura_109
+  - first:
+      213: 9138786791448159713
+    second: gombocaura_110
+  - first:
+      213: -4824900816332877123
+    second: gombocaura_111
+  - first:
+      213: -6436973931740687109
+    second: gombocaura_112
+  - first:
+      213: -445447571243013990
+    second: gombocaura_113
+  - first:
+      213: 1558254966017903984
+    second: gombocaura_114
+  - first:
+      213: -2165285875589233043
+    second: gombocaura_115
+  - first:
+      213: -8265968709170606716
+    second: gombocaura_116
+  - first:
+      213: -7315447828375900598
+    second: gombocaura_117
+  - first:
+      213: -7516351791724306680
+    second: gombocaura_118
+  - first:
+      213: -1876030129714068748
+    second: gombocaura_119
+  - first:
+      213: -915301000892369452
+    second: gombocaura_120
+  - first:
+      213: 2711896455112680574
+    second: gombocaura_121
+  - first:
+      213: 930889680103025850
+    second: gombocaura_122
+  - first:
+      213: 1204199842337153838
+    second: gombocaura_123
+  - first:
+      213: -4662709020139437937
+    second: gombocaura_124
+  - first:
+      213: 5722783372681894523
+    second: gombocaura_125
+  - first:
+      213: -3160422547109138272
+    second: gombocaura_126
+  - first:
+      213: -3541985132891967208
+    second: gombocaura_127
+  - first:
+      213: -812111179512554873
+    second: gombocaura_128
+  - first:
+      213: -1400114871279841435
+    second: gombocaura_129
+  - first:
+      213: -705801614755909283
+    second: gombocaura_130
+  - first:
+      213: 3532714519533206284
+    second: gombocaura_131
+  - first:
+      213: -8416091615666028774
+    second: gombocaura_132
+  - first:
+      213: -9212357531247668737
+    second: gombocaura_133
+  - first:
+      213: 4299720820201860055
+    second: gombocaura_134
+  - first:
+      213: -4236025386062663916
+    second: gombocaura_135
+  - first:
+      213: 2674142795073813422
+    second: gombocaura_136
+  - first:
+      213: -3981429264328356508
+    second: gombocaura_137
+  - first:
+      213: 6326359042538410510
+    second: gombocaura_138
+  - first:
+      213: 4198947770076956676
+    second: gombocaura_139
+  - first:
+      213: 1399221607137014807
+    second: gombocaura_140
+  - first:
+      213: -8177937623183342603
+    second: gombocaura_141
+  - first:
+      213: -422119259113848998
+    second: gombocaura_142
+  - first:
+      213: -4846960121146947884
+    second: gombocaura_143
+  - first:
+      213: 1002765130430657375
+    second: gombocaura_144
+  - first:
+      213: 2451770410434385823
+    second: gombocaura_145
+  - first:
+      213: -4066790913239540007
+    second: gombocaura_146
+  - first:
+      213: -6304329050040063954
+    second: gombocaura_147
+  - first:
+      213: 5513687191828054418
+    second: gombocaura_148
+  - first:
+      213: 5925165680294648888
+    second: gombocaura_149
+  - first:
+      213: 1857453560671147584
+    second: gombocaura_150
+  - first:
+      213: -2693874758899469644
+    second: gombocaura_151
+  - first:
+      213: -7044646722955654618
+    second: gombocaura_152
+  - first:
+      213: -265776696036174835
+    second: gombocaura_153
+  - first:
+      213: 3731480696645723994
+    second: gombocaura_154
+  - first:
+      213: 7864406912551523837
+    second: gombocaura_155
+  - first:
+      213: -5723314040633138941
+    second: gombocaura_156
+  - first:
+      213: -5423038020716004044
+    second: gombocaura_157
+  - first:
+      213: -1411066862449117040
+    second: gombocaura_158
+  - first:
+      213: -8482589536626768677
+    second: gombocaura_159
+  - first:
+      213: -9034552043351373396
+    second: gombocaura_160
+  - first:
+      213: 1234463227354951224
+    second: gombocaura_161
+  - first:
+      213: 9157886005763728836
+    second: gombocaura_162
+  - first:
+      213: -8878638494196450745
+    second: gombocaura_163
+  - first:
+      213: 8784755443417783923
+    second: gombocaura_164
+  - first:
+      213: -7898540731444106236
+    second: gombocaura_165
+  - first:
+      213: -6127194601568831285
+    second: gombocaura_166
+  - first:
+      213: -7015547488255910127
+    second: gombocaura_167
+  - first:
+      213: 6832565541211875094
+    second: gombocaura_168
+  - first:
+      213: 5202204033719064485
+    second: gombocaura_169
+  - first:
+      213: -7381017965521900406
+    second: gombocaura_170
+  - first:
+      213: 8223618140192737833
+    second: gombocaura_171
+  - first:
+      213: -5634111841431370549
+    second: gombocaura_172
+  - first:
+      213: 6756380374048217686
+    second: gombocaura_173
+  - first:
+      213: -8713910441176320682
+    second: gombocaura_174
+  - first:
+      213: -2833469306745093136
+    second: gombocaura_175
+  - first:
+      213: -7737854009472819652
+    second: gombocaura_176
+  - first:
+      213: -6802594762640838229
+    second: gombocaura_177
+  - first:
+      213: 4654700927674208450
+    second: gombocaura_178
+  - first:
+      213: 5773476757759767219
+    second: gombocaura_179
+  - first:
+      213: -766855092930055375
+    second: gombocaura_180
+  - first:
+      213: -8735995247613756607
+    second: gombocaura_181
+  - first:
+      213: -5357810759905043405
+    second: gombocaura_182
+  - first:
+      213: 6187665975940951192
+    second: gombocaura_183
+  - first:
+      213: -8763478444771727420
+    second: gombocaura_184
+  - first:
+      213: -8453558409871768171
+    second: gombocaura_185
+  - first:
+      213: -8944049347635980923
+    second: gombocaura_186
+  - first:
+      213: -3415595411871862655
+    second: gombocaura_187
+  - first:
+      213: 3264472449508610869
+    second: gombocaura_188
+  - first:
+      213: -6178275639560140191
+    second: gombocaura_189
+  - first:
+      213: 4737206768084305376
+    second: gombocaura_190
+  - first:
+      213: 2405569455041367440
+    second: gombocaura_191
+  - first:
+      213: 326159780327324148
+    second: gombocaura_192
+  - first:
+      213: 8969813220626279889
+    second: gombocaura_193
+  - first:
+      213: -5082725383562551504
+    second: gombocaura_194
+  - first:
+      213: 5281165465785985884
+    second: gombocaura_195
+  - first:
+      213: -4371998783153762813
+    second: gombocaura_196
+  - first:
+      213: -6700258421560197386
+    second: gombocaura_197
+  - first:
+      213: -3042785019848670755
+    second: gombocaura_198
+  - first:
+      213: 7933471822303182351
+    second: gombocaura_199
+  - first:
+      213: 4810869347093601165
+    second: gombocaura_200
+  - first:
+      213: -8031045138902121851
+    second: gombocaura_201
+  - first:
+      213: -8374066852394453859
+    second: gombocaura_202
+  - first:
+      213: 840699768898479364
+    second: gombocaura_203
+  - first:
+      213: 1116040486393376204
+    second: gombocaura_204
+  - first:
+      213: 9087006931248901268
+    second: gombocaura_205
+  - first:
+      213: -1893483469133688919
+    second: gombocaura_206
+  - first:
+      213: -9143664154693353295
+    second: gombocaura_207
+  - first:
+      213: 6168192229545136623
+    second: gombocaura_208
+  - first:
+      213: 2254421192305002855
+    second: gombocaura_209
+  - first:
+      213: -8657135138475710263
+    second: gombocaura_210
+  - first:
+      213: -7697893604822453640
+    second: gombocaura_211
+  - first:
+      213: -3059575560776799339
+    second: gombocaura_212
+  - first:
+      213: 2685475788822724644
+    second: gombocaura_213
+  - first:
+      213: 2414471559124135796
+    second: gombocaura_214
+  - first:
+      213: 8151301360000174547
+    second: gombocaura_215
+  - first:
+      213: -5010547092970621528
+    second: gombocaura_216
+  - first:
+      213: -4813291693618717799
+    second: gombocaura_217
+  - first:
+      213: 8868971867730209145
+    second: gombocaura_218
+  - first:
+      213: -8120324675433902254
+    second: gombocaura_219
+  - first:
+      213: 479113299641513875
+    second: gombocaura_220
+  - first:
+      213: 3326882841336308185
+    second: gombocaura_221
+  - first:
+      213: 8461817160803041589
+    second: gombocaura_222
+  - first:
+      213: 773026621540027336
+    second: gombocaura_223
+  - first:
+      213: 6831633234699053012
+    second: gombocaura_224
+  - first:
+      213: -5969182527608216401
+    second: gombocaura_225
+  - first:
+      213: 6258164127950219093
+    second: gombocaura_226
+  - first:
+      213: 1727147608234893579
+    second: gombocaura_227
+  - first:
+      213: 5446568262814718896
+    second: gombocaura_228
+  - first:
+      213: -8611065576494906136
+    second: gombocaura_229
+  - first:
+      213: 3149677049922367363
+    second: gombocaura_230
+  - first:
+      213: -4211621435145049109
+    second: gombocaura_231
+  - first:
+      213: 2335158133039116330
+    second: gombocaura_232
+  - first:
+      213: 565539997974444174
+    second: gombocaura_233
+  - first:
+      213: -7149579105673498726
+    second: gombocaura_234
+  - first:
+      213: 3863012301523166624
+    second: gombocaura_235
+  - first:
+      213: -2225905443105396077
+    second: gombocaura_236
+  - first:
+      213: -478803472535452665
+    second: gombocaura_237
+  - first:
+      213: -648575000195013576
+    second: gombocaura_238
+  - first:
+      213: 1406880803653648435
+    second: gombocaura_239
+  - first:
+      213: 6260319610418278544
+    second: gombocaura_240
+  - first:
+      213: -8933363303341488329
+    second: gombocaura_241
+  - first:
+      213: -2768897784642951676
+    second: gombocaura_242
+  - first:
+      213: -3699952287796316905
+    second: gombocaura_243
+  - first:
+      213: 6749962526488795777
+    second: gombocaura_244
+  - first:
+      213: -7505840473591744372
+    second: gombocaura_245
+  - first:
+      213: -5895581482989575887
+    second: gombocaura_246
+  - first:
+      213: 1609688204124280844
+    second: gombocaura_247
+  - first:
+      213: 5043233165030297604
+    second: gombocaura_248
+  - first:
+      213: -360593850641829174
+    second: gombocaura_249
+  - first:
+      213: -3840543266721986300
+    second: gombocaura_250
+  - first:
+      213: -7640524667909420814
+    second: gombocaura_251
+  - first:
+      213: -7093774686963435837
+    second: gombocaura_252
+  - first:
+      213: -2588971475154146964
+    second: gombocaura_253
+  - first:
+      213: 7451477214040527049
+    second: gombocaura_254
+  - first:
+      213: 8452997175153715283
+    second: gombocaura_255
+  - first:
+      213: 1258489454655993128
+    second: gombocaura_256
+  - first:
+      213: 7099112630611910026
+    second: gombocaura_257
+  - first:
+      213: 2362722040765843083
+    second: gombocaura_258
+  - first:
+      213: -8989310457215972690
+    second: gombocaura_259
+  - first:
+      213: -5048073050108989623
+    second: gombocaura_260
+  - first:
+      213: -4245991437879723615
+    second: gombocaura_261
+  - first:
+      213: 3118042054219498331
+    second: gombocaura_262
+  - first:
+      213: 7891361262416205337
+    second: gombocaura_263
+  - first:
+      213: -9179758419823819721
+    second: gombocaura_264
+  - first:
+      213: 8510514503658672097
+    second: gombocaura_265
+  - first:
+      213: -7313659515128517494
+    second: gombocaura_266
+  - first:
+      213: 4849527895323571325
+    second: gombocaura_267
+  - first:
+      213: 7572593809598206379
+    second: gombocaura_268
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: gombocaura_0
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 897
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0db7a5d27e0bdd1d0800000000000000
+      internalID: -3324306442984719408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_1
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 855
+        width: 43
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ed134e023faf1d00800000000000000
+      internalID: 945667076293598688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_2
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 874
+        width: 37
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2895a720fee82e830800000000000000
+      internalID: 4098995768050473346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_3
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 883
+        width: 41
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5af2e69a07e5edcc0800000000000000
+      internalID: -3684403607170568283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_4
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 889
+        width: 27
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f65fcaa5977ac7d80800000000000000
+      internalID: -8251536277595425425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_5
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 881
+        width: 27
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2abfec2c2e1f83ac0800000000000000
+      internalID: -3875081523119064158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_6
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 877
+        width: 58
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6871695b5645e4ae0800000000000000
+      internalID: -1563219224836040826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_7
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 905
+        width: 46
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b4b1cf74ad60f360800000000000000
+      internalID: 7201376357450888370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_8
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 901
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69ad6f54f48b7ad80800000000000000
+      internalID: -8239414342635300202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_9
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 893
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bdde501b9600c180800000000000000
+      internalID: -9097263984224051791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_10
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 885
+        width: 86
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80adeccd6a8280de0800000000000000
+      internalID: -1366797789772719608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_11
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 769
+        width: 139
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4642f1dfb28ef11c0800000000000000
+      internalID: -4530647424483515292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_12
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 869
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a390f248012b1760800000000000000
+      internalID: 7429568329644282788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_13
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 865
+        width: 55
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a2f1affd5c6dc740800000000000000
+      internalID: 5173910697895129767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_14
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 885
+        width: 41
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b66c77475df25000800000000000000
+      internalID: 23359499393590965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_15
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 879
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbbcb08bbbaac02c0800000000000000
+      internalID: -4464005407407617093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_16
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 865
+        width: 40
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7a82b4bdf5b7f970800000000000000
+      internalID: 8788693299099765375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_17
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 839
+        width: 60
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ac80b377f117e3d0800000000000000
+      internalID: -3177551257591051095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_18
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 861
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9045ca75874b561e0800000000000000
+      internalID: -2205158013568003063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_19
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 881
+        width: 64
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b4d8d2fcde61e040800000000000000
+      internalID: 4675139783433442488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_20
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 864
+        width: 60
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eb6969c10b592410800000000000000
+      internalID: 1452792418035919840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_21
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 852
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44c19ba08c8971950800000000000000
+      internalID: 6419767778780716100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_22
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 801
+        width: 35
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e09d6a158b906f2f0800000000000000
+      internalID: -939552785011648242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_23
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 865
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4df6857de6f0d2110800000000000000
+      internalID: 1237662441330470868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_24
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 826
+        width: 47
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c76f6edb0963a0870800000000000000
+      internalID: 8649786029607679612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_25
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 853
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 420484142289faf50800000000000000
+      internalID: 6894896827419082788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_26
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 818
+        width: 45
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7005d87900e1af930800000000000000
+      internalID: 4177684592231010311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_27
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 868
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5edd7e000e7940190800000000000000
+      internalID: -7997100049959494171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_28
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 832
+        width: 58
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d98cdaf5ca54a7dc0800000000000000
+      internalID: -3640520742133708643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_29
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 865
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a50c1c016b731730800000000000000
+      internalID: 3968651353388746146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_30
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 855
+        width: 39
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0295dc3c97ebb5210800000000000000
+      internalID: 1322860345748707616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_31
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 850
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af1f41d9866e0efb0800000000000000
+      internalID: -4620439880695746054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_32
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 779
+        width: 24
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caa50e43ffe0f9980800000000000000
+      internalID: -8530082679949862228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_33
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 781
+        width: 28
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 795a35c5d6df6f630800000000000000
+      internalID: 3960631568461178263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_34
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 800
+        width: 25
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97b969d6be3200790800000000000000
+      internalID: -7566007879919559815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_35
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 819
+        width: 45
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2087c2d652a3ec1d0800000000000000
+      internalID: -3328659142160386046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_36
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 787
+        width: 39
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a55beea2b6ef55e00800000000000000
+      internalID: 1033011425786639706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_37
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 791
+        width: 62
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 500cdd6fa01bd8af0800000000000000
+      internalID: -392462931861848059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_38
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 831
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0204777325b853d0800000000000000
+      internalID: -3217622769823645173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_39
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 791
+        width: 89
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e2d109142307f700800000000000000
+      internalID: 573930931086283497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_40
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 825
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60d21aff657d69740800000000000000
+      internalID: 5158547191855394054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_41
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 781
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f69b159b428fc9610800000000000000
+      internalID: 1629450001812928879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_42
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 782
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da96c61d001ada180800000000000000
+      internalID: -9102442246960289363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_43
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 792
+        width: 39
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3bba6c9a1023c690800000000000000
+      internalID: -7583182048896304323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_44
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 803
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aba65a5f6fbe392f0800000000000000
+      internalID: -967170049038783814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_45
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 790
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bffe74307e21e9980800000000000000
+      internalID: -8530359860791349253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_46
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 780
+        width: 47
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2799ae92670e85440800000000000000
+      internalID: 4924932990643640690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_47
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 755
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 959d75c87faf657d0800000000000000
+      internalID: -2929878566439495335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_48
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 789
+        width: 49
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c850be9f0b8dfd00800000000000000
+      internalID: 1008114790803986626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_49
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 791
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6306f482a6ebc73d0800000000000000
+      internalID: -3207479471442534346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_50
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 798
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 035ff8235fa71ced0800000000000000
+      internalID: -2395498333250521808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_51
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 778
+        width: 50
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90acbebb1f96c8bf0800000000000000
+      internalID: -320764986489320951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_52
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 774
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b3c3ec13e965bfc0800000000000000
+      internalID: -3479758712910658638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_53
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 761
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a2bbc1208bf0ad10800000000000000
+      internalID: 2134982751114998434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_54
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 770
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1ac3ceae029a0e70800000000000000
+      internalID: 9082232190305290783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_55
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 763
+        width: 25
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4b2c65d1e9969c10800000000000000
+      internalID: 2060003074795907915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_56
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 749
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd9c418f2a53bb060800000000000000
+      internalID: 6970223822349060575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_57
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 747
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0e34be3af5a70ff0800000000000000
+      internalID: -69904774988546546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_58
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 754
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99535dc3eadd81900800000000000000
+      internalID: 655517486197061017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_59
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 775
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4391336302af3fa90800000000000000
+      internalID: -7281201156272744140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_60
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 748
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bb118af1fb15ec20800000000000000
+      internalID: 3235022633439402935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_61
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 761
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76834391855325060800000000000000
+      internalID: 6940668628227602535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_62
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 769
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 103a994eeea4b6920800000000000000
+      internalID: 2984561567961031425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_63
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 752
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a92682347dcd86d0800000000000000
+      internalID: -2986505078929217116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_64
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 750
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db5f77fcde8390120800000000000000
+      internalID: 2380496472081167805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_65
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 765
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deab0dc78852a02f0800000000000000
+      internalID: -1005950298624050451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_66
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 729
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5ca0cd96e12ec510800000000000000
+      internalID: 1571230594371726430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_67
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 752
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9646aa49cad665130800000000000000
+      internalID: 3555149543851582569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_68
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 735
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60492a0c966750250800000000000000
+      internalID: 5910260282569167878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_69
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 733
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58621e4d5c8bfa320800000000000000
+      internalID: 2571477072071435909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_70
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 749
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b60f378e8f7db730800000000000000
+      internalID: 4016506692815488694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_71
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 738
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ceb361348c418d80800000000000000
+      internalID: -8250228911718023482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_72
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 738
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea4cbedbf5e6a1e00800000000000000
+      internalID: 1016246023412761774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_73
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 744
+        width: 45
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e40e01013c28fd6a0800000000000000
+      internalID: -6422270769307262898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_74
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 737
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 333fbff9202a70540800000000000000
+      internalID: 4974122445611725619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_75
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 729
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0265f614ffbb7af80800000000000000
+      internalID: -8095295100186307040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_76
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 741
+        width: 79
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32001064d1713bf20800000000000000
+      internalID: 3437116355109781539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_77
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 717
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b716cdf5b1ae7ea20800000000000000
+      internalID: 3091697072506429819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_78
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 718
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d07d3f8d3595a05c0800000000000000
+      internalID: -4248485081813625075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_79
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 699
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 747fba4f7626796b0800000000000000
+      internalID: -5289651038697294009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_80
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 727
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a90935ff45f4351c0800000000000000
+      internalID: -4516178774842961766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_81
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 715
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c72b05b50459b4880800000000000000
+      internalID: -8625636557655592324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_82
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 723
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97822b72e8708f510800000000000000
+      internalID: 1583023576153467001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_83
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 710
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e81e858027ba636e0800000000000000
+      internalID: -1858109289989086834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_84
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 708
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8361fc0660d4f5a0800000000000000
+      internalID: -6488332026411654261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_85
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 719
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e79c194dbf6aaadb0800000000000000
+      internalID: -4779824453967033986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_86
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 707
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 117b0c5f65b30a250800000000000000
+      internalID: 5953823952060069649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_87
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 719
+        width: 78
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6568ac5755abd2d90800000000000000
+      internalID: -7120830559591692714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_88
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 635
+        width: 24
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1057e57dbcc483f0800000000000000
+      internalID: -899368911468277732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_89
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 636
+        width: 23
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05856cb5dd1da76d0800000000000000
+      internalID: -2991848253776570288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_90
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 677
+        width: 14
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca77ee171ebb9c070800000000000000
+      internalID: 8127233579520260012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_91
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 668
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2d0d74097af7e8f0800000000000000
+      internalID: -511164635009970900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_92
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 675
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdd9295b63d22dd00800000000000000
+      internalID: 995908180600069595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_93
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 663
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb22cb97138e1cf40800000000000000
+      internalID: 5747129898694877887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_94
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 653
+        width: 35
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77751e7f37b13b390800000000000000
+      internalID: -7803863544409008265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_95
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 676
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85d390ab4bb7c40b0800000000000000
+      internalID: -5743079408658727592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_96
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 671
+        width: 52
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f678421027b8b01d0800000000000000
+      internalID: -3383457373277091985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_97
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 669
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fada1336a86ff8130800000000000000
+      internalID: 3571344103758212527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_98
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 685
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d104636d598573850800000000000000
+      internalID: 6356646799623995421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_99
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 553
+        width: 130
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4e0c31337d0c2500800000000000000
+      internalID: 372687657563328075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_100
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 615
+        width: 38
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51d2a07767120c560800000000000000
+      internalID: 7331896986046180629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_101
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 631
+        width: 71
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56a84a3cd291472b0800000000000000
+      internalID: -5587813553313379739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_102
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 605
+        width: 49
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad287b374445ede00800000000000000
+      internalID: 1071386414336672474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_103
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 639
+        width: 45
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb11166f6a8c2e280800000000000000
+      internalID: -9015422884618628677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_104
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 625
+        width: 20
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05cef6e72dd6e9990800000000000000
+      internalID: -7377338388754469808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_105
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 627
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3c377bd49e786070800000000000000
+      internalID: 8099863107628121147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_106
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 531
+        width: 54
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96fbbd43898f620d0800000000000000
+      internalID: -3447795132100001943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_107
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 563
+        width: 53
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f3ecda3bfc26fd00800000000000000
+      internalID: 1006041024299852786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_108
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 588
+        width: 38
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca2ffdb04e9a4f180800000000000000
+      internalID: -9082447751582584148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_109
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 604
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bef2db9cdd757030800000000000000
+      internalID: 3491835472556261045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_110
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 585
+        width: 74
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e5ac4eda2e73de70800000000000000
+      internalID: 9138786791448159713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_111
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 537
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db29cfd55428a0db0800000000000000
+      internalID: -4824900816332877123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_112
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 545
+        width: 39
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf4952a40564ba6a0800000000000000
+      internalID: -6436973931740687109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_113
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 525
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a98eff54bc371d9f0800000000000000
+      internalID: -445447571243013990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_114
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 543
+        width: 59
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07d4cf6b2a800a510800000000000000
+      internalID: 1558254966017903984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_115
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 541
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d664554e7fb53f1e0800000000000000
+      internalID: -2165285875589233043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_116
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 547
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48d44650141694d80800000000000000
+      internalID: -8265968709170606716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_117
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 559
+        width: 57
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4e60c085fe4a7a90800000000000000
+      internalID: -7315447828375900598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_118
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 545
+        width: 49
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80fd6676edd80b790800000000000000
+      internalID: -7516351791724306680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_119
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 517
+        width: 40
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f28672698007f5e0800000000000000
+      internalID: -1876030129714068748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_120
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 519
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d53043d6923c43f0800000000000000
+      internalID: -915301000892369452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_121
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 527
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e74e1aa257792a520800000000000000
+      internalID: 2711896455112680574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_122
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 522
+        width: 37
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abc2e936b3f2bec00800000000000000
+      internalID: 930889680103025850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_123
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 500
+        width: 76
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e236611606d26b010800000000000000
+      internalID: 1204199842337153838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_124
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 525
+        width: 61
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f80449ba9daba4fb0800000000000000
+      internalID: -4662709020139437937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_125
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 487
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7a573728296b6f40800000000000000
+      internalID: 5722783372681894523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_126
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 476
+        width: 31
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a0bc63207ce324d0800000000000000
+      internalID: -3160422547109138272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_127
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 531
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8117242b94758dec0800000000000000
+      internalID: -3541985132891967208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_128
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 477
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78ad70b5f2dcab4f0800000000000000
+      internalID: -812111179512554873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_129
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 516
+        width: 60
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56f8f9451fac19ce0800000000000000
+      internalID: -1400114871279841435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_130
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 531
+        width: 57
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d51b39ebb2d7436f0800000000000000
+      internalID: -705801614755909283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_131
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 479
+        width: 19
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0b34ad6329b60130800000000000000
+      internalID: 3532714519533206284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_132
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 511
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1f35131449043b80800000000000000
+      internalID: -8416091615666028774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_133
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 476
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff1961e62a1272080800000000000000
+      internalID: -9212357531247668737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_134
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 477
+        width: 54
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dbab791e4dabab30800000000000000
+      internalID: 4299720820201860055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_135
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 461
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41fa234da5d9635c0800000000000000
+      internalID: -4236025386062663916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_136
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 465
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eab7b0334b67c1520800000000000000
+      internalID: 2674142795073813422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_137
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 462
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46d0d59bd2f1fb8c0800000000000000
+      internalID: -3981429264328356508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_138
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 462
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e02151cd70ebbc750800000000000000
+      internalID: 6326359042538410510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_139
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 484
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4080bd9ffb8a54a30800000000000000
+      internalID: 4198947770076956676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_140
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 438
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 714f37763a80b6310800000000000000
+      internalID: 1399221607137014807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_141
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 413
+        width: 84
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f3cade6f01228e80800000000000000
+      internalID: -8177937623183342603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_142
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 415
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5ffaa335c4542af0800000000000000
+      internalID: -422119259113848998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_143
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 441
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d64d8a33732cbcb0800000000000000
+      internalID: -4846960121146947884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_144
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 409
+        width: 78
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f53b770c2998aed00800000000000000
+      internalID: 1002765130430657375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_145
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 331
+        width: 121
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9751c0c230760220800000000000000
+      internalID: 2451770410434385823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_146
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 362
+        width: 64
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9de1290163bdf87c0800000000000000
+      internalID: -4066790913239540007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_147
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 399
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e28af2971268288a0800000000000000
+      internalID: -6304329050040063954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_148
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 389
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2914887c94d848c40800000000000000
+      internalID: 5513687191828054418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_149
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 401
+        width: 61
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83c5c491bca6a3250800000000000000
+      internalID: 5925165680294648888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_150
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 379
+        width: 59
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04696961c2007c910800000000000000
+      internalID: 1857453560671147584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_151
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 363
+        width: 51
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b2f766fd2f6d9ad0800000000000000
+      internalID: -2693874758899469644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_152
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 352
+        width: 57
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62acb1e21236c3e90800000000000000
+      internalID: -7044646722955654618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_153
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 383
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d04df2bc085cf4cf0800000000000000
+      internalID: -265776696036174835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_154
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 361
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a57abc16ce1e8c330800000000000000
+      internalID: 3731480696645723994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_155
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 355
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df592c76b6cf32d60800000000000000
+      internalID: 7864406912551523837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_156
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 348
+        width: 21
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3016e061434b290b0800000000000000
+      internalID: -5723314040633138941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_157
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 325
+        width: 55
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43df8c317af7db4b0800000000000000
+      internalID: -5423038020716004044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_158
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 321
+        width: 74
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 098356d2a22ea6ce0800000000000000
+      internalID: -1411066862449117040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_159
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 231
+        width: 130
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd48ae552c9c74a80800000000000000
+      internalID: -8482589536626768677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_160
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 321
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca9034f98c2de9280800000000000000
+      internalID: -9034552043351373396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_161
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 278
+        width: 20
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83e26cac3c1b12110800000000000000
+      internalID: 1234463227354951224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_162
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 305
+        width: 63
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c5611b3dc8571f70800000000000000
+      internalID: 9157886005763728836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_163
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 305
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74abf40a45db8c480800000000000000
+      internalID: -8878638494196450745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_164
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 298
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37e989b3888b9e970800000000000000
+      internalID: 8784755443417783923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_165
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 275
+        width: 46
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40ce1529d0fb26290800000000000000
+      internalID: -7898540731444106236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_166
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 271
+        width: 72
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc87ccf19f4d7faa0800000000000000
+      internalID: -6127194601568831285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_167
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 251
+        width: 23
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11f5f99bab4c3ae90800000000000000
+      internalID: -7015547488255910127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_168
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 249
+        width: 25
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6172284c82622de50800000000000000
+      internalID: 6832565541211875094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_169
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 250
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a7dde69101f13840800000000000000
+      internalID: 5202204033719064485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_170
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 247
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8c6a44444b519990800000000000000
+      internalID: -7381017965521900406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_171
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 249
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92a85aeb029202270800000000000000
+      internalID: 8223618140192737833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_172
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 271
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc449aa812d9fc1b0800000000000000
+      internalID: -5634111841431370549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_173
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 253
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65a9092472c73cd50800000000000000
+      internalID: 6756380374048217686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_174
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 243
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6553e1d3f98f11780800000000000000
+      internalID: -8713910441176320682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_175
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 224
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f38c798dae7da8d0800000000000000
+      internalID: -2833469306745093136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_176
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 229
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3e5a8976ce9d9490800000000000000
+      internalID: -7737854009472819652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_177
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 219
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba13cd5ea145891a0800000000000000
+      internalID: -6802594762640838229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_178
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 239
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c0d3b105d1d89040800000000000000
+      internalID: 4654700927674208450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_179
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 229
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b2be31a5828f1050800000000000000
+      internalID: 5773476757759767219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_180
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 217
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13374bf1b559b55f0800000000000000
+      internalID: -766855092930055375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_181
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 239
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14b3b7a8b9283c680800000000000000
+      internalID: -8735995247613756607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_182
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 219
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33c1812308b35a5b0800000000000000
+      internalID: -5357810759905043405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_183
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 217
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89c2bb4eb610fd550800000000000000
+      internalID: 6187665975940951192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_184
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 231
+        width: 13
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c7a69e09ced16680800000000000000
+      internalID: -8763478444771727420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_185
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 201
+        width: 80
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 595c3934a6deeaa80800000000000000
+      internalID: -8453558409871768171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_186
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 193
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 585d794818a50e380800000000000000
+      internalID: -8944049347635980923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_187
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 201
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1807ceac11e5990d0800000000000000
+      internalID: -3415595411871862655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_188
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 201
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 533920c956cbd4d20800000000000000
+      internalID: 3264472449508610869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_189
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 215
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16a819b2a0b524aa0800000000000000
+      internalID: -6178275639560140191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_190
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 200
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e5cd3fe470fdb140800000000000000
+      internalID: 4737206768084305376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_191
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 209
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09d45429cac426120800000000000000
+      internalID: 2405569455041367440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_192
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 197
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f9fd669790c68400800000000000000
+      internalID: 326159780327324148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_193
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 208
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dd280d999d2b7c70800000000000000
+      internalID: 8969813220626279889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_194
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 191
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03f94ed61388679b0800000000000000
+      internalID: -5082725383562551504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_195
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 209
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5beb34a2087a4940800000000000000
+      internalID: 5281165465785985884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_196
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 183
+        width: 81
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30e0ea3454a8353c0800000000000000
+      internalID: -4371998783153762813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_197
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 167
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6feb59f0776e303a0800000000000000
+      internalID: -6700258421560197386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_198
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 167
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd14a04552bd5c5d0800000000000000
+      internalID: -3042785019848670755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_199
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 191
+        width: 33
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0eb3fbc69a591e60800000000000000
+      internalID: 7933471822303182351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_200
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 155
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8b545e9e24a3c240800000000000000
+      internalID: 4810869347093601165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_201
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 144
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5828c981ffefb8090800000000000000
+      internalID: -8031045138902121851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_202
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 171
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d94b7a1c09659cb80800000000000000
+      internalID: -8374066852394453859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_203
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 184
+        width: 44
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40562ff4cf3caab00800000000000000
+      internalID: 840699768898479364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_204
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 189
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccd6e6ac8e8fc7f00800000000000000
+      internalID: 1116040486393376204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_205
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 171
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49c6a90b8a88b1e70800000000000000
+      internalID: 9087006931248901268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_206
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 170
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9af463221def8b5e0800000000000000
+      internalID: -1893483469133688919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_207
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 185
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b0c70285ed2b1180800000000000000
+      internalID: -9143664154693353295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_208
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 155
+        width: 52
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe1dc5cf622d99550800000000000000
+      internalID: 6168192229545136623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_209
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 185
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 769c3754120594f10800000000000000
+      internalID: 2254421192305002855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_210
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 185
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c86a92857dabd780800000000000000
+      internalID: -8657135138475710263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_211
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 173
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8727ec53d869b2590800000000000000
+      internalID: -7697893604822453640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_212
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 159
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59bae60ec343a85d0800000000000000
+      internalID: -3059575560776799339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_213
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 147
+        width: 51
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 420c0bd600ab44520800000000000000
+      internalID: 2685475788822724644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_214
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 86
+        width: 75
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47fa0e1371de18120800000000000000
+      internalID: 2414471559124135796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_215
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 152
+        width: 48
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d908f3466d3f1170800000000000000
+      internalID: 8151301360000174547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_216
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 52
+        width: 139
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a5be1947f5f67ab0800000000000000
+      internalID: -5010547092970621528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_217
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 89
+        width: 47
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99b9481e4b0c33db0800000000000000
+      internalID: -4813291693618717799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_218
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 169
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 979edf28ceae41b70800000000000000
+      internalID: 8868971867730209145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_219
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 152
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25f4ce32bbfce4f80800000000000000
+      internalID: -8120324675433902254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_220
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 137
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3973c40f10726a600800000000000000
+      internalID: 479113299641513875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_221
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 121
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d1613f41567b2e20800000000000000
+      internalID: 3326882841336308185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_222
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 119
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53148f700e96e6570800000000000000
+      internalID: 8461817160803041589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_223
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 135
+        width: 30
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cb40dadd975aba00800000000000000
+      internalID: 773026621540027336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_224
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 125
+        width: 49
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d76dfd3b36dece50800000000000000
+      internalID: 6831633234699053012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_225
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 129
+        width: 48
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa4a1720e14392da0800000000000000
+      internalID: -5969182527608216401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_226
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 107
+        width: 61
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 557a0900e1779d650800000000000000
+      internalID: 6258164127950219093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_227
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 85
+        width: 39
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b01a18f499f08f710800000000000000
+      internalID: 1727147608234893579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_228
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 135
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bbdcf55af8169b40800000000000000
+      internalID: 5446568262814718896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_229
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 129
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e44d674b795f7880800000000000000
+      internalID: -8611065576494906136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_230
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 85
+        width: 22
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38fa2d5d696e5bb20800000000000000
+      internalID: 3149677049922367363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_231
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 89
+        width: 26
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beb22cd6e905d85c0800000000000000
+      internalID: -4211621435145049109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_232
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 136
+        width: 40
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a20392623f5286020800000000000000
+      internalID: 2335158133039116330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_233
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 137
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e88ba8db1a339d700800000000000000
+      internalID: 565539997974444174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_234
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 137
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9fa6c8fea797cc90800000000000000
+      internalID: -7149579105673498726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_235
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 97
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a5a04b983d2c9530800000000000000
+      internalID: 3863012301523166624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_236
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 94
+        width: 50
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39a2818facefb11e0800000000000000
+      internalID: -2225905443105396077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_237
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 55
+        width: 59
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7040d4e47c2fa59f0800000000000000
+      internalID: -478803472535452665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_238
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 78
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8346d2f397ccff6f0800000000000000
+      internalID: -648575000195013576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_239
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 101
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 330871f03ae368310800000000000000
+      internalID: 1406880803653648435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_240
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 79
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 090b46f548f11e650800000000000000
+      internalID: 6260319610418278544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_241
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 77
+        width: 46
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73702d61861560480800000000000000
+      internalID: -8933363303341488329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_242
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 55
+        width: 60
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 406adf69226e299d0800000000000000
+      internalID: -2768897784642951676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_243
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 88
+        width: 44
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 715b1085ff027acc0800000000000000
+      internalID: -3699952287796316905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_244
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 76
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18a109ea72facad50800000000000000
+      internalID: 6749962526488795777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_245
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 81
+        width: 41
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8870de5bd5e5d790800000000000000
+      internalID: -7505840473591744372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_246
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 70
+        width: 40
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 131290a90efae2ea0800000000000000
+      internalID: -5895581482989575887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_247
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 51
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c08d6f5a4e2c65610800000000000000
+      internalID: 1609688204124280844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_248
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 59
+        width: 39
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4009919e7d92df540800000000000000
+      internalID: 5043233165030297604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_249
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 66
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac2bd48adc9eefaf0800000000000000
+      internalID: -360593850641829174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_250
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 64
+        width: 36
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 409848a3f36a3bac0800000000000000
+      internalID: -3840543266721986300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_251
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 65
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f846a7bb4767f590800000000000000
+      internalID: -7640524667909420814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_252
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 77
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c6f2e2b189dd8d90800000000000000
+      internalID: -7093774686963435837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_253
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 77
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6961d90920221cd0800000000000000
+      internalID: -2588971475154146964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_254
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 18
+        width: 43
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c09dcaeb07f86760800000000000000
+      internalID: 7451477214040527049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_255
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 52
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 358ea6815241f4570800000000000000
+      internalID: 8452997175153715283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_256
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 63
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8257852cd7d077110800000000000000
+      internalID: 1258489454655993128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_257
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 43
+        width: 43
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8d9c18235d158260800000000000000
+      internalID: 7099112630611910026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_258
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 39
+        width: 58
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8685d68d231ac020800000000000000
+      internalID: 2362722040765843083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_259
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 5
+        width: 27
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaa00fd34cd8f3380800000000000000
+      internalID: -8989310457215972690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_260
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 16
+        width: 40
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94fe7088e44a1f9b0800000000000000
+      internalID: -5048073050108989623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_261
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 61
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a934d198453315c0800000000000000
+      internalID: -4245991437879723615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_262
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 17
+        width: 37
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b538b7c6ab2854b20800000000000000
+      internalID: 3118042054219498331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_263
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 50
+        width: 25
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9169898024fb38d60800000000000000
+      internalID: 7891361262416205337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_264
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 15
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73400868a52fa9080800000000000000
+      internalID: -9179758419823819721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_265
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 3
+        width: 27
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ef8266b9db6b1670800000000000000
+      internalID: 8510514503658672097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_266
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 31
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8ceb90ab69a08a90800000000000000
+      internalID: -7313659515128517494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_267
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 5
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d74fb194debfc4340800000000000000
+      internalID: 4849527895323571325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gombocaura_268
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 0
+        width: 46
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba15c61d2f1471960800000000000000
+      internalID: 7572593809598206379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,20 +1,20 @@
 fileFormatVersion: 2
-guid: d6582037ba84cd647bc34ed5cb936219
+guid: c9f6e2556cf31e8489d1d44c2336773c
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 7673583948137070292
-    second: korso3_0
+      213: 5956013267948729495
+    second: kulsoskin_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
     mipMapMode: 0
-    enableMipMap: 0
+    enableMipMap: 1
     sRGBTexture: 1
     linearTexture: 0
     fadeOut: 0
     borderMipMap: 0
-    mipMapsPreserveCoverage: 0
+    mipMapsPreserveCoverage: 1
     alphaTestReferenceValue: 0.5
     mipMapFadeDistanceStart: 1
     mipMapFadeDistanceEnd: 3
@@ -37,16 +37,16 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 2
     aniso: 1
     mipBias: 0
-    wrapU: 1
-    wrapV: 1
-    wrapW: 1
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -113,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: korso3_0
+      name: kulsoskin_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 150
-        height: 218
+        width: 957
+        height: 87
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 4de79d6c1fb0e7a60800000000000000
-      internalID: 7673583948137070292
+      spriteID: 794f899c28208a250800000000000000
+      internalID: 5956013267948729495
       vertices: []
       indices: 
       edges: []
@@ -138,7 +138,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 5e97eb03825dee720800000000000000
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
@@ -148,7 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      korso3_0: 7673583948137070292
+      kulsoskin_0: 5956013267948729495
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

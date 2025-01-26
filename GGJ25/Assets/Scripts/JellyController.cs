@@ -5,7 +5,7 @@ using System.Linq;
 using DefaultNamespace;
 using NUnit.Framework;
 using UnityEngine.Serialization;
-
+using Unity.Collections;
 
 public class JellyController : MonoBehaviour
 {
@@ -45,9 +45,13 @@ public class JellyController : MonoBehaviour
     public float dampingForce = 5f;
 
     public float slipVelocityThreshold = 1f;
+
+    [ReadOnly]
     public float slipVelocity = 0f;
 
     private Transform rotator;  
+
+    private Transform sprite;
 
     [System.Serializable]
     public class PointDataHolder 
@@ -66,6 +70,7 @@ public class JellyController : MonoBehaviour
     {
         rigidBody = GetComponent<Rigidbody2D>();
         rotator = transform.Find("Rotator");
+        sprite = transform.Find("Sprite");
     }
 
     public void Start()
@@ -89,32 +94,33 @@ public class JellyController : MonoBehaviour
     public List<CircleCollider2D> GetColliders()
     {
         var res = new List<CircleCollider2D>();
-        //GetComponentsInChildren<CircleCollider2D>(res);
-        var t = transform;
-        int cnt = t.childCount;
-        for (int i = 0; i < cnt; i++)
+        foreach (Transform child in transform)
         {
-            var child = t.GetChild(i);
-            if (child.name == "Rotator")
-                continue;
-            var cc = child.GetComponent<CircleCollider2D>();
-            if (cc == null)
-                continue;
-
-            res.Add(cc);
+            if (child.name != "Rotator" && child.name != "Sprite" && child.name != "auraSprite")
+            {
+                var collider = child.GetComponent<CircleCollider2D>();
+                if (collider != null)
+                {
+                    res.Add(collider);
+                }
+            }
         }
-        //for (int i = 0; i < res.Count; i++)
-        //{
-        //    if (res[i].gameObject == this.gameObject || res[i].transform.name == "Rotator" || res[i].transform.parent != transform)
-        //    {
-        //        res[i] = res[res.Count - 1];
-        //        res.RemoveAt(res.Count - 1);
-        //        i--;
-        //    }
-            
-        //}
-
         return res;
+    }
+
+    private void UpdateRotatorTransform(Transform rotatorTransform)
+    {
+        if (dataHolders.Count == 0 || rotatorTransform == null)
+            return;
+
+        // Get the direction from center to first point in world space
+        Vector2 direction = dataHolders[0].transform.position - transform.position;
+        
+        // Calculate the angle in degrees
+        float angle = Mathf.Atan2(direction.y, direction.x) * Mathf.Rad2Deg;
+        
+        // Apply the rotation locally
+        rotatorTransform.localRotation = Quaternion.Euler(0, 0, angle);
     }
 
     void Update()
@@ -131,22 +137,10 @@ public class JellyController : MonoBehaviour
             SetRadius(defaultRadius);
         }
 
+
+        UpdateRotatorTransform(rotator);
+        UpdateRotatorTransform(sprite);
         UpdateVerticies();
-        
-        // Update rotator position and orientation
-        if (rotator != null && dataHolders.Count > 0)
-        {
-            // Set position to first point
-            rotator.localPosition = dataHolders[0].transform.localPosition;
-            
-            // Calculate outward direction
-            Vector2 towardsCenter = (Vector2.zero - (Vector2)rotator.localPosition).normalized;
-            Vector2 tangent = new Vector2(-towardsCenter.y, towardsCenter.x); // Perpendicular vector (tangent)
-            
-            // Set rotation to point in tangential direction
-            float angle = Mathf.Atan2(tangent.y, tangent.x) * Mathf.Rad2Deg;
-            rotator.localRotation = Quaternion.Euler(0, 0, angle);
-        }
     }
 
     private float CalculateCurrentAngularVelocity()
@@ -249,22 +243,30 @@ public class JellyController : MonoBehaviour
     void UpdateVerticies()
     {
         var points = GetColliders();
+        var spriteTransform = spriteShape.transform;
+        Vector2 centerW = spriteTransform.position;
+       
         for (int i = 0; i < points.Count; i++)
         {
-            Vector2 vertex = points[i].transform.localPosition; // Changed to access transform through points[i]
-            Vector2 towardsCenter = (Vector2.zero - vertex).normalized;
+            Vector2 vertexW = points[i].transform.position; // Changed to access transform through points[i]
+            Vector2 vertexL = spriteTransform.InverseTransformPoint(vertexW);
+            Vector2 centerL = spriteTransform.InverseTransformPoint(centerW);
+            Vector2 towardsCenterL = (centerL - vertexL).normalized;
             float colliderRadius = points[i].radius; // Directly access radius from CircleCollider2D
             try
             {
-                spriteShape.spline.SetPosition(i, (vertex - towardsCenter * colliderRadius));
+                var splinePosL = (vertexL - towardsCenterL * colliderRadius);
+                spriteShape.spline.SetPosition(i, splinePosL);
             }
             catch
             {
                 Debug.Log("Spline points are too close to each other.. recalculate");
-                spriteShape.spline.SetPosition(i, (vertex - towardsCenter * (colliderRadius + splineOffset)));
+                var splinePosL = (vertexL - towardsCenterL * (colliderRadius + splineOffset));
+                spriteShape.spline.SetPosition(i, splinePosL);
             }
 
-            Vector2 newRt = -Vector2.Perpendicular(towardsCenter) * tangentSmoothing;
+
+            Vector2 newRt = -Vector2.Perpendicular(towardsCenterL) * tangentSmoothing;
 
             Vector2 newLt = Vector2.zero - (newRt);
             spriteShape.spline.SetRightTangent(i, newRt);

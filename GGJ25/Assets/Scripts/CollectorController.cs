@@ -6,14 +6,15 @@ using static Unity.VisualScripting.Metadata;
 
 public class CollectorController : MonoBehaviour
 {
-    private float size = 1f;
+    private float size = 0.5f;
     public float Size { get { return size; } }
     private Bounds bounds;
     [SerializeField] private GameObject aura;
+    [SerializeField] private Rigidbody2D stickyCenter;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
-        size = transform.localScale.magnitude;
+        size = 0.5f;
         bounds = GetComponent<Renderer>().bounds;
         foreach(Transform child in transform)
         {
@@ -31,16 +32,17 @@ public class CollectorController : MonoBehaviour
         aura.transform.localScale = Vector3.Lerp(aura.transform.localScale,new Vector3(largerAxisSize, largerAxisSize, 1f),Time.deltaTime);
     }
 
-    private void OnCollisionEnter2D(Collision2D collision)
+    private void OnTriggerEnter2D(Collider2D collision)
     {
         if (collision.gameObject.CompareTag("Collectible"))
         {
             EnemyController enemyController = collision.gameObject.GetComponent<EnemyController>();
 
-            if (collision.transform.localScale.magnitude <= size)
+            if (enemyController!=null && enemyController.GetGravityModifier()<= size)
             {
-                //collision.collider.gameObject.GetComponent<SpringJoint2D>().connectedBody = collision.otherCollider.attachedRigidbody;
-                collision.transform.parent = transform;
+                var newJoint= collision.gameObject.AddComponent<SpringJoint2D>();
+                newJoint.connectedBody = stickyCenter;
+                collision.transform.parent = stickyCenter.transform;
                 size += collision.transform.localScale.magnitude;
                 GameController.Instance.UpdateScore(size);
 

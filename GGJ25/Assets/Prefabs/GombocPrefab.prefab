@@ -476,7 +476,10 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2681608627836176338}
+<<<<<<< HEAD
   - component: {fileID: 4277700940371008016}
+=======
+>>>>>>> 43cf6b4804d4766a9645ea2553a98b74ae98cef2
   m_Layer: 0
   m_Name: Rotator
   m_TagString: Rotator
@@ -500,6 +503,7 @@ Transform:
   - {fileID: 2883816291140385577}
   m_Father: {fileID: 6692744360830133794}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
 --- !u!212 &4277700940371008016
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -556,6 +560,9 @@ SpriteRenderer:
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!1 &1772782922641363429
+=======
+--- !u!1 &1683640880513884472
+>>>>>>> 43cf6b4804d4766a9645ea2553a98b74ae98cef2
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -3214,7 +3221,11 @@ MonoBehaviour:
   tangetForceMod: 0.1
   maxAngularVelocity: 5
   dampingForce: 50
+<<<<<<< HEAD
   slipVelocityThreshold: 5
+=======
+  slipVelocityThreshold: 1
+>>>>>>> 43cf6b4804d4766a9645ea2553a98b74ae98cef2
   slipVelocity: 0
   dataHolders:
   - centerJoint: {fileID: 5630974258110747623}

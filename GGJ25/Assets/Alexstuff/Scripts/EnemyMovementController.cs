@@ -28,7 +28,7 @@ public class EnemyMovementController : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if((movementScriptableObject.NeedsToBeOnGround && isOnGround) || !movementScriptableObject.NeedsToBeOnGround)
+        if(GetComponent<Renderer>().isVisible && ((movementScriptableObject.NeedsToBeOnGround && isOnGround) || !movementScriptableObject.NeedsToBeOnGround))
         {
             RigidBody.AddForce(movementScriptableObject.MovementVector, ForceMode2D.Impulse);
             RigidBody.linearVelocity = Vector2.ClampMagnitude(RigidBody.linearVelocity, movementScriptableObject.MaxSpeed);

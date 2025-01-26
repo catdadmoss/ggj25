@@ -74,7 +74,7 @@ public class EnemyController : MonoBehaviour
 
     public void OnEnemyCollected()
     {
-        //Destroy(gameObject.GetComponent<Rigidbody2D>());
+        Destroy(gameObject.GetComponent<Rigidbody2D>());
 
         EnemyMovementController movementController = gameObject.GetComponent<EnemyMovementController>();
         if (movementController != null)
@@ -94,9 +94,10 @@ public class EnemyController : MonoBehaviour
             if (child.gameObject.layer == LayerMask.NameToLayer("EnemyMovement"))
             {
                 // Destroy(child.gameObject);
-                child.gameObject.SetActive(false);
+                //child.gameObject.SetActive(false);
                 Debug.Log(child.gameObject);
             }
+            child.gameObject.SetActive(false);
         }
 
         this.enabled = false;

@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      felhos_0: 5175149540128253123
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

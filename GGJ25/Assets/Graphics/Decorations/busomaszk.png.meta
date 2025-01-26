@@ -159,7 +159,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      busomaszk_0: 5778788021099740758
+      busomaszk_1: -8385317189403970164
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -44,10 +44,13 @@ public class JellyController : MonoBehaviour
     public float maxAngularVelocity = 10f;
     public float dampingForce = 5f;
 
+    public float slipVelocityThreshold = 1f;
+    public float slipVelocity = 0f;
+
     private Transform rotator;  
 
     [System.Serializable]
-    public class PointDataHolder
+    public class PointDataHolder 
     {
         public SpringJoint2D centerJoint;
         public List<SpringJoint2D> neighborJoints = new List<SpringJoint2D>();
@@ -113,6 +116,7 @@ public class JellyController : MonoBehaviour
         {
             SetRadius(defaultRadius);
         }
+
         UpdateVerticies();
         
         // Update rotator position and orientation
@@ -159,17 +163,38 @@ public class JellyController : MonoBehaviour
         Vector2 dampingDirection = pointVelocity > 0 ? tangent : -tangent;
         pointData.rigidBody.AddForce(dampingDirection * dampingForce * Mathf.Abs(pointVelocity) * Time.fixedDeltaTime);
     }
+    public float CalculateSlipVelocity()
+    {
+        if (!isFloored)
+            return 0f;
+            
+        Vector2 objectVelocity = rigidBody.linearVelocity;
+        float maxVelocity= 0f;
+        var objVelocity = objectVelocity.magnitude;
+        // Find max velocity difference between object and grounded points
+        foreach (var data in dataHolders)
+        {
+            if (data.groundDetector.isFloored)
+            {
+                maxVelocity = Mathf.Max(data.rigidBody.linearVelocity.magnitude, maxVelocity);
+            }
+        }
+        
+        return Mathf.Abs(maxVelocity - objVelocity);
+    }
 
     public void FixedUpdate()
     {
         if (isFloored)
         {
             float currentAngularVelocity = CalculateCurrentAngularVelocity();
+             slipVelocity = CalculateSlipVelocity();
             bool canAccelerate = Mathf.Abs(currentAngularVelocity) < maxAngularVelocity;
+            bool isSlipping = slipVelocity > slipVelocityThreshold;
             
             foreach (var pointData in dataHolders)
             {
-                if (!Mathf.Approximately(horizontalInput.x, 0))
+                if (!Mathf.Approximately(horizontalInput.x, 0) && !isSlipping)
                 {
                     if (canAccelerate)
                     {

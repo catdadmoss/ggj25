@@ -12,6 +12,7 @@ public class CollectorController : MonoBehaviour
     [SerializeField] private GameObject aura;
     [SerializeField] private Rigidbody2D stickyCenter;
     [SerializeField] private float innerGravityRange = 1;
+    [SerializeField] private AudioSource audioSource;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
@@ -56,6 +57,7 @@ public class CollectorController : MonoBehaviour
 
 
                 bounds.Encapsulate(parentObject.GetComponent<Renderer>().bounds);
+                audioSource.Play();
 
             }
         }

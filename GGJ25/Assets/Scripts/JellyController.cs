@@ -44,6 +44,8 @@ public class JellyController : MonoBehaviour
     public float maxAngularVelocity = 10f;
     public float dampingForce = 5f;
 
+    private Transform rotator;  
+
     [System.Serializable]
     public class PointDataHolder
     {
@@ -60,6 +62,7 @@ public class JellyController : MonoBehaviour
     public void Awake()
     {
         rigidBody = GetComponent<Rigidbody2D>();
+        rotator = transform.Find("Rotator");
     }
 
     public void Start()
@@ -86,7 +89,7 @@ public class JellyController : MonoBehaviour
         GetComponentsInChildren<CircleCollider2D>(res);
         for (int i = 0; i < res.Count; i++)
         {
-            if (res[i].gameObject == this.gameObject || res[i].gameObject.CompareTag("Mouth"))
+            if (res[i].gameObject == this.gameObject || res[i].transform.name == "Rotator")
             {
                 res[i] = res[res.Count - 1];
                 res.RemoveAt(res.Count - 1);
@@ -111,7 +114,21 @@ public class JellyController : MonoBehaviour
             SetRadius(defaultRadius);
         }
         UpdateVerticies();
- 
+        
+        // Update rotator position and orientation
+        if (rotator != null && dataHolders.Count > 0)
+        {
+            // Set position to first point
+            rotator.localPosition = dataHolders[0].transform.localPosition;
+            
+            // Calculate outward direction
+            Vector2 towardsCenter = (Vector2.zero - (Vector2)rotator.localPosition).normalized;
+            Vector2 tangent = new Vector2(-towardsCenter.y, towardsCenter.x); // Perpendicular vector (tangent)
+            
+            // Set rotation to point in tangential direction
+            float angle = Mathf.Atan2(tangent.y, tangent.x) * Mathf.Rad2Deg;
+            rotator.localRotation = Quaternion.Euler(0, 0, angle);
+        }
     }
 
     private float CalculateCurrentAngularVelocity()

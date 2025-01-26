@@ -8,6 +8,7 @@ TagManager:
   - Collectible
   - center
   - Mouth
+  - Rotator
   layers:
   - Default
   - TransparentFX
@@ -15,8 +16,8 @@ TagManager:
   - 
   - Water
   - UI
-  - EnemyMovement
-  - Gomboc
+  - 
+  - 
   - 
   - 
   - 

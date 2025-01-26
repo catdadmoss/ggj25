@@ -1,15 +1,15 @@
 fileFormatVersion: 2
-guid: 2c853752dffa8b543b77ba94be0e5c3d
+guid: 2f1cd3e3640e37e47b01fb923f1ebbbd
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -3170320050558582093
-    second: emberke_0
+      213: -8138557689427217760
+    second: imgonline-com-ua-TextureSeamless-SRCPbZU7MBLpG_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
     mipMapMode: 0
-    enableMipMap: 0
+    enableMipMap: 1
     sRGBTexture: 1
     linearTexture: 0
     fadeOut: 0
@@ -40,9 +40,9 @@ TextureImporter:
     filterMode: 1
     aniso: 1
     mipBias: 0
-    wrapU: 1
-    wrapV: 1
-    wrapW: 1
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
@@ -51,7 +51,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 500
+  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -113,44 +113,23 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: emberke_0
+      name: imgonline-com-ua-TextureSeamless-SRCPbZU7MBLpG_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 239
-        height: 724
+        width: 1711
+        height: 1168
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
-      physicsShape:
-      - - {x: -86.5, y: 268}
-        - {x: -41.5, y: 223}
-        - {x: -78.5, y: 142}
-        - {x: -83.5, y: 24}
-        - {x: -112.5, y: -8}
-        - {x: -100.5, y: -33}
-        - {x: -60.5, y: -38}
-        - {x: -38.5, y: -257}
-        - {x: -89.5, y: -332}
-        - {x: 7.5, y: -330}
-        - {x: 79.5, y: -322}
-        - {x: 51.5, y: -273}
-        - {x: 51.5, y: -24}
-        - {x: 83.5, y: -37}
-        - {x: 112.5, y: 7}
-        - {x: 72.5, y: 62}
-        - {x: 76.5, y: 174}
-        - {x: 29.5, y: 230}
-        - {x: 82.5, y: 287}
-        - {x: 57.5, y: 349}
-        - {x: -56.5, y: 340}
-      tessellationDetail: 0
+      physicsShape: []
+      tessellationDetail: -1
       bones: []
-      spriteID: 3b2482a06b2c004d0800000000000000
-      internalID: -3170320050558582093
+      spriteID: 0a2baa1c6e80e0f80800000000000000
+      internalID: -8138557689427217760
       vertices: []
       indices: 
       edges: []
@@ -159,7 +138,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: fbb54de7f1d8a714daf3aa6ef53e3e61
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
@@ -169,7 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      emberke_0: -3170320050558582093
+      imgonline-com-ua-TextureSeamless-SRCPbZU7MBLpG_0: -8138557689427217760
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
